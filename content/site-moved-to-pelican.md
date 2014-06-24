@@ -15,4 +15,6 @@ of what I can do with the blog, requires no php or database knowledge.
 
 Also, it makes it easier to share code. 
 
+Finally, I can version control the website using git.
+
 I love pelican!
