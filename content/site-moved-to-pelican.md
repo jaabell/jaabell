@@ -17,6 +17,9 @@ Pelican is a python powered static HTML generator. I set-up a heierarchy of fold
 my content. Web content is generated using the Markdown text syntax. Pelican uses these markdown
 files and the folder structure to generate the website HTML. 
 
+Static HTML has some advantages over a database with server-side logic based website. The most
+important for me is speed and low memory usage, because I want to host my own website. 
+
 Also, it makes it easier to share code. 
 
 Finally, I can version control the website using git.
