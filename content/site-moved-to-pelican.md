@@ -13,6 +13,10 @@ of what I can do with the blog, requires no php or database knowledge.
 
 <!--more-->
 
+Pelican is a python powered static HTML generator. I set-up a heierarchy of folders where I store
+my content. Web content is generated using the Markdown text syntax. Pelican uses these markdown
+files and the folder structure to generate the website HTML. 
+
 Also, it makes it easier to share code. 
 
 Finally, I can version control the website using git.
