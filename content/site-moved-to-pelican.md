@@ -5,7 +5,6 @@ Tags: pelican, blog, hacker
 Category: Tools
 Author: jaabell
 Lang: en
-Summary: I moved my site to pelican 
 
 Finally completed the transition from WordPress to Pelican. The moment was right. Pelican is more
 appropriate for me as it is much simpler to manage (I host my own webpage), more flexible in terms
