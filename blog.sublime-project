@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"name": "www.joseabell.com",
+			"path": "/home/jaabell/www/blog"
+		},
+		{
+			"path": "/home/jaabell/www/blogtheme"
+		},
+		{
+			"path": "/home/jaabell/www/pelican-themes/svbtle"
+		}
+	]
+}

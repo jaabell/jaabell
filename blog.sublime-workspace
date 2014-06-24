@@ -1,0 +1,2188 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"addload",
+				"add_load_element_self_weight	add_load_element_self_weight"
+			],
+			[
+				"H",
+				"hnonlin"
+			],
+			[
+				"addpi",
+				"add_material_New_PisanoLT_elastic_modulus	add_material_New_PisanoLT_elastic_modulus"
+			],
+			[
+				"addpisano",
+				"add_material_pisanoLT_elastic_modulus	add_material_pisanoLT_elastic_modulus"
+			],
+			[
+				"print",
+				"print_node_$1	print_node_$1"
+			],
+			[
+				"simtra",
+				"simulate_steps_using_transient_algorithm_time_step	simulate_steps_using_transient_algorithm_time_step"
+			],
+			[
+				"remo",
+				"remove_load_$1	remove_load_$1"
+			],
+			[
+				"getta",
+				"getTangentStiff()	const Matrix &"
+			],
+			[
+				"Eight",
+				"EightNodeBrickElastic	class"
+			],
+			[
+				"getE",
+				"getElement(int tag)	Element *"
+			],
+			[
+				"addmavonlt",
+				"add_material_vonmises_perfectly_plastic_LT_mass_density	add_material_vonmises_perfectly_plastic_LT_mass_density"
+			],
+			[
+				"addda",
+				"add_damping_element_$2	add_damping_element_$2"
+			],
+			[
+				"ra",
+				"rayl_a1"
+			],
+			[
+				"pdf",
+				"pdffile"
+			],
+			[
+				"ele",
+				"eleName	std::string"
+			],
+			[
+				"num",
+				"number_of_nodes	int"
+			],
+			[
+				"pro",
+				"processID	int"
+			],
+			[
+				"sim",
+				"simulate_steps_using_static_algorithm	simulate_steps_using_static_algorithm"
+			],
+			[
+				"leng",
+				"length_send	int"
+			],
+			[
+				"lengt",
+				"length_nodes_displacements_output	int"
+			],
+			[
+				"index",
+				"Index_to_Generalized_Displacements	ID"
+			],
+			[
+				"double",
+				"double_data_buffer	double *"
+			],
+			[
+				"Indextoe",
+				"Index_to_Gauss_Point_Coordinates	ID"
+			],
+			[
+				"Num",
+				"Number_of_Gauss_Points	ID"
+			],
+			[
+				"Eleme",
+				"Element_types	std::vector<std::string>"
+			],
+			[
+				"Indextoele",
+				"id_index_to_elements_output	hid_t"
+			],
+			[
+				"Index_",
+				"Index_to_Connectivity	ID"
+			],
+			[
+				"doubl",
+				"double_data_buffer	double *"
+			],
+			[
+				"posele",
+				"pos_elements_gausscoords	int"
+			],
+			[
+				"pos",
+				"pos_elements_gausscoords	int"
+			],
+			[
+				"len",
+				"length_element_output	int"
+			],
+			[
+				"POS_E",
+				"pos_elements_outputs	int"
+			],
+			[
+				"POSE",
+				"pos_elements_outputs	int"
+			],
+			[
+				"pos_node",
+				"pos_nodes_outputs	int"
+			],
+			[
+				"mode",
+				"model_name_tmp	string"
+			],
+			[
+				"Numb",
+				"Number_of_DOFs	ID"
+			],
+			[
+				"TwentyNodeBrickElastic",
+				"TwentyNodeBrickElastic_OUTPUT_SIZE	macro"
+			],
+			[
+				"Twe",
+				"TwentyNodeBrickElastic::P	Vector"
+			],
+			[
+				"Ele",
+				"Element_types	std::vector<std::string>"
+			],
+			[
+				"Number_of_",
+				"Number_of_Nodes	ID"
+			],
+			[
+				"p",
+				"push_back(const value_type &__x)	void"
+			],
+			[
+				"gaus",
+				"gausscoordinates	const Matrix &"
+			],
+			[
+				"n",
+				"noRows() const	int"
+			],
+			[
+				"Indexto",
+				"Index_to_Coordinates	ID"
+			],
+			[
+				"get",
+				"getGaussPts()	BJtensor"
+			],
+			[
+				"defin",
+				"define_convergence_test_Norm_Displacement_Increment_Energy_Increment_Norm_Unbalance	define_convergence_test_Norm_Displacement_Increment_Energy_Increment_Norm_Unbalance"
+			],
+			[
+				"define",
+				"define_load_factor_increment_$1	define_load_factor_increment_$1"
+			],
+			[
+				"addq",
+				"add_constraint_equal_dof	add_constraint_equal_dof"
+			],
+			[
+				"de",
+				"debugWait"
+			],
+			[
+				"ess",
+				"essi_feb_21_2014"
+			],
+			[
+				"times",
+				"timestring	char *"
+			],
+			[
+				"add",
+				"added_mass"
+			],
+			[
+				"fix",
+				"fix_node_dofs_$2	fix_node_dofs_$2"
+			],
+			[
+				"total",
+				"total_shear_relative_displ_n	Vector"
+			],
+			[
+				"shear",
+				"shearforce_trial_np1	Vector"
+			],
+			[
+				"addlp",
+				"add_load_node_path_time_series	add_load_node_path_time_series"
+			],
+			[
+				"defc",
+				"define_convergence_test_Norm_Displacement_Increment_Energy_Increment_Norm_Unbalance	define_convergence_test_Norm_Displacement_Increment_Energy_Increment_Norm_Unbalance"
+			],
+			[
+				"definecon",
+				"define_convergence_test_Norm_Displacement_Increment_Energy_Increment_Norm_Unbalance	define_convergence_test_Norm_Displacement_Increment_Energy_Increment_Norm_Unbalance"
+			],
+			[
+				"Kn",
+				"Kn_factor	double"
+			],
+			[
+				"norma",
+				"normalforce_np1	double"
+			],
+			[
+				"shea",
+				"shearforce_np1	Vector"
+			],
+			[
+				"Kt",
+				"Kt_locked	double"
+			],
+			[
+				"locked",
+				"is_locked	int"
+			],
+			[
+				"addloadnode",
+				"add_load_node_path_series	add_load_node_path_series"
+			],
+			[
+				"def",
+				"define_load_factor_increment_$1	define_load_factor_increment_$1"
+			],
+			[
+				"addmateruni",
+				"add_material_uniaxial_elastic_elastic_modulus	add_material_uniaxial_elastic_elastic_modulus"
+			],
+			[
+				"time",
+				"time(time_t *__timer)	time_t"
+			],
+			[
+				"createconsinteg",
+				"createConstantLengthIntegerArray(hid_t here, int rank, hsize_t *dims, hsize_t *maxdims, std::string name, std::string attribute)	hid_t"
+			],
+			[
+				"c",
+				"c_str() const	const _CharT *"
+			],
+			[
+				"getele",
+				"getElementName() const	std::string"
+			],
+			[
+				"Conta",
+				"ContactElement_3DOF_3DOF"
+			],
+			[
+				"Contacte",
+				"ContactElement_Nonlinear_3DOF_7DOF_h"
+			],
+			[
+				"Contac",
+				"ContactElement_Nonlinear_3DOF_3DOF"
+			],
+			[
+				"Eig",
+				"EightNodeBrickVariableGP"
+			],
+			[
+				"Ei",
+				"EightNodeBrickElastic"
+			],
+			[
+				"Pe",
+				"PenaltyElement"
+			],
+			[
+				"H5unl",
+				"H5S_UNLIMITED	macro"
+			],
+			[
+				"H5Tvar",
+				"H5T_VARIABLE	macro"
+			],
+			[
+				"H5Tcs",
+				"H5T_C_S1	macro"
+			],
+			[
+				"Eigh",
+				"EightNodeBrick_OUTPUT_SIZE	macro"
+			],
+			[
+				"addelemeelas",
+				"add_element_8NodeBrick_elastic_nodes	add_element_8NodeBrick_elastic_nodes"
+			],
+			[
+				"for",
+				"formOutput()	void"
+			],
+			[
+				"getStr",
+				"getStrainTensor()	const DTensor2 &"
+			],
+			[
+				"getSt",
+				"getStressTensor()	const DTensor2 &"
+			],
+			[
+				"idele",
+				"id_elements_output	hid_t"
+			],
+			[
+				"getO",
+				"getOutput() const	const Vector &"
+			],
+			[
+				"getoutpu",
+				"getOutputSize() const	int"
+			],
+			[
+				"Size",
+				"SizedVector1	Vector *"
+			],
+			[
+				"s",
+				"Size() const	int"
+			],
+			[
+				"id_el",
+				"id_elements_group	hid_t"
+			],
+			[
+				"Local",
+				"LocalForces	Vector"
+			],
+			[
+				"ad",
+				"addMatrixVector(double factThis, const Matrix &m, const Vector &v, double factOther)	int"
+			],
+			[
+				"ve",
+				"velocities	const Vector &"
+			],
+			[
+				"max",
+				"max_node_tag	int"
+			],
+			[
+				"cure",
+				"current_time_step	int"
+			],
+			[
+				"curre",
+				"current_time_step	int"
+			],
+			[
+				"id_nodes_",
+				"id_index_to_nodes_outputs	hid_t"
+			],
+			[
+				"id",
+				"id_nodes_ndofs	hid_t"
+			],
+			[
+				"writen",
+				"writeNumberOfElements(unsigned int numberOfElements_)	int"
+			],
+			[
+				"pos_nodes_",
+				"pos_nodes_coordinates	int"
+			],
+			[
+				"idno",
+				"id_nodes_group	hid_t"
+			],
+			[
+				"create",
+				"createVariableLengthDoubleArray(hid_t here, int rank, hsize_t *dims, hsize_t *maxdims, std::string name, std::string attribute)	hid_t"
+			],
+			[
+				"sta",
+				"stageName	std::string"
+			],
+			[
+				"file",
+				"fileName	std::string"
+			],
+			[
+				"fil",
+				"fileName	std::string"
+			],
+			[
+				"useI",
+				"useIndexDataset	bool"
+			],
+			[
+				"id_",
+				"id_dataset	hid_t"
+			],
+			[
+				"H5T_NATIVE_",
+				"H5T_NATIVE_DOUBLE	macro"
+			],
+			[
+				"size",
+				"sizeof_type	int"
+			],
+			[
+				"a1",
+				"a1_param"
+			],
+			[
+				"a0",
+				"a0_param"
+			],
+			[
+				"N",
+				"NSteps"
+			],
+			[
+				"defind",
+				"define_dynamic_integrator_Newmark_gamma_beta	define_dynamic_integrator_Newmark_gamma_beta"
+			],
+			[
+				"ESS",
+				"ESSI_OUTPUT_LEVEL_DETAILED	macro"
+			],
+			[
+				"ESSI",
+				"ESSI_OUTPUT_TIME_INDEPENDENT	macro"
+			],
+			[
+				"ESSI_OUTPUT_LEVEL_DE",
+				"ESSI_OUTPUT_LEVEL_DETAILED	macro"
+			],
+			[
+				"ES",
+				"ESSI_OUTPUT_LEVEL_BASIC	macro"
+			],
+			[
+				"Ess",
+				"ESSI_OUTPUT_TIME_INDEPENDENT	macro"
+			],
+			[
+				"ESSI_OUTPUT_LEVEL_D",
+				"ESSI_OUTPUT_LEVEL_DETAILED	macro"
+			],
+			[
+				"ESSI_OUTPUT_LEVEL_",
+				"ESSI_OUTPUT_LEVEL_DEBUG	macro"
+			],
+			[
+				"ESI",
+				"ESSI_OUTPUT_TIME_DEPENDENT	macro"
+			],
+			[
+				"typ",
+				"type_of_test_in	int"
+			],
+			[
+				"mate",
+				"material_in	NDMaterialLT *"
+			],
+			[
+				"DTensor",
+				"DTensor2	typedef"
+			],
+			[
+				"control_s",
+				"control_strain_prev	double"
+			],
+			[
+				"stra",
+				"strain_inc_tensor	DTensor2"
+			],
+			[
+				"DTe",
+				"DTensor2	typedef"
+			],
+			[
+				"strain",
+				"strain_inc	double"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pelicanconf.py",
+			"settings":
+			{
+				"buffer_size": 981,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "fabfile.py",
+			"settings":
+			{
+				"buffer_size": 1481,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 390.0,
+		"selected_items":
+		[
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"mark",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"align",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"mak",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"alig",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"ALIGN",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"ali",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pastr",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"past",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"al",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"A",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"caps",
+				"Convert Case: Upper Case"
+			],
+			[
+				"pas",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"autor",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"gitcom	",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"synma",
+				"Set Syntax: Makefile"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"textpas",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"synmak",
+				"Set Syntax: Makefile"
+			],
+			[
+				"synmake",
+				"Set Syntax: Makefile"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"syntamak",
+				"Set Syntax: Makefile"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"cl",
+				"File: Close All"
+			],
+			[
+				"syntcma",
+				"Set Syntax: CMake"
+			],
+			[
+				"clang",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"closea",
+				"File: Close All"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"syntafl",
+				"Set Syntax: Flex"
+			],
+			[
+				"synlis",
+				"Set Syntax: Lisp"
+			],
+			[
+				"syntac++",
+				"Set Syntax: C++"
+			],
+			[
+				"syntaxc++",
+				"Set Syntax: C++"
+			],
+			[
+				"syntax",
+				"Set Syntax: C++"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"snipp#",
+				"Snippet: #ifndef … #define … #endif"
+			],
+			[
+				"newsn",
+				"z:AAAPackageDev: New Raw Snippet"
+			],
+			[
+				"newvie",
+				"File: New View into File"
+			],
+			[
+				"view",
+				"File: New View into File"
+			],
+			[
+				"astyl",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"ast",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"makef",
+				"Set Syntax: Makefile"
+			],
+			[
+				"as",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"syntaclan",
+				"Set Syntax: SublimeClangErrorPanel"
+			],
+			[
+				"oigam",
+				"Origami: Clone File to Pane Above"
+			],
+			[
+				"origa",
+				"Origami: Create Pane Above"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"clsoe",
+				"Indentation: Convert to all views on window to Spaces"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sublclan",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"texpa",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"tex",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"texpas",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"syntaxfe",
+				"Set Syntax: fei"
+			],
+			[
+				"syntc",
+				"Set Syntax: C++"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Add Current File"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"clangse",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"clan",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"asty",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"syntsubl",
+				"Set Syntax: Sublime Text Key Map"
+			],
+			[
+				"syntjs",
+				"Set Syntax: Sublime Text Syntax Def (JSON)"
+			],
+			[
+				"synjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"syntma",
+				"Set Syntax: Makefile"
+			],
+			[
+				"subcla",
+				"Set Syntax: SublimeClangErrorPanel"
+			],
+			[
+				"scla",
+				"Preferences: SublimeClang Settings – User"
+			],
+			[
+				"subcl",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"syntac",
+				"Set Syntax: C++"
+			],
+			[
+				"line",
+				"Line Ending: Unix"
+			],
+			[
+				"markbrb",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"marpr",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"syntala",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"ssynta lat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax fe",
+				"Set Syntax: fei"
+			],
+			[
+				"synt",
+				"Set Syntax: fei"
+			],
+			[
+				"syn",
+				"Set Syntax: fei"
+			],
+			[
+				"synta",
+				"Set Syntax: fei"
+			],
+			[
+				"json",
+				"Plist Json Converter: JSON to PLIST"
+			],
+			[
+				"json to",
+				"Plist Json Converter: JSON to PLIST"
+			],
+			[
+				"syntax jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntax ",
+				"Set Syntax: C++"
+			],
+			[
+				"syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax p",
+				"Set Syntax: Python"
+			],
+			[
+				"close ",
+				"File: Close All"
+			],
+			[
+				"forma",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"gist ",
+				"Gist: Insert Gist"
+			],
+			[
+				"synta tcl",
+				"Set Syntax: Tcl"
+			],
+			[
+				"syntax tc",
+				"Set Syntax: Tcl"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"jso",
+				"Plist Json Converter: PLIST to JSON"
+			],
+			[
+				"plis",
+				"Plist Json Converter: PLIST to JSON"
+			],
+			[
+				"lang",
+				"Set Syntax: Erlang"
+			],
+			[
+				"gist",
+				"Gist: Delete Gist"
+			],
+			[
+				"gis",
+				"Gist: Create Public Gist"
+			],
+			[
+				"create",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gists",
+				"Gist: Create Private Gist"
+			],
+			[
+				"sideba",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 647.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jaabell/www/blog/blog.sublime-workspace",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Pisano/drm_shearwave_elastic.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Pisano/drm_shearwave_plastic.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Pisano_soil/example_wave_1d_pisano.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/compare_DRM_to_fullsim.py",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes_ltensor/EightNodeBrickLT.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes/EightNodeBrick.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes/EightNodeBrick.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/domain/pattern/Domain_Reduction_Method_Modified_Input.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/domain/pattern/Domain_Reduction_Method_Modified_Input.cpp",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/shearwave_1d_elastic.fei",
+		"/home/jaabell/useful_commands.md",
+		"/home/jaabell/Repositories/essi_feb_21_2014_stable/Makefile.Compilers",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/drm_shearwaveLT.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Static_and_Dynamic_Behavior_of_Single_Phase_Solid_Elements/8NodeBrick_SelfWeight/8nodebrickLT_selfweight.fei.cpp",
+		"/home/jaabell/.bashrc",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/small_utility_programs/python_postprocessor/essipost_outputdofs.py",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/small_utility_programs/python_postprocessor/essipost_findnodesinbox.py",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/drm_shearwave.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Static_and_Dynamic_Behavior_of_Single_Phase_Solid_Elements/8NodeBrickLT/go.sh",
+		"/home/jaabell/Repositories/essi_verification_examples/Static_and_Dynamic_Behavior_of_Single_Phase_Solid_Elements/8NodeBrickLT/Test01_dynamic_single_element.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Static_and_Dynamic_Behavior_of_Single_Phase_Solid_Elements/8NodeBrickLT/Test02_dynamic_single_element.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/shearwave_1d_elastic_LT.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/DRMelements.dat",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/DRMnodes.dat",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/DRM_acce.dat",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/DRM_acceLT.dat",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/DRM_disps2.dat",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/DRM_disps.dat",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/DRM_dispsLT2.dat",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/DRM_dispsLT.dat",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes_elastic/EightNodeBrickElastic.cpp",
+		"/home/jaabell/Repositories/essi_verification_examples/Static_and_Dynamic_Behavior_of_Single_Phase_Solid_Elements/8NodeBrick_SelfWeight/8nodebrick_selfweight.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Static_and_Dynamic_Behavior_of_Single_Phase_Solid_Elements/8NodeBrick_SelfWeight/8nodebrickLT_selfweight.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Static_and_Dynamic_Behavior_of_Single_Phase_Solid_Elements/8NodeBrick_SelfWeight/log2",
+		"/home/jaabell/Repositories/essi_verification_examples/Static_and_Dynamic_Behavior_of_Single_Phase_Solid_Elements/8NodeBrick_SelfWeight/log1",
+		"/home/jaabell/Repositories/essi_verification_examples/Static_and_Dynamic_Behavior_of_Single_Phase_Solid_Elements/8NodeBrick_SelfWeight/go.sh",
+		"/home/jaabell/Repositories/essi_verification_examples/Static_and_Dynamic_Behavior_of_Single_Phase_Solid_Elements/8NodeBrick_SelfWeight/8nodebrick_selfweight.fei.cpp",
+		"/home/jaabell/Repositories/essi_verification_examples/Static_and_Dynamic_Behavior_of_Single_Phase_Solid_Elements/8NodeBrick_SelfWeight/clean.sh",
+		"/home/jaabell/Repositories/essi_verification_examples/Static_and_Dynamic_Behavior_of_Single_Phase_Solid_Elements/8NodeBrick_SelfWeight/Makefile",
+		"/home/jaabell/Repositories/essi_verification_examples/Static_and_Dynamic_Behavior_of_Single_Phase_Solid_Elements/8NodeBrick_SelfWeight/go",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes_ltensor/TwentySevenNodeBrickLT.cpp",
+		"/home/jaabell/Repositories/essi_current.sublime-project",
+		"//home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_Miscellaneous/units/unitdefinitions.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes_ltensor/EightNodeBrickLT.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/Contact_Elements/ContactElement_Nonlinear_3DOF_3DOF.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/Contact_Elements/ContactElement_Nonlinear_3DOF_3DOF.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/feiparser.yy",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/DRM_Fault_2km_2km/FaultDRM.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/27node_dynamic_ormsby_50melement/mix_dynamic.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/27node_dynamic_ormsby_20melement/mix_dynamic.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/DRM_Fault_2km_2km/FEMElements.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/DRM_Fault_2km_2km/DRMNodes.feidata",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/DRM_Fault_2km_2km/FEMNodes.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/DRM_Fault_2km_2km/FEMSupports.fei",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/small_utility_programs/python_postprocessor/essipost_plotnode.py",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/DRM_Fault_2km_2km/DRMDisplacements.feidata",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/DRM_Fault_2km_2km/DRMElements.feidata",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/API/MODELING/add_load_pattern_domain_reduction_method.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/small_utility_programs/python_postprocessor/essipre_genwave_ricker.py",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/small_utility_programs/python_postprocessor/essiplot_node.py",
+		"/home/jaabell/Repositories/Makefile.Compilers.FullOptimize",
+		"/home/jaabell/bin/generate_fake_sources.sh",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_Miscellaneous/output/H5OutputWriter.cpp",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/DRM_Fault_2km_2km/DRMAccelerations.feidata",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/input_displacement.dat",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/small_utility_programs/python_postprocessor/__init__.py",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/shearwave_1d_elastic",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/domain/domain/Domain.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/element/Element.h",
+		"/home/jaabell/babak/Model.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/API/CPPIncludes.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/API/MODELING/start_new_stage.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/actor/objectBroker/FEM_ObjectBroker.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/actor/objectBroker/FEM_ObjectBroker.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/domain/domain/partitioned/PartitionedDomain.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/domain/domain/partitioned/PartitionedDomain.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/API/SIMULATION/parallel_analyze_static_multistep.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/API/MODELING/add_force_time_history_linear.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/analysis/StaticDomainDecompositionAnalysis.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/analysis/StaticDomainDecompositionAnalysis.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/model/AnalysisModel.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/API/SIMULATION/define_integrator_loadcontrol_for_static_analysis.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/model/AnalysisModel.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/integrator/LoadControl.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/integrator/LoadControl.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/snippets/add_load_node_linear.sublime-snippet",
+		"/home/jaabell/babak/Mesh_Files/Nodes_Solids",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/feiparser.l",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/feiast.h",
+		"/home/jaabell/Repositories/gitolite-admin/conf/gitolite.conf",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/API/SIMULATION/simulate_using_static_multistep.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/API/SIMULATION/define_solver_parallel_for_analysis.h",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Pisano_soil/log",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_Miscellaneous/output/H5OutputWriter.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/domain/domain/Domain.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/elastic_beam/ElasticBeam.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/analysis/DirectIntegrationAnalysis.cpp",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Pisano_soil/lg",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Pisano_soil/Makefile",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/matrix/Vector.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/matrix/ID.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/matrix/ID.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/matrix/Vector.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes_elastic/TwentySevenNodeBrickElastic.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes_elastic/TwentySevenNodeBrickElastic.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/coupled_u-p-U_brick_8_nodes/EightNodeBrick_u_p_U.cpp",
+		"/home/jaabell/babak/log",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes/TwentySevenNodeBrick.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes/TwentySevenNodeBrick.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_20_nodes_elastic/TwentyNodeBrickElastic.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_20_nodes_elastic/TwentyNodeBrickElastic.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/coupled_u-p-U_brick_8_nodes/selfweight.fei",
+		"/home/jaabell/plot_element_output.py",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/handler/TransformationConstraintHandler.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/handler/TransformationConstraintHandler.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/handler/PlainHandler.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/handler/PlainHandler.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/domain/constraints/MP_Constraint.cpp",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/domain/constraints/MP_Constraint.h",
+		"/home/jaabell/Repositories/essi_verification_examples/Domain_Specific_Language/ESSI_Commands/add_equaldof_same_node.fei",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/API/MODELING/add_equaldof_to_two_nodes.h",
+		"/home/jaabell/plot_node_output.py",
+		"/home/jaabell/Repositories/babak_fei/C_Building_Commands/OLD/define_constraint_handler_plain_for_analysis.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/API/SIMULATION/define_numberer_plain_for_analysis.h",
+		"/home/jaabell/Repositories/essi_feb_21_2014_/API/MODELING/define_model_name.h",
+		"/home/jaabell/bin/parnemiver",
+		"/home/jaabell/babak/makefile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dt",
+			"With_No_Convergence_Check",
+			"Newton",
+			"size",
+			"element",
+			"getResistingForce",
+			"det_of_Jacobian",
+			"dhGlobal",
+			"getResistingForce",
+			"getResponse",
+			";\n",
+			"getres",
+			"getresis",
+			"nodal_forces",
+			"getresis",
+			"gettangent",
+			"C_Binding_Commands",
+			"Rayleigh",
+			"theFileDIS",
+			"file",
+			"xPlus",
+			"fileName",
+			"essiplot",
+			"essiplot_node.py",
+			"input_velocity",
+			"(\"input_velocity",
+			"\"input",
+			"input_velocity",
+			"input",
+			"basename",
+			"linear_elastic_isotropic_3d_LT",
+			"parallel_debug",
+			"update",
+			"addSubdomain",
+			"f (processID != 0)\n    {",
+			"addSubdomain",
+			"getNumNodes",
+			"linear",
+			"update(",
+			"update",
+			"analyze_static_multistep",
+			"simulate",
+			"int_buffer",
+			"stage_name",
+			"model_name",
+			"previous_stage_name",
+			"model_name",
+			"sync",
+			"partition(",
+			"partition",
+			"have_written_static_mesh_data",
+			"setout",
+			"pos_nodes_outputs",
+			"length_nodes_velocities_output",
+			"length",
+			"writedis",
+			"count",
+			"nsteps",
+			"Number_of_Gauss_Points",
+			"Material_tags",
+			"writeme",
+			"Number_of_Gauss_Points",
+			"Index_to_Connectivity",
+			"Index_to_Coordinates",
+			"pos_gauss",
+			"main",
+			"main (",
+			"model_name",
+			"file_name",
+			"previous_stage_name",
+			"file_name",
+			"model_name",
+			"contact",
+			"double_buffer",
+			".data",
+			"nodes_are_in_contact",
+			"Index_to_Generalized_Displacements",
+			"Index_to_Gauss_Point_Coordinates",
+			"Index_to_Generalized_Displacements",
+			"Number_of_Output_Fields",
+			"Index_to_Generalized_Displacements",
+			"Index_to_Connectivity",
+			"Index_to_Generalized_Displacements",
+			"Index_to_Coordinates",
+			"Number_of_DOFs",
+			"getPorePressure",
+			"outputVector",
+			"rank",
+			"outputVector",
+			"TwentySevenNodeBrick",
+			"(",
+			"ntags",
+			"Index_to_Connectivity(ntags",
+			"(",
+			"operator",
+			");\n",
+			"Coord",
+			"coord",
+			";",
+			"maxdims,",
+			"writeno",
+			"indepe",
+			"getPor",
+			"output",
+			"outputv",
+			"i",
+			"T_disp",
+			"getPorePressure",
+			"getGaussCoordinates",
+			"computeGaussPoint",
+			"gauss",
+			"getGaussPts",
+			"gauss_points",
+			";\n",
+			"ux",
+			";\n",
+			"DOF",
+			"dof2numb",
+			"DOF",
+			"dofchain:",
+			"DOF",
+			"dofchain",
+			"partition",
+			"equaldo",
+			"initial",
+			"plain",
+			"echo",
+			"#"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"outputVector",
+			"OutputVector(ELASTIC_BEAM_OUTPUT_SIZE),",
+			"H5OUTPUTWRITER",
+			"int not_used2",
+			"not_used2",
+			"int output_level",
+			"2*",
+			"2",
+			"1",
+			"0",
+			"1",
+			"theHDF5_Channel",
+			"int exists ",
+			"H5Lexists_safe(",
+			"HDF5_",
+			"",
+			"1",
+			"2",
+			"1",
+			"0",
+			"1",
+			"0",
+			"DTensor2",
+			"PisanoLT",
+			"PisanoLT_H",
+			"PisanoLT_CPP"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pelicanconf.py",
+					"settings":
+					{
+						"buffer_size": 981,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								873,
+								873
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "fabfile.py",
+					"settings":
+					{
+						"buffer_size": 1481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								922,
+								922
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 148.0
+	},
+	"output.clang_static_analyzer":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.git":
+	{
+		"height": 88.0
+	},
+	"output.gotodocumentation":
+	{
+		"height": 308.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pisano",
+				"essi_verification_examples/Constitutive_Problems/Pisano/Test_01_Pisano_Constitutive.fei"
+			],
+			[
+				"eightno",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes/EightNodeBrick.h"
+			],
+			[
+				"eightnodeblt",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes_ltensor/EightNodeBrickLT.cpp"
+			],
+			[
+				"domainred",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/domain/pattern/Domain_Reduction_Method_Modified_Input.cpp"
+			],
+			[
+				"drm_shea",
+				"essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/drm_shearwave.fei"
+			],
+			[
+				"drmele",
+				"essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/DRMelements.dat"
+			],
+			[
+				"shear",
+				"essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/shearwave_1d_elastic.fei"
+			],
+			[
+				"eighlt",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes_ltensor/EightNodeBrickLT.cpp"
+			],
+			[
+				"eigtnoe",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes_elastic/EightNodeBrickElastic.cpp"
+			],
+			[
+				"eightnodeelas",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes_elastic/EightNodeBrickElastic.cpp"
+			],
+			[
+				"eight",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes/EightNodeBrick.cpp"
+			],
+			[
+				"eightnode",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes_ltensor/EightNodeBrickLT.cpp"
+			],
+			[
+				"twentyselt",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes_ltensor/TwentySevenNodeBrickLT.cpp"
+			],
+			[
+				"contacnon",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/Contact_Elements/ContactElement_Nonlinear_3DOF_3DOF.h"
+			],
+			[
+				"eightnodelt",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes_ltensor/EightNodeBrickLT.h"
+			],
+			[
+				"feipa",
+				"ESSI Feb/2014/DSL/feiparser.yy"
+			],
+			[
+				"essipos",
+				"ESSI Feb/2014/small_utility_programs/python_postprocessor/essipost_plotnode.py"
+			],
+			[
+				"essipo",
+				"ESSI Feb/2014/small_utility_programs/python_postprocessor/essipost_outputdofs.py"
+			],
+			[
+				"feipar",
+				"ESSI Feb/2014/DSL/feiparser.yy"
+			],
+			[
+				"adddrm",
+				"ESSI Feb/2014/API/MODELING/add_load_pattern_domain_reduction_method.h"
+			],
+			[
+				"feiparse",
+				"ESSI Feb/2014/DSL/feiparser.yy"
+			],
+			[
+				"h5",
+				"ESSI Feb/2014/CompGeoMechUCD_Miscellaneous/output/H5OutputWriter.cpp"
+			],
+			[
+				"contactnon",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/Contact_Elements/ContactElement_Nonlinear_3DOF_3DOF.cpp"
+			],
+			[
+				"object",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/actor/objectBroker/FEM_ObjectBroker.h"
+			],
+			[
+				"start",
+				"ESSI Feb/2014/API/MODELING/start_new_stage.h"
+			],
+			[
+				"cppin",
+				"ESSI Feb/2014/API/CPPIncludes.h"
+			],
+			[
+				"partition",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/domain/domain/partitioned/PartitionedDomain.h"
+			],
+			[
+				"analysismo",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/analysis/model/AnalysisModel.h"
+			],
+			[
+				"loadcon",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/analysis/integrator/LoadControl.cpp"
+			],
+			[
+				"defineinte",
+				"ESSI Feb/2014/API/SIMULATION/define_integrator_loadcontrol_for_static_analysis.h"
+			],
+			[
+				"staticdoma",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/analysis/analysis/StaticDomainDecompositionAnalysis.cpp"
+			],
+			[
+				"addload",
+				"ESSI Feb/2014/DSL/snippets/add_load_node_linear.sublime-snippet"
+			],
+			[
+				"addforce",
+				"ESSI Feb/2014/API/MODELING/add_force_time_history_linear.h"
+			],
+			[
+				"element.h",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/element/Element.h"
+			],
+			[
+				"h5out",
+				"ESSI Feb/2014/CompGeoMechUCD_Miscellaneous/output/H5OutputWriter.cpp"
+			],
+			[
+				"domain",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/domain/domain/Domain.cpp"
+			],
+			[
+				"parti",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/domain/domain/partitioned/PartitionedDomain.h"
+			],
+			[
+				"paralea",
+				"ESSI Feb/2014/API/SIMULATION/parallel_analyze_static_multistep.h"
+			],
+			[
+				"addfore",
+				"ESSI Feb/2014/API/MODELING/add_force_time_history_linear.h"
+			],
+			[
+				"feias",
+				"ESSI Feb/2014/DSL/feiast.h"
+			],
+			[
+				"femo",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/actor/objectBroker/FEM_ObjectBroker.cpp"
+			],
+			[
+				"contnnon",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/Contact_Elements/ContactElement_Nonlinear_3DOF_3DOF.cpp"
+			],
+			[
+				"definesol",
+				"ESSI Feb/2014/API/SIMULATION/define_solver_parallel_for_analysis.h"
+			],
+			[
+				"parallela",
+				"ESSI Feb/2014/API/SIMULATION/parallel_analyze_static_multistep.h"
+			],
+			[
+				"simulast",
+				"ESSI Feb/2014/API/SIMULATION/simulate_using_static_multistep.h"
+			],
+			[
+				"twentlt.cpp",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes_ltensor/TwentySevenNodeBrickLT.cpp"
+			],
+			[
+				"domain.cp",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/domain/domain/Domain.cpp"
+			],
+			[
+				"partio",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/domain/domain/partitioned/PartitionedDomain.h"
+			],
+			[
+				"elbeam",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/elastic_beam/ElasticBeam.cpp"
+			],
+			[
+				"directinte",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/analysis/analysis/DirectIntegrationAnalysis.cpp"
+			],
+			[
+				"vecto",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/matrix/Vector.h"
+			],
+			[
+				"eightupu",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/coupled_u-p-U_brick_8_nodes/EightNodeBrick_u_p_U.cpp"
+			],
+			[
+				"id",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/matrix/ID.h"
+			],
+			[
+				"twenseveel",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes_elastic/TwentySevenNodeBrickElastic.h"
+			],
+			[
+				"twentynode",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes/TwentySevenNodeBrick.h"
+			],
+			[
+				"twentelas",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_20_nodes_elastic/TwentyNodeBrickElastic.h"
+			],
+			[
+				"vector",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/matrix/Vector.h"
+			],
+			[
+				"id.",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/matrix/ID.h"
+			],
+			[
+				"parale",
+				"ESSI Feb/2014/API/SIMULATION/parallel_analyze_static_multistep.h"
+			],
+			[
+				"feipasr",
+				"ESSI Feb/2014/DSL/feiparser.yy"
+			],
+			[
+				"twent",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes_elastic/TwentySevenNodeBrickElastic.cpp"
+			],
+			[
+				"eighup",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/coupled_u-p-U_brick_8_nodes/EightNodeBrick_u_p_U.cpp"
+			],
+			[
+				"transfor",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/analysis/handler/TransformationConstraintHandler.h"
+			],
+			[
+				"plain",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/analysis/handler/PlainHandler.h"
+			],
+			[
+				"mpcons",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/domain/constraints/MP_Constraint.h"
+			],
+			[
+				"feipal",
+				"ESSI Feb/2014/DSL/feiparser.l"
+			],
+			[
+				"addequal",
+				"ESSI Feb/2014/API/MODELING/add_equaldof_to_two_nodes.h"
+			],
+			[
+				"definemode",
+				"ESSI Feb/2014/API/MODELING/define_model_name.h"
+			],
+			[
+				"modelnam",
+				"ESSI Feb/2014/API/MODELING/define_model_name.h"
+			],
+			[
+				"definplai",
+				"ESSI Feb/2014/API/SIMULATION/define_numberer_plain_for_analysis.h"
+			],
+			[
+				"addndmatelasis",
+				"ESSI Feb/2014/API/MODELING/add_constitutive_model_NDMaterial_linear_elastic_isotropic_3d.h"
+			],
+			[
+				"defalwi",
+				"ESSI Feb/2014/API/SIMULATION/define_algorithm_with_no_convergence_check_for_analysis.h"
+			],
+			[
+				"api",
+				"ESSI Feb/2014/API/api.h"
+			],
+			[
+				"doma",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/domain/domain/Domain.cpp"
+			],
+			[
+				"paraana",
+				"ESSI Feb/2014/API/SIMULATION/parallel_analyze_static_multistep.h"
+			],
+			[
+				"feipl",
+				"ESSI Feb/2014/DSL/feiparser.l"
+			],
+			[
+				"api.",
+				"ESSI Feb/2014/API/api.h"
+			],
+			[
+				"cppincludes.h",
+				"ESSI Feb/2014/API/CPPIncludes.h"
+			],
+			[
+				"feip",
+				"ESSI Feb/2014/DSL/feiparser.yy"
+			],
+			[
+				"define_parallel_numberer_plain_for_analysis.h",
+				"ESSI Feb/2014/API/SIMULATION/define_parallel_numberer_plain_for_analysis.h"
+			],
+			[
+				"makfin",
+				"ESSI Feb/2014/Makefile.Includes"
+			],
+			[
+				"makecom",
+				"ESSI Feb/2014/Makefile.Compilers"
+			],
+			[
+				"testco",
+				"essi_verification_examples/Static_and_Dynamic_Behavior_of_Special_Elements/Nonlinear_Contact/test_contact_01_axial_static.fei"
+			],
+			[
+				"makef",
+				"ESSI Feb/2014/Makefile.Includes"
+			],
+			[
+				"subdo",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/domain/subdomain/Subdomain.h"
+			],
+			[
+				"h5o",
+				"ESSI Feb/2014/CompGeoMechUCD_Miscellaneous/output/H5OutputWriter.h"
+			],
+			[
+				"compgeomechucd_finiteelements/solid_brick_27_nodes_elastic/twentysevennodebrickelastic.cpp",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes_elastic/TwentySevenNodeBrickElastic.cpp"
+			],
+			[
+				"addsupp",
+				"ESSI Feb/2014/API/MODELING/add_support_from_file_to_nodes.h"
+			],
+			[
+				"addsuppo",
+				"ESSI Feb/2014/API/MODELING/add_support_to_node.h"
+			],
+			[
+				"addsupo",
+				"ESSI Feb/2014/API/MODELING/add_support_to_all_dofs_of_node.h"
+			],
+			[
+				"definealgo",
+				"ESSI Feb/2014/API/SIMULATION/define_algorithm_with_no_convergence_check_for_analysis.h"
+			],
+			[
+				"addconndlinea",
+				"ESSI Feb/2014/API/MODELING/add_constitutive_model_NDMaterial_linear_elastic_isotropic_3d.h"
+			],
+			[
+				"addndmalinea",
+				"ESSI Feb/2014/API/MODELING/add_constitutive_model_NDMaterial_linear_elastic_isotropic_3d.h"
+			],
+			[
+				"mak.",
+				"ESSI Feb/2014/Makefile.Includes"
+			],
+			[
+				"feipas",
+				"ESSI Feb/2014/DSL/feiparser.yy"
+			],
+			[
+				"eignolt",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes_ltensor/EightNodeBrickLT.h"
+			],
+			[
+				"exapisano",
+				"essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Pisano_soil/example_wave_1d_pisano.fei"
+			],
+			[
+				"hdf",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/actor/channel/HDF5_Channel.h"
+			],
+			[
+				"compmake",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/Makefile"
+			],
+			[
+				"compfinit/make",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/Makefile"
+			],
+			[
+				"comfinimake",
+				"ESSI Feb/2014/CompGeoMechUCD_MaterialModeling/FiniteDeformation/Makefile"
+			],
+			[
+				"eightlt",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes_ltensor/EightNodeBrickLT.h"
+			],
+			[
+				"eleme",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/element/Element.h"
+			],
+			[
+				"twentseel",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes_elastic/TwentySevenNodeBrickElastic.h"
+			],
+			[
+				"tagged",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/tagged/TaggedObject.h"
+			],
+			[
+				"bricklarag",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_large_deformation_total_Lagrangian_8_nodes/TotalLagrangianFD8NodeBrick.h"
+			],
+			[
+				"contacno",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/Contact_Elements/ContactElement_Nonlinear_3DOF_3DOF.h"
+			],
+			[
+				"newto",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/analysis/algorithm/equiSolnAlgo/NewtonRaphson.cpp"
+			],
+			[
+				"newton",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/analysis/algorithm/equiSolnAlgo/NewtonRaphson.h"
+			],
+			[
+				"testco01",
+				"essi_verification_examples/Static_and_Dynamic_Behavior_of_Special_Elements/Nonlinear_Contact/test_contact_01.fei"
+			],
+			[
+				"node",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/domain/node/Node.h"
+			],
+			[
+				"sin",
+				"essi_verification_examples/Static_and_Dynamic_Behavior_of_Special_Elements/Nonlinear_Contact/sine.txt"
+			],
+			[
+				"truss",
+				"ESSI Feb/2014/UCB_Elements/truss/Truss.h"
+			],
+			[
+				"elemen",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/element/Element.h"
+			],
+			[
+				"matrix",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/matrix/Matrix.h"
+			],
+			[
+				"addelemecon",
+				"ESSI Feb/2014/API/MODELING/add_element_contact_nonlinear_3dof_to_3dof.h"
+			],
+			[
+				"uniaxia",
+				"ESSI Feb/2014/ModifiedOpenSeesServices/material/uniaxial/UniaxialMaterial.h"
+			],
+			[
+				"contact",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/Contact_Elements/ContactElement_3DOF_3DOF.cpp"
+			],
+			[
+				"startn",
+				"ESSI Feb/2014/API/MODELING/start_new_stage.h"
+			],
+			[
+				"sine",
+				"essi_verification_examples/Static_and_Dynamic_Behavior_of_Special_Elements/Nonlinear_Contact/sine.txt"
+			],
+			[
+				"twentylt",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes_ltensor/TwentySevenNodeBrickLT.cpp"
+			],
+			[
+				"wipemo",
+				"ESSI Feb/2014/API/MODELING/wipe_model.h"
+			],
+			[
+				"twentysev",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes/TwentySevenNodeBrick.h"
+			],
+			[
+				"contactelement_3dof_3dof",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/Contact_Elements/ContactElement_3DOF_3DOF.h"
+			],
+			[
+				"contact37",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/Contact_Elements/ContactElement_Nonlinear_3DOF_7DOF.cpp"
+			],
+			[
+				"contactelement_nonlinear_3dof_7dof",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/Contact_Elements/ContactElement_Nonlinear_3DOF_7DOF.cpp"
+			],
+			[
+				"contactelement_nonlinear_3dof_3dof",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/Contact_Elements/ContactElement_Nonlinear_3DOF_3DOF.h"
+			],
+			[
+				"eightnodebrickvariablegp",
+				"ESSI Feb/2014/CompGeoMechUCD_FiniteElements/solid_brick_8_nodes_variable_number_of_gauss_points/EightNodeBrickVariableGP.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/jaabell/Repositories/essi_stable.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true
+}
