@@ -72,4 +72,4 @@ Some [useful commands][].
   [GIMP]: http://www.gimp.org/
   [Ubuntu]: http://www.ubuntu.com
   [elementary OS]: http://elementaryos.org/
-  [useful commands]: /pages/useful_commands.md
+  [useful commands]: {filename}/pages/useful_commands.md
