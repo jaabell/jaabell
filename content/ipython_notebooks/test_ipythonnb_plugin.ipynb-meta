@@ -3,4 +3,3 @@ Slug: test_ipythonnb_plugin
 Date: 2014-06-24 13:40:25
 Tags: IPython, notebook, pelican
 Author: jaabell
-Summary: In this post I'll make a small example meant to test the IPython notebook + Pelican integration thanks to the plugin created by danielfrg
