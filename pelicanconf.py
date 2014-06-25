@@ -58,4 +58,4 @@ MARKUP = ('md', 'ipynb')
 MD_EXTENSIONS =  [ 'toc'] #, 'codehilite','extra']
 
 
-SUMMARY_MAX_LENGTH = 1000
+SUMMARY_MAX_LENGTH = 100

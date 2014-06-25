@@ -1,3 +1,4 @@
 *.pdf
 *.pyc
 output/
+content/ipython_notebooks/.ipynb_checkpoints/
