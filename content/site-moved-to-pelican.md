@@ -20,12 +20,12 @@ important for me is speed and low memory usage, because I want to host my own we
 Also, it makes it easier to share code as I can include code snippets directly in the markdown text
 file and it gets highlighted using pygments (python module).
 
-Thanks to [this][http://danielfrg.com/blog/2013/02/16/blogging-pelican-ipython-notebook/] I can
+Thanks to [this](http://danielfrg.com/blog/2013/02/16/blogging-pelican-ipython-notebook/) I can
 also now (to do) use python notebooks to blog directly. This is a nice feature as I will be
 blogging mainly about scientific computing, showing some example here and there and such.
 
-Finally, I can version control the website using [git][http://git-scm.com/] and automate site
-updating using a git-hook on the server (thank [this post][http://www.textandhubris.com/automate-pelican-with-git.html]).
+Finally, I can version control the website using [git](http://git-scm.com/) and automate site
+updating using a git-hook on the server (thank [this post](http://www.textandhubris.com/automate-pelican-with-git.html)).
 This means I can clone my git repo, make changes and push them and the server will automatically
 generate the website and deploy it!
 
