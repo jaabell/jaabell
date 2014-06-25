@@ -61,4 +61,5 @@ DISPLAY_PAGES_ON_MENU = True
 TYPOGRIFY = True
 
 PLUGIN_PATH = '../pelican-plugins'
-PLUGINS = ["latex", "pelican_youtube"]
+PLUGINS = ["latex", "pelican_youtube", "ipythonnb"]
+MARKUP = ('md', 'ipynb')
