@@ -56,3 +56,6 @@ MARKUP = ('md', 'ipynb')
 
 #Enable TOC generation in markdown
 MD_EXTENSIONS =  [ 'toc'] #, 'codehilite','extra']
+
+
+SUMMARY_MAX_LENGTH = 1000
