@@ -43,23 +43,16 @@ STATIC_PATHS = [
 
 DISPLAY_PAGES_ON_MENU = True
 
- # My blue 
-# ABOUT_PAGE = "/pages/welcome.html"
-# RESEARCH_PAGE = "/pages/research.html"
-# TEACHING_PAGE = "/pages/teaching.html"
-# TOOLS_PAGE = "/pages/tools.html"
-# CV_PAGE = "/pages/cv.html"
-# PUBS_PAGE = "/pages/publications.html"
-# LINKS_PAGE = "/pages/links.html"
-
-
-
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-
+#Fonts look nicer?
 TYPOGRIFY = True
 
+#Plugins 
 PLUGIN_PATH = '../pelican-plugins'
 PLUGINS = ["latex", "pelican_youtube", "ipythonnb"]
 MARKUP = ('md', 'ipynb')
+
+#Enable TOC generation in markdown
+MD_EXTENSIONS =  [ 'toc'] #, 'codehilite','extra']
