@@ -55,6 +55,8 @@ As far as OSes go
     We'll see with Isis.<span style="color: #f4f4f4;">Maybe I  also use
     windows for gaming. (</span>
 
+Some [useful commands][].
+
   [ESSI Simulator]: http://sokocalo.engr.ucdavis.edu/~jeremic/ESSI_Simulator/
   [FEI-Syntax-n-Snippets]: https://github.com/jaabell/fei-syntax-n-snippets
   [visitESSI]: https://github.com/jaabell/visitESSI
@@ -70,3 +72,4 @@ As far as OSes go
   [GIMP]: http://www.gimp.org/
   [Ubuntu]: http://www.ubuntu.com
   [elementary OS]: http://elementaryos.org/
+  [useful commands]: /pages/useful_commands.md
