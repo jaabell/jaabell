@@ -3,4 +3,5 @@ Slug: sne02-demystifying-the-karhunen-loeve-expansion
 Date: 2014-06-25 16:49:38
 Tags: sne, python, stochastic, python, notebook, small numerical experiments
 Author: jaabell
-Summary: In this post I will use an IPython notebook to show that the Karhunen-Loeve expansion, is really just decorrelation of normal random variables.
+Summary: 
+Status: drafts
