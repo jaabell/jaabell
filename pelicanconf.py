@@ -53,6 +53,7 @@ TYPOGRIFY = True
 PLUGIN_PATH = '../pelican-plugins'
 PLUGINS = ["pelican_youtube", "ipythonnb", "render_math"]
 MARKUP = ('md', 'ipynb')
+IGNORE_FILES = ['*.checkpoint.ipynb']
 
 #Enable TOC generation in markdown
 MD_EXTENSIONS =  [ 'toc'] #, 'codehilite','extra']
