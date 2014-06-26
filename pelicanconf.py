@@ -51,7 +51,7 @@ TYPOGRIFY = True
 
 #Plugins 
 PLUGIN_PATH = '../pelican-plugins'
-PLUGINS = ["latex", "pelican_youtube", "ipythonnb"]
+PLUGINS = ["latex", "pelican_youtube", "ipythonnb",""pelican.plugins.latex", "render-math"]
 MARKUP = ('md', 'ipynb')
 
 #Enable TOC generation in markdown
