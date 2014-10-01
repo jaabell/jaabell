@@ -1,5 +1,5 @@
 Title: NTS (Note-To-Self): Creating dynamically linked libraries
-Date: 2013-10-28 18:57
+date: 2013-10-28 18:57
 Author: jaabell
 Category: Uncategorized
 Tags: c++, coding, compiler, gcc, library, linux, note to self, programming, reminder, tutorial

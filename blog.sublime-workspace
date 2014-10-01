@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ipy",
+				"ipython-nbserver"
+			],
+			[
 				"addbril",
 				"add_element_27NodeBrickLT_nodes	add_element_27NodeBrickLT_nodes"
 			],
@@ -510,53 +514,24 @@
 			[
 				"stra",
 				"strain_inc_tensor	DTensor2"
-			],
-			[
-				"DTe",
-				"DTensor2	typedef"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "pelicanconf.py",
+			"file": "/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/Makefile",
 			"settings":
 			{
-				"buffer_size": 1537,
+				"buffer_size": 542,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/jaabell/useful_commands.md",
+			"file": "/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/case_model3_Ormsby.fei.cpp",
 			"settings":
 			{
-				"buffer_size": 7810,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/jaabell/.config/ipython/profile_nbserver/ipython_notebook_config.py",
-			"settings":
-			{
-				"buffer_size": 22966,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/jaabell/www/newwebsite/content/first.md",
-			"settings":
-			{
-				"buffer_size": 111,
-				"line_ending": "Unix",
-				"name": "Title: First post"
-			}
-		},
-		{
-			"file": "/home/jaabell/www/newwebsite/pelicanconf.py",
-			"settings":
-			{
-				"buffer_size": 822,
+				"buffer_size": 1451646,
 				"line_ending": "Unix"
 			}
 		}
@@ -568,16 +543,52 @@
 		"selected_items":
 		[
 			[
+				"pro",
+				"Project: Close"
+			],
+			[
+				"date",
+				"Pelican: Update Article Date"
+			],
+			[
+				"slug",
+				"Pelican: Update Slug using Title"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"upda",
+				"Pelican: Update Slug using Title"
+			],
+			[
+				"update",
+				"Pelican: Update Article Date"
+			],
+			[
+				"inserme",
+				"Pelican: Insert Metadata"
+			],
+			[
+				"iinme",
+				"Pelican: Insert Metadata"
+			],
+			[
+				"peli",
+				"Pelican: Insert Metadata"
+			],
+			[
+				"pel",
+				"Pelican: Select Article Metadata"
+			],
+			[
 				"pelica",
 				"Pelican: New Article (Markdown)"
 			],
 			[
 				"insta",
 				"Package Control: Install Package"
-			],
-			[
-				"mark",
-				"Set Syntax: Markdown"
 			],
 			[
 				"synfe",
@@ -840,10 +851,6 @@
 				"Text Pastry: From 0 To X"
 			],
 			[
-				"upda",
-				"Package Control: Upgrade Package"
-			],
-			[
 				"syntaxfe",
 				"Set Syntax: fei"
 			],
@@ -1046,13 +1053,9 @@
 			[
 				"gists",
 				"Gist: Create Private Gist"
-			],
-			[
-				"sideba",
-				"View: Toggle Open Files in Side Bar"
 			]
 		],
-		"width": 584.0
+		"width": 593.0
 	},
 	"console":
 	{
@@ -1069,14 +1072,38 @@
 	},
 	"file_history":
 	[
+		"/home/jaabell/www/blog/pelicanconf.py",
+		"/home/jaabell/Programs/visit/cml03.cmake",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/case_model3_Ormsby.fei",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/case_model3_Ormsby.fei.cpp",
+		"/home/jaabell/Repositories/essi_dependencies/compile_petsc.sh",
+		"/home/jaabell/Repositories/essi_dependencies/compile_libraries.sh",
+		"/home/jaabell/Repositories/essi_dependencies/compile_hdf5_parallel.sh",
+		"/home/jaabell/Repositories/essi_dependencies/compile_hdf5_sequential.sh",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/Makefile",
+		"/home/jaabell/www/blogtheme/templates/base.html",
+		"/home/jaabell/www/blog/content/ipython_notebooks/sne02-demystifying-KL.ipynb-meta",
+		"/home/jaabell/bin/start_ipythonb_server.sh",
+		"/home/jaabell/www/blog/preview.sh",
+		"/home/jaabell/www/blog/.gitignore",
+		"/home/jaabell/.bashrc",
+		"/home/jaabell/useful_commands.md",
+		"/home/jaabell/www/newwebsite/content/first.md",
+		"/home/jaabell/www/newwebsite/pelicanconf.py",
+		"/home/jaabell/www/blog/content/pages/05tools.md",
+		"/home/jaabell/www/blog/content/ipython_notebooks/test_ipythonnb_plugin.ipynb-meta",
+		"/home/jaabell/www/pelican-plugins/ipythonnb/ipythonnb.py",
+		"/home/jaabell/.config/ipython/profile_nbserver/ipython_notebook_config.py",
+		"/home/jaabell/.screenrc",
+		"/home/jaabell/start_ipythonb_server.sh",
+		"/home/jaabell/www/pelican-plugins/ipythonnb/README.md",
+		"/home/jaabell/www/blog/content/site-moved-to-pelican.md",
 		"/home/jaabell/.config/ipython/profile_nbserver/pwd",
 		"/home/jaabell/www/newwebsite/content/firstpost.md",
 		"/home/jaabell/www/blog/deploy.sh",
 		"/home/jaabell/www/blog/content/ipython_notebooks/test_ipythonnb_plugin.ipynb",
-		"/home/jaabell/www/blog/content/ipython_notebooks/test_ipythonnb_plugin.ipynb-meta",
 		"/home/jaabell/www/blogtheme/templates/tags.html",
 		"/home/jaabell/www/blogtheme/templates/categories.html",
-		"/home/jaabell/www/blog/content/site-moved-to-pelican.md",
 		"/home/jaabell/public_html/index.html",
 		"/home/jaabell/www/blogtheme/templates/tag.html",
 		"/home/jaabell/www/blogtheme.git/hooks/post-receive",
@@ -1094,11 +1121,9 @@
 		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/domain/pattern/Domain_Reduction_Method_Modified_Input.h",
 		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/domain/pattern/Domain_Reduction_Method_Modified_Input.cpp",
 		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/shearwave_1d_elastic.fei",
-		"/home/jaabell/useful_commands.md",
 		"/home/jaabell/Repositories/essi_feb_21_2014_stable/Makefile.Compilers",
 		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/drm_shearwaveLT.fei",
 		"/home/jaabell/Repositories/essi_verification_examples/Static_and_Dynamic_Behavior_of_Single_Phase_Solid_Elements/8NodeBrick_SelfWeight/8nodebrickLT_selfweight.fei.cpp",
-		"/home/jaabell/.bashrc",
 		"/home/jaabell/Repositories/essi_feb_21_2014_/small_utility_programs/python_postprocessor/essipost_outputdofs.py",
 		"/home/jaabell/Repositories/essi_feb_21_2014_/small_utility_programs/python_postprocessor/essipost_findnodesinbox.py",
 		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Elastic/drm_shearwave.fei",
@@ -1174,29 +1199,7 @@
 		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/feiparser.l",
 		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/feiast.h",
 		"/home/jaabell/Repositories/gitolite-admin/conf/gitolite.conf",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/API/SIMULATION/simulate_using_static_multistep.h",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/API/SIMULATION/define_solver_parallel_for_analysis.h",
-		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Pisano_soil/log",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_Miscellaneous/output/H5OutputWriter.h",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/domain/domain/Domain.h",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/elastic_beam/ElasticBeam.cpp",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/analysis/DirectIntegrationAnalysis.cpp",
-		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Pisano_soil/lg",
-		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/1D_Wave_Pisano_soil/Makefile",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/matrix/Vector.h",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/matrix/ID.h",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/matrix/ID.cpp",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/matrix/Vector.cpp",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes_elastic/TwentySevenNodeBrickElastic.h",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes_elastic/TwentySevenNodeBrickElastic.cpp",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/coupled_u-p-U_brick_8_nodes/EightNodeBrick_u_p_U.cpp",
-		"/home/jaabell/babak/log",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes/TwentySevenNodeBrick.cpp",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_27_nodes/TwentySevenNodeBrick.h",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_20_nodes_elastic/TwentyNodeBrickElastic.cpp",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/solid_brick_20_nodes_elastic/TwentyNodeBrickElastic.h",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/CompGeoMechUCD_FiniteElements/coupled_u-p-U_brick_8_nodes/selfweight.fei",
-		"/home/jaabell/plot_element_output.py"
+		"/home/jaabell/Repositories/essi_feb_21_2014_/API/SIMULATION/simulate_using_static_multistep.h"
 	],
 	"find":
 	{
@@ -1214,6 +1217,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"app.ip",
+			"settings",
+			"sum",
+			"summ",
 			"#",
 			"#------------------------------------------------------------------------------\n",
 			"\n#------------------------------------------------------------------------------",
@@ -1337,10 +1344,6 @@
 			";\n",
 			"ux",
 			";\n",
-			"DOF",
-			"dof2numb",
-			"DOF",
-			"dofchain:",
 			"DOF"
 		],
 		"highlight": true,
@@ -1391,18 +1394,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "pelicanconf.py",
+					"file": "/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/Makefile",
 					"settings":
 					{
-						"buffer_size": 1537,
+						"buffer_size": 542,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								754,
-								754
+								542,
+								542
 							]
 						],
 						"settings":
@@ -1496,7 +1499,7 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1506,18 +1509,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/home/jaabell/useful_commands.md",
+					"file": "/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/case_model3_Ormsby.fei.cpp",
 					"settings":
 					{
-						"buffer_size": 7810,
+						"buffer_size": 1451646,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3349,
-								3349
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1611,354 +1614,9 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1799.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/jaabell/.config/ipython/profile_nbserver/ipython_notebook_config.py",
-					"settings":
-					{
-						"buffer_size": 22966,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								22965,
-								22965
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 7276.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/jaabell/www/newwebsite/content/first.md",
-					"settings":
-					{
-						"buffer_size": 111,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								18,
-								18
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"auto_name": "Title: First post",
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/jaabell/www/newwebsite/pelicanconf.py",
-					"settings":
-					{
-						"buffer_size": 822,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								817,
-								817
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Python/Python.tmLanguage"
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

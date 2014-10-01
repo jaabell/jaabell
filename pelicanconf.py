@@ -50,7 +50,7 @@ DISPLAY_PAGES_ON_MENU = True
 TYPOGRIFY = True
 
 #Plugins 
-PLUGIN_PATH = '../pelican-plugins'
+PLUGIN_PATH = '/home/jaabell/www/pelican-plugins'
 PLUGINS = ["pelican_youtube", "ipythonnb", "render_math"]
 MARKUP = ('md', 'ipynb')
 IGNORE_FILES = ['*checkpoint.ipynb']
