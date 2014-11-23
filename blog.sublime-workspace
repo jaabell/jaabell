@@ -531,7 +531,7 @@
 			"file": "/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/case_model3_Ormsby.fei.cpp",
 			"settings":
 			{
-				"buffer_size": 1451646,
+				"buffer_size": 1585998,
 				"line_ending": "Unix"
 			}
 		}
@@ -1512,7 +1512,7 @@
 					"file": "/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/case_model3_Ormsby.fei.cpp",
 					"settings":
 					{
-						"buffer_size": 1451646,
+						"buffer_size": 1585998,
 						"regions":
 						{
 						},
