@@ -12,9 +12,9 @@ by ESSI in the HDF5 format (*.h5.feioutput).
 
 VisIt can be obtained [here](), and the plugin [here]().
 
-<!--more-->  
-<!--https://www.youtube.com/watch?v=mrT5L4xsKs0-->
+<!-- more   -->
+<!-- https://www.youtube.com/watch?v=mrT5L4xsKs0 -->
 
 <div class="youtube" align="left">
-<iframe width="640" height="480" src="https://www.youtube.com/watch?v=mrT5L4xsKs0" frameborder="0"></iframe>
+<iframe width="640" height="480" src="//www.youtube.com/embed/mrT5L4xsKs0" frameborder="0" allowfullscreen></iframe>
 </div>
