@@ -3,9 +3,8 @@ Slug: visualizing-essi-output-with-visit-essi
 Date: 2014-11-23 11:34:38
 Tags: tutorial, essi, visitessi, postprocessing
 Category: 
-Author: 
-Lang: 
-Summary: 
+Author: Jose Abell 
+Lang: English
 
 VisIt-ESSI is a plugin for the VisIt post-processor created my CompGeoMech. 
 It allows for remote (soon parallel also) visualization of outputs produced
