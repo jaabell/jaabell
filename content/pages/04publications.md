@@ -10,6 +10,9 @@ Slug: 04publications
     Engineering **01/2011; 31(5):817-829**.
     DOI:10.1016/j.soildyn.2011.01.005
 
+    Catalina Fortuño, Juan Carlos de la Llera, Charles W. Wicks, and José A. Abell
+- *Synthetic Hybrid Broadband Seismograms Based on InSAR Coseismic Displacements*. Bulletin of the Seismological Society of America published ahead of print November 18, 2014, doi:10.1785/0120130293
+
 ***Conference Proceedings***
 
 -   N.
