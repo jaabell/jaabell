@@ -30,3 +30,5 @@ Slug: 04publications
   [Charles W. Wicks]: https://www.researchgate.net/researcher/2023911886_Charles_W_Wicks/
     "Charles W. Wicks"
   [InSAR Compatible Ground Motions for Northern Chile]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDEQFjAA&url=http%3A%2F%2Frepositorio.uc.cl%2Fxmlui%2Fbitstream%2Fhandle%2F123456789%2F1361%2F530502.pdf%3Fsequence%3D1&ei=ml5DUpydEYrsiQLwkYCgBQ&usg=AFQjCNFeYk9L7MuTKpYj0U1Qu9Kg4hY7Ww&sig2=qjOobpxRQuOcvlljvLmOxg
+
+[Catalina Fortuño][http://www.researchgate.net/profile/Catalina_Fortuno]
