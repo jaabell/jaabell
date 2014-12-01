@@ -2,7 +2,7 @@ Title: SNE # 01. Example of ESSI simulation and visualization with visitESSI
 Date: 2014-05-16 19:37
 Author: jaabell
 Category: Small Numerical Experiments
-Tags: animation, c++, ESSI, linux, post-processing, small numerical experiments, sne, visitESSI
+Tags: animation, c++, ESSI, linux, post-processing, small numerical experiments, sne, visitESSI, movie
 Slug: sne-01-example-of-essi-simulation-and-visualization-with-visitessi
 
 These are the results of a simple elastic-domain simulation. Mesh

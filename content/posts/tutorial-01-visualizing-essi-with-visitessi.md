@@ -1,7 +1,7 @@
 Title: Visualizing ESSI output with VisIt-ESSI
 Slug: visualizing-essi-output-with-visit-essi
 Date: 2014-11-23 11:34:38
-Tags: tutorial, essi, visitessi, postprocessing
+Tags: tutorial, essi, visitessi, postprocessing, movie
 Category: 
 Author: Jose Abell 
 Lang: English

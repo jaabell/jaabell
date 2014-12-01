@@ -1,7 +1,7 @@
 Title: Simulation of a surface wave (Rayleigh)
 Slug: simulation-of-a-surface-wave
 Date: 2014-11-30 22:42:13
-Tags: essi, visitessi, postprocessing
+Tags: essi, visitessi, postprocessing, movie
 Category: 
 Author: Jose Abell 
 Lang: English
