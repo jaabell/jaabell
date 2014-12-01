@@ -520,18 +520,26 @@
 	"buffers":
 	[
 		{
-			"file": "/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/Makefile",
+			"file": "content/from_wp/tutorial-01-visualizing-essi-with-visitessi.md",
 			"settings":
 			{
-				"buffer_size": 542,
+				"buffer_size": 788,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/case_model3_Ormsby.fei.cpp",
+			"file": "content/from_wp/sne-01-example-of-essi-simulation-and-visualization-with-visitessi.md",
 			"settings":
 			{
-				"buffer_size": 1585998,
+				"buffer_size": 884,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/pages/04publications.md",
+			"settings":
+			{
+				"buffer_size": 1936,
 				"line_ending": "Unix"
 			}
 		}
@@ -539,9 +547,49 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 96.0,
 		"selected_items":
 		[
+			[
+				"gitpush",
+				"Git: Push"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"peli",
+				"Pelican: Update Article Date"
+			],
+			[
+				"gitad",
+				"Git: Add Current File"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"gita",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"pelica",
+				"Pelican: New Article (Markdown)"
+			],
 			[
 				"pro",
 				"Project: Close"
@@ -575,16 +623,8 @@
 				"Pelican: Insert Metadata"
 			],
 			[
-				"peli",
-				"Pelican: Insert Metadata"
-			],
-			[
 				"pel",
 				"Pelican: Select Article Metadata"
-			],
-			[
-				"pelica",
-				"Pelican: New Article (Markdown)"
 			],
 			[
 				"insta",
@@ -688,14 +728,6 @@
 			],
 			[
 				"gitcom	",
-				"Git: Commit"
-			],
-			[
-				"gitad",
-				"Git: Add Current File"
-			],
-			[
-				"git",
 				"Git: Commit"
 			],
 			[
@@ -1029,30 +1061,6 @@
 			[
 				"jso",
 				"Plist Json Converter: PLIST to JSON"
-			],
-			[
-				"plis",
-				"Plist Json Converter: PLIST to JSON"
-			],
-			[
-				"lang",
-				"Set Syntax: Erlang"
-			],
-			[
-				"gist",
-				"Gist: Delete Gist"
-			],
-			[
-				"gis",
-				"Gist: Create Public Gist"
-			],
-			[
-				"create",
-				"Gist: Create Public Gist"
-			],
-			[
-				"gists",
-				"Gist: Create Private Gist"
 			]
 		],
 		"width": 593.0
@@ -1072,15 +1080,16 @@
 	},
 	"file_history":
 	[
+		"/home/jaabell/www/blog/content/from_wp/tutorial-01-visualizing-essi-with-visitessi",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/Makefile",
+		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/case_model3_Ormsby.fei.cpp",
 		"/home/jaabell/www/blog/pelicanconf.py",
 		"/home/jaabell/Programs/visit/cml03.cmake",
 		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/case_model3_Ormsby.fei",
-		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/case_model3_Ormsby.fei.cpp",
 		"/home/jaabell/Repositories/essi_dependencies/compile_petsc.sh",
 		"/home/jaabell/Repositories/essi_dependencies/compile_libraries.sh",
 		"/home/jaabell/Repositories/essi_dependencies/compile_hdf5_parallel.sh",
 		"/home/jaabell/Repositories/essi_dependencies/compile_hdf5_sequential.sh",
-		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/Makefile",
 		"/home/jaabell/www/blogtheme/templates/base.html",
 		"/home/jaabell/www/blog/content/ipython_notebooks/sne02-demystifying-KL.ipynb-meta",
 		"/home/jaabell/bin/start_ipythonb_server.sh",
@@ -1198,8 +1207,7 @@
 		"/home/jaabell/babak/Mesh_Files/Nodes_Solids",
 		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/feiparser.l",
 		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/feiast.h",
-		"/home/jaabell/Repositories/gitolite-admin/conf/gitolite.conf",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/API/SIMULATION/simulate_using_static_multistep.h"
+		"/home/jaabell/Repositories/gitolite-admin/conf/gitolite.conf"
 	],
 	"find":
 	{
@@ -1217,6 +1225,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" ",
 			"app.ip",
 			"settings",
 			"sum",
@@ -1343,8 +1352,7 @@
 			"gauss_points",
 			";\n",
 			"ux",
-			";\n",
-			"DOF"
+			";\n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1389,23 +1397,23 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/Makefile",
+					"file": "content/from_wp/tutorial-01-visualizing-essi-with-visitessi.md",
 					"settings":
 					{
-						"buffer_size": 542,
+						"buffer_size": 788,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								542,
-								542
+								671,
+								671
 							]
 						],
 						"settings":
@@ -1499,7 +1507,7 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1509,10 +1517,10 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/case_model3_Ormsby.fei.cpp",
+					"file": "content/from_wp/sne-01-example-of-essi-simulation-and-visualization-with-visitessi.md",
 					"settings":
 					{
-						"buffer_size": 1585998,
+						"buffer_size": 884,
 						"regions":
 						{
 						},
@@ -1614,8 +1622,123 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/C++/C++.tmLanguage",
-							"tab_size": 4,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/pages/04publications.md",
+					"settings":
+					{
+						"buffer_size": 1936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1195,
+								1195
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -1672,7 +1795,7 @@
 	},
 	"output.git":
 	{
-		"height": 88.0
+		"height": 194.0
 	},
 	"output.gotodocumentation":
 	{
