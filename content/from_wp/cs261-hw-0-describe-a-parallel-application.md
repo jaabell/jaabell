@@ -55,7 +55,7 @@ A particularity of non-linear (plasticity based) FEA simulation is the unknown p
 Brief design description
 #########################
 
-PDD is implemented in ESSI using the [Actor/Shadow][actor]model of concurrency. Actors are autonomous and concurrently executing objects which execute asynchronously. Actors can create new actors and can  send messages to other actors. The Actor model is an Object-Oriented version of message passing in which the Actors represent processes and the methods sent between Actors represent communications (verbatim from [[4](#lecture_notes)].
+PDD is implemented in ESSI using the [Actor/Shadow][actor]model of concurrency. Actors are autonomous and concurrently executing objects which execute asynchronously. Actors can create new actors and can  send messages to other actors. The Actor model is an Object-Oriented version of message passing in which the Actors represent processes and the methods sent between Actors represent communications (verbatim from [[4](#lecture_notes)]).
 
 ![shadowactor](/images/other/shadowactor.png "Shadow/actor model.")
 
@@ -64,9 +64,9 @@ Shadow-actors are the means in which actors communicate. Shadow-actors are objec
 Performance
 ###########
 
-As seen in [3](#pdd), plastic-domain-decomposition method provides a viable way to rebalance a plastifying domain and has seen a reasonable scaling for low number of processes. A comprehensive scaling study on different platforms has not been yet performed. 
+As seen in [[3](#pdd)], plastic-domain-decomposition method provides a viable way to re-balance a plastifying domain and has seen a reasonable scaling for low number of processes. A comprehensive scaling study on different platforms has not been yet performed. 
 
-Currently, ESSI's paralellization is exclusively done using MPI. This implies that for the lower end of the platforms we intend to cover (PCs, laptops) there is a performance hit to improper use of cache. This problem could be solved using a mixed design with threads for shared memory nodes and MPI for network. 
+Currently, ESSI's parallelization is exclusively done using MPI. This implies that for the lower end of the platforms we intend to cover (PCs, laptops) there is a performance hit to improper use of cache. This problem could be solved using a mixed design with threads for shared memory nodes and MPI for network. 
 
 Another big bottleneck currently present is that all input is loaded into the master process, partitioned and then distributed. This results in an unnecessary load to the main process at startup and imposes a cap on how big a model might be solved. In order to solve this issue the parser must be parallelized to some extent, so that different (pre-partitioned) model parts can be loaded into different processors on startup. 
 
