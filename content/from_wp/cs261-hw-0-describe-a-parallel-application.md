@@ -54,7 +54,7 @@ A particularity of non-linear (plasticity based) FEA simulation is the unknown p
 Brief design description
 #########################
 
-PDD is implemented in ESSI using the [Actor/Shadow][actor]model of concurrency. Actors are autonomous and concurrently executing objects which execute asynchronously. Actors can create new actors and can  send messages to other actors. The Actor model is an Object-Oriented version of message passing in which the Actors represent processes and the methods sent between Actors represent communications (verbatim from [[4](#lecture_notes)]).
+PDD is implemented in ESSI using the [Actor/Shadow][actor] model of concurrency. Actors are autonomous and concurrently executing objects which execute asynchronously. Actors can create new actors and can  send messages to other actors. The Actor model is an Object-Oriented version of message passing in which the Actors represent processes and the methods sent between Actors represent communications (verbatim from [[4](#lecture_notes)]).
 
 ![shadowactor](/images/other/shadowactor.png "Shadow/actor model.")
 
