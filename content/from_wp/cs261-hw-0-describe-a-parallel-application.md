@@ -9,7 +9,7 @@ Summary: This is homework # 1 for UC Berkeley class CS261: Application of Parall
 Status: draft
 
 Biography
-#########
+==========
 
 I am a PhD student at UCDavis [CompGeoMech][CompGeoMech] since Sept 2011, working on our in-house high-performance FEM simulation system. I come from Chile, where I did my undergraduate studies in structural engineering, leading to a professional degree in the specialty, at Pontificia Universidad Católica de Chile. Then, I proceeded to do my MS at the same institution in Civil Engineering. My MS thesis was more focused into the hazard part of earthquake engineering. 
 
