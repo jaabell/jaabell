@@ -520,10 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "content/from_wp/tutorial-01-visualizing-essi-with-visitessi.md",
+			"file": "content/posts/simulation-of-a-surface-wave.md",
 			"settings":
 			{
-				"buffer_size": 788,
+				"buffer_size": 933,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,7 +531,7 @@
 			"file": "content/from_wp/sne-01-example-of-essi-simulation-and-visualization-with-visitessi.md",
 			"settings":
 			{
-				"buffer_size": 884,
+				"buffer_size": 891,
 				"line_ending": "Unix"
 			}
 		},
@@ -547,9 +547,17 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 96.0,
+		"height": 264.0,
 		"selected_items":
 		[
+			[
+				"pelisl",
+				"Pelican: Update Slug using Title"
+			],
+			[
+				"peli",
+				"Pelican: Update Article Date"
+			],
 			[
 				"gitpush",
 				"Git: Push"
@@ -561,10 +569,6 @@
 			[
 				"gitadd",
 				"Git: Add Current File"
-			],
-			[
-				"peli",
-				"Pelican: Update Article Date"
 			],
 			[
 				"gitad",
@@ -1057,10 +1061,6 @@
 			[
 				"new",
 				"File: New View into File"
-			],
-			[
-				"jso",
-				"Plist Json Converter: PLIST to JSON"
 			]
 		],
 		"width": 593.0
@@ -1080,6 +1080,7 @@
 	},
 	"file_history":
 	[
+		"/home/jaabell/www/blog/content/from_wp/tutorial-01-visualizing-essi-with-visitessi.md",
 		"/home/jaabell/www/blog/content/from_wp/tutorial-01-visualizing-essi-with-visitessi",
 		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/Makefile",
 		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/case_model3_Ormsby.fei.cpp",
@@ -1206,8 +1207,7 @@
 		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/snippets/add_load_node_linear.sublime-snippet",
 		"/home/jaabell/babak/Mesh_Files/Nodes_Solids",
 		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/feiparser.l",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/feiast.h",
-		"/home/jaabell/Repositories/gitolite-admin/conf/gitolite.conf"
+		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/feiast.h"
 	],
 	"find":
 	{
@@ -1397,23 +1397,23 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "content/from_wp/tutorial-01-visualizing-essi-with-visitessi.md",
+					"file": "content/posts/simulation-of-a-surface-wave.md",
 					"settings":
 					{
-						"buffer_size": 788,
+						"buffer_size": 933,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								671,
-								671
+								152,
+								152
 							]
 						],
 						"settings":
@@ -1485,6 +1485,7 @@
 							[
 							],
 							"pyflakes_ignore_import_*": true,
+							"spell_check": false,
 							"sublimelinter": true,
 							"sublimelinter_delay": 2,
 							"sublimelinter_disable":
@@ -1520,15 +1521,15 @@
 					"file": "content/from_wp/sne-01-example-of-essi-simulation-and-visualization-with-visitessi.md",
 					"settings":
 					{
-						"buffer_size": 884,
+						"buffer_size": 891,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								891,
+								891
 							]
 						],
 						"settings":
@@ -2333,7 +2334,7 @@
 		[
 			[
 				"",
-				"/home/jaabell/Repositories/essi_current.sublime-project"
+				"/home/jaabell/Presentations/presentations.sublime-project"
 			]
 		],
 		"width": 380.0
