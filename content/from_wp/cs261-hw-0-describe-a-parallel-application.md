@@ -72,6 +72,7 @@ Another big bottleneck currently present is that all input is loaded into the ma
 
 
 
+![npp_build](/images/other/npp_build.png "Different physical zones of the NPP.")
 
 
 References
