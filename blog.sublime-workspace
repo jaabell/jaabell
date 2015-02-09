@@ -520,26 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "content/posts/simulation-of-a-surface-wave.md",
+			"file": "content/pages/01about.md",
 			"settings":
 			{
-				"buffer_size": 933,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "content/from_wp/sne-01-example-of-essi-simulation-and-visualization-with-visitessi.md",
-			"settings":
-			{
-				"buffer_size": 891,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "content/pages/04publications.md",
-			"settings":
-			{
-				"buffer_size": 1936,
+				"buffer_size": 1933,
 				"line_ending": "Unix"
 			}
 		}
@@ -547,16 +531,20 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 264.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
-				"pelisl",
-				"Pelican: Update Slug using Title"
-			],
-			[
 				"peli",
 				"Pelican: Update Article Date"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"git stat",
+				"Git: Status"
 			],
 			[
 				"gitpush",
@@ -567,12 +555,44 @@
 				"Git: Commit"
 			],
 			[
+				"gtad",
+				"Git: Add Current File"
+			],
+			[
 				"gitadd",
 				"Git: Add Current File"
 			],
 			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"comm",
+				"Git: Quick Commit"
+			],
+			[
+				"gitps",
+				"Git: Push"
+			],
+			[
 				"gitad",
 				"Git: Add Current File"
+			],
+			[
+				"slug",
+				"Pelican: Update Slug using Title"
+			],
+			[
+				"pelica",
+				"Pelican: New Article (Markdown)"
+			],
+			[
+				"pelisl",
+				"Pelican: Update Slug using Title"
 			],
 			[
 				"git push",
@@ -591,24 +611,12 @@
 				"Git: Commit"
 			],
 			[
-				"pelica",
-				"Pelican: New Article (Markdown)"
-			],
-			[
 				"pro",
 				"Project: Close"
 			],
 			[
 				"date",
 				"Pelican: Update Article Date"
-			],
-			[
-				"slug",
-				"Pelican: Update Slug using Title"
-			],
-			[
-				"mark",
-				"Markdown Preview: Python Markdown: Preview in Browser"
 			],
 			[
 				"upda",
@@ -725,10 +733,6 @@
 			[
 				"autor",
 				"Auto Wrap: Toggle"
-			],
-			[
-				"gitp",
-				"Git: Push"
 			],
 			[
 				"gitcom	",
@@ -1041,26 +1045,6 @@
 			[
 				"forma",
 				"SublimeAStyleFormatter: Format Current File"
-			],
-			[
-				"pa",
-				"Package Control: Install Package"
-			],
-			[
-				"gist ",
-				"Gist: Insert Gist"
-			],
-			[
-				"synta tcl",
-				"Set Syntax: Tcl"
-			],
-			[
-				"syntax tc",
-				"Set Syntax: Tcl"
-			],
-			[
-				"new",
-				"File: New View into File"
 			]
 		],
 		"width": 593.0
@@ -1080,6 +1064,11 @@
 	},
 	"file_history":
 	[
+		"/home/jaabell/www/blog/content/pages/04publications.md",
+		"/home/jaabell/www/blog/content/from_wp/cs261-hw-0-describe-a-parallel-application.md",
+		"/home/jaabell/www/blog/content/from_wp/sne-01-example-of-essi-simulation-and-visualization-with-visitessi.md",
+		"/home/jaabell/www/blog/content/posts/simulation-of-a-surface-wave.md",
+		"/home/jaabell/.bashrc",
 		"/home/jaabell/www/blog/content/from_wp/tutorial-01-visualizing-essi-with-visitessi.md",
 		"/home/jaabell/www/blog/content/from_wp/tutorial-01-visualizing-essi-with-visitessi",
 		"/home/jaabell/Repositories/essi_verification_examples/Seismic_Wave_Propagation_Problems/2D_wave_elastic/Makefile",
@@ -1096,7 +1085,6 @@
 		"/home/jaabell/bin/start_ipythonb_server.sh",
 		"/home/jaabell/www/blog/preview.sh",
 		"/home/jaabell/www/blog/.gitignore",
-		"/home/jaabell/.bashrc",
 		"/home/jaabell/useful_commands.md",
 		"/home/jaabell/www/newwebsite/content/first.md",
 		"/home/jaabell/www/newwebsite/pelicanconf.py",
@@ -1203,11 +1191,7 @@
 		"/home/jaabell/Repositories/essi_feb_21_2014_/API/SIMULATION/define_integrator_loadcontrol_for_static_analysis.h",
 		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/model/AnalysisModel.h",
 		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/integrator/LoadControl.h",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/integrator/LoadControl.cpp",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/snippets/add_load_node_linear.sublime-snippet",
-		"/home/jaabell/babak/Mesh_Files/Nodes_Solids",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/feiparser.l",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/DSL/feiast.h"
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/integrator/LoadControl.cpp"
 	],
 	"find":
 	{
@@ -1397,254 +1381,23 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "content/posts/simulation-of-a-surface-wave.md",
+					"file": "content/pages/01about.md",
 					"settings":
 					{
-						"buffer_size": 933,
+						"buffer_size": 1933,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								152,
-								152
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"spell_check": false,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "content/from_wp/sne-01-example-of-essi-simulation-and-visualization-with-visitessi.md",
-					"settings":
-					{
-						"buffer_size": 891,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								891,
-								891
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "content/pages/04publications.md",
-					"settings":
-					{
-						"buffer_size": 1936,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1195,
-								1195
+								829,
+								829
 							]
 						],
 						"settings":
@@ -1801,6 +1554,10 @@
 	"output.gotodocumentation":
 	{
 		"height": 308.0
+	},
+	"output.markdown":
+	{
+		"height": 112.0
 	},
 	"replace":
 	{
@@ -2334,7 +2091,7 @@
 		[
 			[
 				"",
-				"/home/jaabell/Presentations/presentations.sublime-project"
+				"/home/jaabell/Repositories/essi_current.sublime-project"
 			]
 		],
 		"width": 380.0

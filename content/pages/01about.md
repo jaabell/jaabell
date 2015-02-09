@@ -1,21 +1,23 @@
 Title: About 
-Date: 2013-09-24 22:27
+Date: 2015-02-08 18:29:05
 Author: jaabell
 Slug: 01about
 
 [![me][]][me]
 
-I am a chilean Ph.D. student at [UC Davis][] working in the
+I am a chilean Ph.D. candidate at [UC Davis][] working in the
 [CompGeoMech][]group led by prof. [Boris Jeremić][]. My studies are
 sponsored by [Becas Chile][] scholarship program and [Universidad de los
 Andes][], where I hold a faculty position since 2008 at the [School of
 Engineering and Applied Sciences][]. To my sponsors: *thank you*.
 
-My research focuses on to modeling and simulation of nonlinear soils and
+My research focuses on modeling and simulation of nonlinear soils and
 structures under earthquake loading (see [ESSI Simulator][]) both using
-deterministic and probabilistic (stochastic) models. My major goal right
-now is to understand probabilistic models and implement them within the
-existing FEM analysis framework (ESSI).
+deterministic and probabilistic (stochastic) models. 
+
+A major goal for me is to leverage the use of high-performance
+computing as the enabling technology that will allow the profession to 
+move forward in terms of the power of analysis available to engineers. 
 
 <a title="José A. Abell" href="https://www.researchgate.net/profile/Jose_Abell/"><img src="https://www.researchgate.net/images/public/profile_share_badge.png" alt="José A. Abell" /></a>
 
