@@ -11,5 +11,11 @@
 		{
 			"path": "/home/jaabell/www/pelican-themes/svbtle"
 		}
-	]
+	],
+	"settings":
+	{
+		"FuzzyFilePath":
+		{
+		}
+	}
 }

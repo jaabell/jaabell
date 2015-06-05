@@ -526,12 +526,25 @@
 				"buffer_size": 1933,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "content/pages/05tools.md",
+			"settings":
+			{
+				"buffer_size": 3227,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 392.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -1051,7 +1064,11 @@
 	},
 	"console":
 	{
-		"height": 139.0
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
 	},
 	"distraction_free":
 	{
@@ -1062,8 +1079,16 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/jaabell/www/blog",
+		"/home/jaabell/www/blog/content",
+		"/home/jaabell/www/blog/content/pages"
+	],
 	"file_history":
 	[
+		"/home/jaabell/www/blog/content/pages/useful_commands.md",
+		"/home/jaabell/useful_commands.md",
 		"/home/jaabell/www/blog/content/pages/04publications.md",
 		"/home/jaabell/www/blog/content/from_wp/cs261-hw-0-describe-a-parallel-application.md",
 		"/home/jaabell/www/blog/content/from_wp/sne-01-example-of-essi-simulation-and-visualization-with-visitessi.md",
@@ -1085,7 +1110,6 @@
 		"/home/jaabell/bin/start_ipythonb_server.sh",
 		"/home/jaabell/www/blog/preview.sh",
 		"/home/jaabell/www/blog/.gitignore",
-		"/home/jaabell/useful_commands.md",
 		"/home/jaabell/www/newwebsite/content/first.md",
 		"/home/jaabell/www/newwebsite/pelicanconf.py",
 		"/home/jaabell/www/blog/content/pages/05tools.md",
@@ -1190,8 +1214,7 @@
 		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/model/AnalysisModel.cpp",
 		"/home/jaabell/Repositories/essi_feb_21_2014_/API/SIMULATION/define_integrator_loadcontrol_for_static_analysis.h",
 		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/model/AnalysisModel.h",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/integrator/LoadControl.h",
-		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/integrator/LoadControl.cpp"
+		"/home/jaabell/Repositories/essi_feb_21_2014_/ModifiedOpenSeesServices/analysis/integrator/LoadControl.h"
 	],
 	"find":
 	{
@@ -1387,6 +1410,7 @@
 				{
 					"buffer": 0,
 					"file": "content/pages/01about.md",
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 1933,
@@ -1396,8 +1420,8 @@
 						"selection":
 						[
 							[
-								829,
-								829
+								654,
+								654
 							]
 						],
 						"settings":
@@ -1449,6 +1473,7 @@
 							"gjslint_options":
 							[
 							],
+							"incomplete_sync": null,
 							"javascript_linter": "jshint",
 							"jshint_options":
 							{
@@ -1469,6 +1494,7 @@
 							[
 							],
 							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
 							"sublimelinter": true,
 							"sublimelinter_delay": 2,
 							"sublimelinter_disable":
@@ -1491,6 +1517,7 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
+							"synced": false,
 							"syntax": "Packages/Markdown/Markdown.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -1499,6 +1526,40 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/pages/05tools.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2368,
+								2368
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1547,6 +1608,10 @@
 	{
 		"height": 88.0
 	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
 	"output.git":
 	{
 		"height": 194.0
@@ -1559,6 +1624,12 @@
 	{
 		"height": 112.0
 	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
 	"replace":
 	{
 		"height": 64.0
@@ -1567,6 +1638,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -2087,19 +2159,36 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
 				"",
-				"/home/jaabell/Repositories/essi_current.sublime-project"
+				"/home/jaabell/cs267/cs267.sublime-project"
 			]
 		],
 		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
 	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 151.0,
-	"status_bar_visible": true
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }

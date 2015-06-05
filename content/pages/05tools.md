@@ -12,6 +12,7 @@ Slug: 05tools
     FEA modelling within ESSI Simulator).
 -   [visitESSI][] - (Cr) - A plugin for visualizing ESSI Simulator HDF5
     output.
+-   [gmshtranslator][] - (Cr) - A python parser for gmsh `.msh` format. I use it to create ESSI models.
 
 **3rd. Party tools**
 
@@ -51,9 +52,7 @@ creators.
 As far as OSes go
 
 -   [Ubuntu][] - What? There are other Linux distributions out there?
--   [elementary OS][] - Ok. This might replace my desktop/laptop ubuntu.
-    We'll see with Isis.<span style="color: #f4f4f4;">Maybe I  also use
-    windows for gaming. (</span>
+-   [elementary OS][] - Interesting and pretty Ubuntu-based linux distro. Inspired by mac.
 
 Some [useful commands][].
 
@@ -73,3 +72,4 @@ Some [useful commands][].
   [Ubuntu]: http://www.ubuntu.com
   [elementary OS]: http://elementaryos.org/
   [useful commands]: {filename}/pages/useful_commands.md
+  [gmshtranslator]: https://github.com/jaabell/gmshtranslator
