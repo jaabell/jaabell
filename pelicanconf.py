@@ -38,8 +38,10 @@ GITHUB_URL = "https://github.com/jaabell"
 DEFAULT_HEADER_BG = "/images/header.png"
 
 STATIC_PATHS = [
-    'images', 'pdfs'
+    'images', 'pdfs', 'extra/CNAME'
     ]
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+
 
 DISPLAY_PAGES_ON_MENU = True
 
