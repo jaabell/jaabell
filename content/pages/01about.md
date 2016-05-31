@@ -5,11 +5,8 @@ Slug: 01about
 
 [![me][]][me]
 
-I am a chilean Ph.D. candidate at [UC Davis][] working in the
-[CompGeoMech][]group led by prof. [Boris Jeremić][]. My studies are
-sponsored by [Becas Chile][] scholarship program and [Universidad de los
-Andes][], where I hold a faculty position since 2008 at the [School of
-Engineering and Applied Sciences][]. To my sponsors: *thank you*.
+I am a chilean professor working at [Universidad de los Andes][] within the
+*Civil Infrastructure Systems* group. 
 
 My research focuses on modeling and simulation of nonlinear soils and
 structures under earthquake loading (see [ESSI Simulator][]) both using
@@ -38,7 +35,7 @@ move forward in terms of the power of analysis available to engineers.
     "CompGeoMech"
   [Boris Jeremić]: http://sokocalo.engr.ucdavis.edu/~jeremic/
   [Becas Chile]: http://www.becaschile.cl
-  [Universidad de los Andes]: http://www.uandes.cl
+  [Universidad de los Andes]: http://ing.uandes.cl
   [School of Engineering and Applied Sciences]: http://ing.uandes.cl
   [ESSI Simulator]: http://nrc-essi-simulator.info/
   [me]: /images/me.png 
