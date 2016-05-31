@@ -38,4 +38,4 @@ move forward in terms of the power of analysis available to engineers.
   [Universidad de los Andes]: http://ing.uandes.cl
   [School of Engineering and Applied Sciences]: http://ing.uandes.cl
   [ESSI Simulator]: http://nrc-essi-simulator.info/
-  [me]: /images/me.png 
+  [me]: /images/me.jpeg 
