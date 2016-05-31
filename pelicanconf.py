@@ -6,7 +6,7 @@ AUTHOR = u'Jose Abell'
 SITENAME = u'Jose Abell\'s Research Blog'
 # SITEURL = 'www.joseabell.com'
 
-TIMEZONE = 'CA'
+TIMEZONE = 'US/Pacific'
 
 DEFAULT_LANG = u'en'
 
@@ -50,7 +50,7 @@ DISPLAY_PAGES_ON_MENU = True
 TYPOGRIFY = True
 
 #Plugins 
-PLUGIN_PATH = '/home/jaabell/www/pelican-plugins'
+PLUGIN_PATHS = ['/home/jaabell/www/pelican-plugins']
 PLUGINS = ["pelican_youtube", "ipythonnb", "render_math"]
 MARKUP = ('md', 'ipynb')
 IGNORE_FILES = ['*checkpoint.ipynb']
