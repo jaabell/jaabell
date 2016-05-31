@@ -20,5 +20,8 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+
+
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
