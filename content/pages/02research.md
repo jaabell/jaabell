@@ -1,9 +1,9 @@
 Title: Research
-Date: 2016-05-31 22:02:03
+Date: 2016-05-31 22:52:49
 Author: jaabell
 Slug: 02research
 
-In revision...
+Finished my PhD. So this page is in revision...
 
 
-José A. Abell – May 2014
+José A. Abell – March 2016
