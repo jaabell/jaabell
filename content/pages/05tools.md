@@ -1,11 +1,11 @@
 Title: Tools
-Date: 2015-06-04 17:52:08
+Date: 2016-05-31 22:54:35
 Author: jaabell
 Slug: 05tools
 
 **Tools I've (Cr)eated/(Co)ntributed to**
 
--   <span style="line-height: 14px;">[RealESSI Simulator][] - (Co) UCD
+-   [RealESSI Simulator][] - (Co) UCD
     Earthquake-Soil-Structure Interaction simulator system. </span>
 -   [FEI-Syntax-n-Snippets][] - (Cr) - Syntax highlighter and snippets
     for the Finite Element Interpreter (A domain specific language for
@@ -56,7 +56,7 @@ As far as OSes go
 
 Some [useful commands][].
 
-  [ESSI Simulator]: http://sokocalo.engr.ucdavis.edu/~jeremic/ESSI_Simulator/
+  [RealESSI Simulator]: http://sokocalo.engr.ucdavis.edu/~jeremic/ESSI_Simulator/
   [FEI-Syntax-n-Snippets]: https://github.com/jaabell/fei-syntax-n-snippets
   [visitESSI]: https://github.com/jaabell/visitESSI
   [Spyder]: https://code.google.com/p/spyderlib/
