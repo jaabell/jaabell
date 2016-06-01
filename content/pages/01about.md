@@ -37,5 +37,5 @@ move forward in terms of the power of analysis available to engineers.
   [Becas Chile]: http://www.becaschile.cl
   [Universidad de los Andes]: http://ing.uandes.cl
   [School of Engineering and Applied Sciences]: http://ing.uandes.cl
-  [ESSI Simulator]: http://nrc-essi-simulator.info/
+  [RealESSI Simulator]: http://nrc-essi-simulator.info/
   [me]: /images/me.jpeg 
