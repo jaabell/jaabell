@@ -9,7 +9,7 @@ I am a chilean professor working at [Universidad de los Andes][] within the
 *Civil Infrastructure Systems* group. 
 
 My research focuses on modeling and simulation of nonlinear soils and
-structures under earthquake loading (see [ESSI Simulator][]) both using
+structures under earthquake loading (see [RealESSI Simulator][]) both using
 deterministic and probabilistic (stochastic) models. 
 
 A major goal for me is to leverage the use of high-performance

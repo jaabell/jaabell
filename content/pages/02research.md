@@ -1,8 +1,10 @@
-Title: Research
-Date: 2014-05-25 18:10
+Title: Research statement
+Date: 2016-05-31 22:02:03
 Author: jaabell
 Slug: 02research
 
+In revision...
+<!-- 
 <span style="font-size: medium;">Designing civil systems which are more
 economic, sustainable, and display adequate performance and reliability
 in </span><span style="font-size: medium;">a
@@ -79,6 +81,6 @@ meaningful information to decision makers about
 affect </span><span style="font-size: medium;">a
 </span><span style="font-size: medium;">system
 </span><span style="font-size: medium;">both from a performance and
-lifetime cost point of view.</span>
+lifetime cost point of view.</span -->>
 
 José A. Abell – May 2014
