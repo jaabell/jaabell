@@ -3,12 +3,10 @@ Date: 2016-07-22 10:40:20
 Author: jaabell
 Slug: 03teaching
 
-UAndes
-
-- (2nd. Semester 2016) - [Finite Elements](http://www.joseabell.com/pages/finite-elements.html)
+Currently: (2nd. Semester 2016) - Finite Elements [[webpage](http://www.joseabell.com/pages/finite-elements.html)]
 
 
-At [UCDavis][] (2011 - 2015)
+At [UCDavis][] (2011 - 2014)
 
 -   (Spring 2014) Teaching Assistant for ENG 16 (Spatial Data Analysis, Section 1)
 -   (Winter 2014) Teaching Assistant for ENG 104 (Mechanics of Materials, Section 4)
@@ -20,7 +18,7 @@ At [UCDavis][] (2011 - 2015)
 
 At [Universidad de los Andes][] (Before Ph.D.)
 
--   <span style="line-height: 14px;">Statics (3 Times)</span>
+-   Statics (3 Times)
 -   Mechanics of Materials (2 Times)
 -   Resistance of Materials (1 Time)
 -   Structural Analysis (2 Times)
