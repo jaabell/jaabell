@@ -5,7 +5,7 @@ Slug: 03teaching
 
 UAndes
 
-- (2nd. Semester 2016) - [Finite Elements][http://www.joseabell.com/pages/finite-elements.html]
+- (2nd. Semester 2016) - [Finite Elements](http://www.joseabell.com/pages/finite-elements.html)
 
 
 At [UCDavis][] (2011 - 2015)
