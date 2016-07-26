@@ -45,22 +45,16 @@ Contenidos
 
 29 clases.
 
-- Introducción: Discretización de elementos finitos: nodos y grados de libertad.                    (1 clase)
-
-- Método de rigidez directa (repaso).                                                               (2 clases)
-
-- Forma débil y formulación variacional (teoría de elementos finitos).                              (4 clases)
-
-- Elementos finitos para problemas sólidos                                                          (8 clases)
-  - Reticulado y viga de Bernoulli como elementos finitos (2d y 3d)                                 [2 clases]
-  - Elementos para análisis 2-D (triángulos y cuadriláteros de primer y segundo órden)              [2 clases]
-  - Elementos para análisis 3-D (tetrahedros y hexaédros de primer y segundo órden)                 [2 clases]
-  - Elementos para flexión bidimensional (plate theory)                                             [2 Clases]
-
-- Propagación de ondas con elementos finitos (elementos finitos dinámicos).                         (6 clases)
-
-- Problemas de fluídos.                                                                             (3 clases)
-
+- Introducción: Discretización de elementos finitos: nodos y grados de libertad.                    **(1 clase)**
+- Método de rigidez directa (repaso).                                                               **(2 clases)**
+- Forma débil y formulación variacional (teoría de elementos finitos).                              **(4 clases)**
+- Elementos finitos para problemas sólidos                                                          **(8 clases)**
+  + Reticulado y viga de Bernoulli como elementos finitos (2d y 3d)                                 **[2 clases]**
+  + Elementos para análisis 2-D (triángulos y cuadriláteros de primer y segundo órden)              **[2 clases]**
+  + Elementos para análisis 3-D (tetrahedros y hexaédros de primer y segundo órden)                 **[2 clases]**
+  + Elementos para flexión bidimensional (plate theory)                                             **[2 Clases]**
+- Propagación de ondas con elementos finitos (elementos finitos dinámicos).                         **(6 clases)**
+- Problemas de fluídos.                                                                             **(3 clases)**
 - (Si alcanza el tiempo) Elementos para análisis acoplado (fase fluída y fase sólida) de medios porosos. (2 clases)
 
 
