@@ -20,14 +20,11 @@ Requiere aptitud o disposición para programar, solo y en equipo.
 - Horario de oficina: Por definir.
 - 29 - 31 clases expositivas.
 
-## Competencias
+## Competencias desarrolladas
 
 - Entender la teoría del método de elementos finitos.
-
 - Desarrollar elementos finitos simples para problemas de elasticidad.
-
 - Aprender técnicas de mallado para problemas de elementos finitos.
-
 - Resolver problemas de propagación de ondas en elementos finitos.
 
 ## Evaluación
@@ -46,9 +43,25 @@ Calendario
 Contenidos
 ============
 
-- Introducción: Discretización de elementos finitos: nodos y grados de libertad. 
-- Método de rigidez directa. 
-- 
+29 clases.
+
+- Introducción: Discretización de elementos finitos: nodos y grados de libertad.                    (1 clase)
+
+- Método de rigidez directa (repaso).                                                               (2 clases)
+
+- Forma débil y formulación variacional (teoría de elementos finitos).                              (4 clases)
+
+- Elementos finitos para problemas sólidos                                                          (8 clases)
+  - Reticulado y viga de Bernoulli como elementos finitos (2d y 3d)                                 [2 clases]
+  - Elementos para análisis 2-D (triángulos y cuadriláteros de primer y segundo órden)              [2 clases]
+  - Elementos para análisis 3-D (tetrahedros y hexaédros de primer y segundo órden)                 [2 clases]
+  - Elementos para flexión bidimensional (plate theory)                                             [2 Clases]
+
+- Propagación de ondas con elementos finitos (elementos finitos dinámicos).                         (6 clases)
+
+- Problemas de fluídos.                                                                             (3 clases)
+
+- (Si alcanza el tiempo) Elementos para análisis acoplado (fase fluída y fase sólida) de medios porosos. (2 clases)
 
 
 Lectura Personal
@@ -60,12 +73,13 @@ Lectura Personal
 Tareas 
 ============
 
-- ** Tarea 1 ** (17 Agosto)- Generación de mallas de elementos finitos y método de rigidez directa. 
-- ** Tarea 2 ** (31 Agosto)- 
-- ** Tarea 3 ** (14 Septiembre)- 
-- ** Tarea 4 ** (28 Septiembre)- 
-- ** Tarea 5 ** (26 Octubre)- 
-- ** Tarea 6 ** (9 Noviembre)- 
+- ** Tarea 1 ** (17 Agosto)      - Generación de mallas de elementos finitos y método de rigidez directa. 
+- ** Tarea 2 ** (31 Agosto)      - Teoría de elementos finitos.
+- ** Tarea 3 ** (14 Septiembre)  - Elementos Finitos 1D
+- ** Tarea 4 ** (28 Septiembre)  - Elementos Finitos 2D 
+- ** Tarea 5 ** (12 Octubre)     - Elementos Finitos 3D
+- ** Tarea 6 ** (26 Octubre)     - Propagación de Ondas
+- ** Tarea 7 ** (9 Noviembre)    - Fluidos   
 
 
 Proyecto de Modelamiento
