@@ -15,6 +15,7 @@ Requiere aptitud o disposición para programar, solo y en equipo.
 
 ## Generalidades
 
+- Creditos: 6 (\$ 6 / 18 \approx 10 \$ horas semanales)
 - Clases: L-W 10:30-12:20 (L: C-13 W:H-03)
 - Profesor: José Abell (jaabell@miuandes.cl)
 - Horario de oficina: Por definir.
@@ -55,7 +56,7 @@ Contenidos
   + Elementos para flexión bidimensional (plate theory)                                             **[2 Clases]**
 - Propagación de ondas con elementos finitos (elementos finitos dinámicos).                         **(6 clases)**
 - Problemas de fluídos.                                                                             **(3 clases)**
-- (Si alcanza el tiempo) Elementos para análisis acoplado (fase fluída y fase sólida) de medios porosos. (2 clases)
+- (Si alcanza el tiempo) Elementos para análisis acoplado (fase fluída y fase sólida) de medios porosos. **(2 clases)**
 
 
 Lectura Personal
