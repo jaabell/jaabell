@@ -1,5 +1,5 @@
 Title: Elementos Finitos - 2nd. Sem. 2016
-Date: 2016-07-27 17:36:02
+Date: 2016-08-01 10:13:22
 Author: jaabell
 Slug: finite-elements
 status: hidden
@@ -87,7 +87,13 @@ Proyecto de Modelamiento
 
 **Presentación (23 Noviembre)**
 
-Consiste en modelar mediante elementos finitos, usando el código generado durante el semestre (u opcionalmente algún otro *código de fuente abierta* ), algo dentro del campus de la universidad. Se deberá presentar un breve informe describiendo el modelo y las técnicas usadas para su resolución, así como también un análisis crítico de la incerteza dentro de su modelo y las limitaciones que este tiene. 
+
+
+* *Formato 1* Consiste en modelar mediante elementos finitos, usando el código generado durante el semestre (u opcionalmente algún otro *código de fuente abierta* ), algun objecto dentro del campus de la universidad. Debe realizar alguna medición y usar su modelo matemático para hacer una preddición de esa medición. Se deberá presentar un breve informe y realizar una presentación describiendo el modelo y las técnicas usadas para su resolución, así como también un análisis crítico de la incerteza dentro de su modelo y las limitaciones que este tiene. 
+
+* *Formato 2* Implementar alguna técnica que no se haya visto en el curso. Para esto ud. deberá referirse a la bibliografía del curso o a la investigación científica (con ayuda del profesor) para escoger la técnica a implementar. Se entregará un breve informe y una presentación describiendo la técnica, comentando sobre su uso, ventajas y desventajas y mostrando su implementación y correcto funcionamiento.
+
+
 
 
 Links
