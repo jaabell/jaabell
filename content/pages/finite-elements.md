@@ -15,7 +15,7 @@ Requiere aptitud o disposición para programar, solo y en equipo.
 - Creditos: 6 ($ \frac{6 \text{creditos} \cdot 30 \text{horas/credito} }{ 18 \text{semanas}} \\approx 10 $ horas semanales)
 - Clases: L-W 10:30-12:20 (L: C-13 W:H-03)
 - Profesor: José Abell (jaabell@miuandes.cl)
-- Horario de oficina: Por definir.
+- Horario de oficina: L-W (15:30 - 17:30)
 - 29 - 31 clases expositivas.
 
 ## Competencias desarrolladas
