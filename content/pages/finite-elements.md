@@ -99,6 +99,7 @@ Proyecto de Modelamiento
 Links
 ============
 
-- [gmsh](http://gmsh.info/) Mallador de código abierto que será usado en este curso. 
+- Un buen tutorial de python científico: [http://www.scipy-lectures.org/](http://www.scipy-lectures.org/).
 - [python(x,y)](https://python-xy.github.io/) Distribución de python para windows orientada para el cálculo científico (usuarios de Mac deben instalar componentes por separado). 
+- [gmsh](http://gmsh.info/) Mallador de código abierto que será usado en este curso. 
 - [Finite Elements at University of Colorado, Boulder](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/Home.html).  (Prof. Carlos Felippa). Este curso está fuertemente basado en este. 
