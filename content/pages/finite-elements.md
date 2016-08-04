@@ -73,7 +73,7 @@ Lectura Personal
 Tareas 
 ============
 
-- ** Tarea 1 ** (17 Agosto)      - Generación de mallas de elementos finitos y método de rigidez directa. 
+- ** Tarea 1 ** (17 Agosto)      - Generación de mallas de elementos finitos y método de rigidez directa. [Enunciado](https://www.dropbox.com/s/vquzh1qhfhoz9a0/t1.pdf?dl=1)
 - ** Tarea 2 ** (31 Agosto)      - Teoría de elementos finitos.
 - ** Tarea 3 ** (14 Septiembre)  - Elementos Finitos 1D
 - ** Tarea 4 ** (28 Septiembre)  - Elementos Finitos 2D 
