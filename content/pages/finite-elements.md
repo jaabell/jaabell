@@ -73,6 +73,10 @@ Lectura Personal
 Tareas 
 ============
 
+
+
+**Instrucciones generales:** las tareas se entregan en grupos de máximo 2 integrantes a través del sistema SAF. Debe entregar dos archivos: un *.pdf* con el informe y un *.zip* con todo el código fuente que reproduce sus resultados (archvios de geometría, malla, código de elementos finitos, resultados intermedios e imágenes incluidas en su informe deben estar en una estructura de carpetas coherente). Si el código no corre correctamente se considerará tarea no realizada.
+
 - ** Tarea 1 ** (17 Agosto)      - Método de rigidez directa. [[Enunciado](https://www.dropbox.com/s/vquzh1qhfhoz9a0/t1.pdf?dl=1)]
 - ** Tarea 2 ** (31 Agosto)      - Teoría de elementos finitos.
 - ** Tarea 3 ** (14 Septiembre)  - Elementos Finitos 1D
