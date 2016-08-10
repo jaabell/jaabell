@@ -72,6 +72,8 @@ Ejemplos
 ============
 - Introduccion: Ejemplo sobre MRD con la funcion de la tarea 1. Ejemplo completo con solucion del
 sistema y graficos. [ejemplo.py](https://www.dropbox.com/s/vt2cazdop2ioqm4/ejemplo.py?dl=0)
+- Introducción. Hint para leer archivos *.msh* en python. 
+[ejemplo_leer_archivo.py](https://www.dropbox.com/s/gjmdqnn5k7wj300/ejemplo_leer_archivo.pyt?dl=0)
 
 Tareas 
 ============
