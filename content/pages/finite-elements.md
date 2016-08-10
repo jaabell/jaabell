@@ -67,7 +67,6 @@ Lectura Personal
 
 1. 15 de Agosto:
     * [Libro de Felippa. Chapter 7. FEM Modeling: Mesh, Loads and BCs](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch07.d/IFEM.Ch07.pdf) Secciones 7.4 en adelante. 
-    * [Libro de Felippa. Chapter 2. Direct Stiffness Method I](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch02.d/IFEM.Ch02.pdf).
 
 Ejemplos
 ============
