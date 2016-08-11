@@ -1,5 +1,5 @@
 Title: Métodos Computacionales Aplicados a Ingeniería Civil
-Slug: métodos-computacionales-aplicados-a-ingeniería-civil
+Slug: metodos-computacionales-aplicados-a-ingenieria-civil
 Date: 2016-08-10 23:46:19
 Author: jaabell
 status: hidden
