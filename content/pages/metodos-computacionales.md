@@ -8,20 +8,20 @@ Matematicas
 ###########
 
 * Álgebra lineal
-  * Solucion de $A x = b$
-  * Problemas de valores y vectores propios
+    * Solucion de $A x = b$
+    * Problemas de valores y vectores propios
 
-* Ceros de ecuaciones  (1-D y N-D)
-  * Newton
-  * Biseccion 
-  * BFGS
+* Ceros de ecuaciones    (1-D y N-D)
+    * Newton
+    * Biseccion 
+    * BFGS
 
 * Ecuaciones diferenciales ordinarias
-  * Primer orden, lineales y nolineales
-  * Sistemas de EDO (system theory)
+    * Primer orden, lineales y nolineales
+    * Sistemas de EDO (system theory)
 
 * Transformadas de Fourier
-  * Posiblemente otras transformadas
+    * Posiblemente otras transformadas
 
 * Optimizacion 
 
@@ -42,9 +42,9 @@ Computacion
 * Graficación 2d y 3d
 
 * Almacenaje de datos
-  * Texto
-  * Binario
-  * Formatos especiales (.npz, HDF5 (.mat) )
+    * Texto
+    * Binario
+    * Formatos especiales (.npz, HDF5 (.mat) )
 
 * Compresion de datos
 
