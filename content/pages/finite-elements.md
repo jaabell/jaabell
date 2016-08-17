@@ -68,6 +68,14 @@ Lectura Personal
 1. 15 de Agosto:
     * [Libro de Felippa. Chapter 7. FEM Modeling: Mesh, Loads and BCs](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch07.d/IFEM.Ch07.pdf) Secciones 7.4 en adelante. 
 
+1. 22 de Agosto.
+    * [Curso de FEM Avanzado de Felippa. Chapter 1: Introduction](http://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/AFEM.Ch01.d/AFEM.Ch01.pdf) Capitulo introductorio de interes general. Fijarse especialmente en el ejemplo del final. 
+    * [Curso de FEM Avanzado de Felippa. Chapter 6: Decomposition of Poisson Problems](http://www.colorado.edu/engineering/CAS/courses.d/AVMM.d/AVMM.Ch06.d/AVMM.Ch06.pdf) hasta seccion 6.4. 
+
+1. 29 de Agosto. 
+    * [Libro de Felippa. Chapter 11: Variational Formulation of Bar Element](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch11.d/IFEM.Ch11.pdf)
+
+
 Ejemplos
 ============
 - Introduccion: Ejemplo sobre MRD con la funcion de la tarea 1. Ejemplo completo con solucion del
@@ -83,7 +91,8 @@ Tareas
 **Instrucciones generales:** las tareas se entregan en grupos de máximo 2 integrantes a través del sistema SAF. Debe entregar dos archivos: un *.pdf* con el informe y un *.zip* con todo el código fuente que reproduce sus resultados (archvios de geometría, malla, código de elementos finitos, resultados intermedios e imágenes incluidas en su informe deben estar en una estructura de carpetas coherente). Si el código no corre correctamente se considerará tarea no realizada.
 
 - ** Tarea 1 ** (17 Agosto)      - Método de rigidez directa. [[Enunciado](https://www.dropbox.com/s/vquzh1qhfhoz9a0/t1.pdf?dl=1)]
-- ** Tarea 2 ** (31 Agosto)      - Teoría de elementos finitos.
+- ** Tarea 2 ** (31 Agosto)      - Teoría de Elementos Finitos y Más Método de Rigidez Directa. [
+[Enunciado](https://www.dropbox.com/s/bmonzrj9tyk6fgn/t2.pdf?dl=1)]
 - ** Tarea 3 ** (14 Septiembre)  - Elementos Finitos 1D
 - ** Tarea 4 ** (28 Septiembre)  - Elementos Finitos 2D 
 - ** Tarea 5 ** (12 Octubre)     - Elementos Finitos 3D

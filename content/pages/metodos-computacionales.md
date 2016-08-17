@@ -35,6 +35,8 @@ Computacion
 
 * Hardware y como influye en el rendimiento de programas
 
+* Complejidad de algoritmnos
+
 * Lenguaje python (otros lenguajes? C++?)
 
 * Sistemas de control de versiones (git)
