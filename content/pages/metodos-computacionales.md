@@ -29,6 +29,8 @@ Matematicas
 
 * Grafos
 
+* Regresiones
+
 
 Computacion
 ###########
@@ -41,7 +43,7 @@ Computacion
 
 * Sistemas de control de versiones (git)
 
-* Graficación 2d y 3d
+* Graficación 2d y 3d (lindurizar los gráficos)
 
 * Almacenaje de datos
     * Texto
@@ -58,6 +60,10 @@ Computacion
 
 * Linux
 
+* CAS
+
+
+
 
 Aplicaciones
 ############
@@ -67,5 +73,5 @@ Aplicaciones
 
 * Estructuras/Suelos (2)
 * Transporte (2)
-* Hidraulica 
+* Hidraulica (2)
 * Materiales
