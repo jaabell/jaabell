@@ -120,3 +120,7 @@ Links
 - [python(x,y)](https://python-xy.github.io/) Distribución de python para windows orientada para el cálculo científico (usuarios de Mac deben instalar componentes por separado). 
 - [gmsh](http://gmsh.info/) Mallador de código abierto que será usado en este curso. 
 - [Finite Elements at University of Colorado, Boulder](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/Home.html).  (Prof. Carlos Felippa). Este curso está fuertemente basado en este otro. 
+- Recursos para hacer gráficos bien
+    - [Esto](http://flowingdata.com/2010/07/22/7-basic-rules-for-making-charts-and-graphs/)
+    - [y esto](http://hackerspace.kinja.com/5-rules-for-making-graphs-1605706367)
+    - [tambien esto](https://visage.co/peoples-charts-graphs-look-like-crap/)
