@@ -72,8 +72,11 @@ Lectura Personal
     * [Curso de FEM Avanzado de Felippa. Chapter 1: Introduction](http://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/AFEM.Ch01.d/AFEM.Ch01.pdf) Capitulo introductorio de interés general. Fijarse especialmente en el ejemplo del final. 
     * [Curso de FEM Avanzado de Felippa. Chapter 6: Decomposition of Poisson Problems](http://www.colorado.edu/engineering/CAS/courses.d/AVMM.d/AVMM.Ch06.d/AVMM.Ch06.pdf) hasta seccion 6.4. 
 
-1. 29 de Agosto. 
+1. <s>29 de Agosto.</s> 31 de Agosto
     * [Libro de Felippa. Chapter 11: Variational Formulation of Bar Element](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch11.d/IFEM.Ch11.pdf)
+
+1. 5 de Septiembre.
+    * [Libro de Felippa. Chapter 12: Variational Formulation of Plane Beam Element.](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch12.d/IFEM.Ch12.pdf)
 
 
 Ejemplos
@@ -124,3 +127,4 @@ Links
     - [Esto](http://flowingdata.com/2010/07/22/7-basic-rules-for-making-charts-and-graphs/)
     - [y esto](http://hackerspace.kinja.com/5-rules-for-making-graphs-1605706367)
     - [tambien esto](https://visage.co/peoples-charts-graphs-look-like-crap/)
+    - [porfavor esto](http://fosslien.com/rules/)
