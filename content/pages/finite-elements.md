@@ -78,6 +78,8 @@ Lectura Personal
 1. 5 de Septiembre.
     * [Libro de Felippa. Chapter 12: Variational Formulation of Plane Beam Element.](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch12.d/IFEM.Ch12.pdf)
 
+1. 12 de Septiembre.
+    * [Libro de Felippa. Chapter 15: The Plane Stress Problem](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch14.d/IFEM.Ch14.pdf)
 
 Ejemplos
 ============
@@ -85,6 +87,8 @@ Ejemplos
 sistema y graficos. [ejemplo.py](https://www.dropbox.com/s/vt2cazdop2ioqm4/ejemplo.py?dl=0)
 - Introducción. Hint para leer archivos *.msh* en python. 
 [ejemplo_leer_archivo.py](https://www.dropbox.com/s/q00xvko2zeoa4lq/ejemplo_leer_archivo.py?dl=0)
+- Graficando polinomios de Hermite en python. [hermite.py](https://www.dropbox.com/s/j3eqr09wnqz2osk/hermite.py?dl=0)
+
 
 Tareas 
 ============
@@ -95,7 +99,7 @@ Tareas
 
 - ** Tarea 1 ** (17 Agosto)      - Método de rigidez directa. [[Enunciado](https://www.dropbox.com/s/vquzh1qhfhoz9a0/t1.pdf?dl=0)]
 - ** Tarea 2 ** (31 Agosto)      - Teoría de Elementos Finitos y Más Método de Rigidez Directa. [[Enunciado](https://www.dropbox.com/s/bmonzrj9tyk6fgn/t2.pdf?dl=0)]
-- ** Tarea 3 ** (14 Septiembre)  - Elementos Finitos 1D
+- ** Tarea 3 ** (14 Septiembre)  - Elementos Finitos 1D [[Enunciado](https://www.dropbox.com/s/1vidv6lzhr6ahby/t3.pdf?dl=0)]
 - ** Tarea 4 ** (28 Septiembre)  - Elementos Finitos 2D 
 - ** Tarea 5 ** (12 Octubre)     - Elementos Finitos 3D
 - ** Tarea 6 ** (26 Octubre)     - Propagación de Ondas
