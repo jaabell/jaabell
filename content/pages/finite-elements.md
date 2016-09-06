@@ -79,7 +79,7 @@ Lectura Personal
     * [Libro de Felippa. Chapter 12: Variational Formulation of Plane Beam Element.](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch12.d/IFEM.Ch12.pdf)
 
 1. 12 de Septiembre.
-    * [Libro de Felippa. Chapter 15: The Plane Stress Problem](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch14.d/IFEM.Ch14.pdf)
+    * [Libro de Felippa. Chapter 14: The Plane Stress Problem](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch14.d/IFEM.Ch14.pdf)
 
 Ejemplos
 ============
