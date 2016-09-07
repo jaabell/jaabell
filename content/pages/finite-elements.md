@@ -109,14 +109,35 @@ Tareas
 Proyecto de Modelamiento
 ============
 
-**Presentación (23 Noviembre)**
+**Presentación (23 Noviembre)** Posters!
 
 
 
-* *Formato 1* Consiste en modelar mediante elementos finitos, usando el código generado durante el semestre (u opcionalmente algún otro *código de fuente abierta* ), algun objecto dentro del campus de la universidad. Debe realizar alguna medición y usar su modelo matemático para hacer una preddición de esa medición. Se deberá presentar un breve informe y realizar una presentación describiendo el modelo y las técnicas usadas para su resolución, así como también un análisis crítico de la incerteza dentro de su modelo y las limitaciones que este tiene. 
+* *Formato 1* Consiste en modelar mediante elementos finitos, usando el código generado durante el semestre (u opcionalmente algún otro *código de fuente abierta* ), algun objecto dentro del campus de la universidad. 
 
-* *Formato 2* Implementar alguna técnica que no se haya visto en el curso. Para esto ud. deberá referirse a la bibliografía del curso o a la investigación científica (con ayuda del profesor) para escoger la técnica a implementar. Se entregará un breve informe y una presentación describiendo la técnica, comentando sobre su uso, ventajas y desventajas y mostrando su implementación y correcto funcionamiento.
+    * Opción 1.1 - Comparar dos estrategias de modelamiento para el mismo problema. Una debe ser
+    más detallada o precisa que la otra (incerteza en el modelamiento).
+    * Opción 1.2 - Hacer alguna medición de la respuesta del objeto y tratar de modelarla lo más
+    preciso posible. 
 
+* *Formato 2* Implementar alguna técnica que no se haya visto en el curso. Para esto ud. deberá
+referirse a la bibliografía del curso o a la investigación científica (con ayuda del profesor) para
+escoger la técnica a implementar. Se deberá presentar la implementaciómn y verificación de la
+técnica. 
+
+
+**Ideas para proyecto**
+
+*Entre corchetes [] el tipo de trabajo*
+
+ - [1.2] Propagación de ondas en la fuente del edificio central. (ver [Ecuaciones de aguas someras](https://en.wikipedia.org/wiki/Shallow_water_equations)) 
+ - [1.2] Notas producidas por una copa o vaso (ver [Coffee Cup Vibrations](https://www.youtube.com/watch?v=MfzNJE4CK_s)).
+ - [1.2] Vibraciones en el puente del edificio central. (Usar acelerómetro del celular).
+ - [1.2] Deformación de alguna baranda o posamanos al apoyarse en el. 
+ - [1.2] Vibraciones libres y amortiguamiento en un arco de futbol (sometido a un pelozato). 
+ - [ 2 ] Implementar elementos acoplados u-p-U. Modelar ensayos de consolidación. 
+ - [ 2 ] Implementar elementos acoplados u-p-U. Modelar ensayos de consolidación. 
+ - [ 2 ] Implementar elemento termoelástico. (Resolver problema de calor acoplado con elasticidad).
 
 
 
