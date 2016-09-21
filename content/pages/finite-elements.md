@@ -81,6 +81,9 @@ Lectura Personal
 1. 12 de Septiembre.
     * [Libro de Felippa. Chapter 14: The Plane Stress Problem](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch14.d/IFEM.Ch14.pdf)
 
+1. 26 de Septiembre
+    * [Libro de Felippa. Chapter 18: Shape Function Magic](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch18.d/IFEM.Ch18.pdf)
+
 Ejemplos
 ============
 - Introduccion: Ejemplo sobre MRD con la funcion de la tarea 1. Ejemplo completo con solucion del
