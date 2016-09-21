@@ -92,6 +92,7 @@ sistema y graficos. [ejemplo.py](https://www.dropbox.com/s/vt2cazdop2ioqm4/ejemp
 - Introducción. Hint para leer archivos *.msh* en python. 
 [ejemplo_leer_archivo.py](https://www.dropbox.com/s/q00xvko2zeoa4lq/ejemplo_leer_archivo.py?dl=0)
 - Graficando polinomios de Hermite en python. [hermite.py](https://www.dropbox.com/s/j3eqr09wnqz2osk/hermite.py?dl=0)
+- Para graficar resultados en gmsh. [export_to_gmsh.py](https://www.dropbox.com/s/hytpc5btq8fvjhl/export_to_gmsh.py?dl=0)
 
 
 Tareas 
