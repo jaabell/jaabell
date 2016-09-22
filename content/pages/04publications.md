@@ -12,8 +12,11 @@ Slug: 04publications
 
 ***Conference Proceedings***
 
--   N.
-    Tafazzoli, F. Pisanò, J. A. Abell M., B. Kamrani, C.-G. Jeong, B.
+-  José Antonio Abell Mena, Sumeet Kumar Sinha, Boris Jeremić, Wavelet Based Synthetic Earthquake Sources for Path and Soil Structure Interaction Modeling: Stress Testing of Nuclear Power Plants In proceedings of IAEA conference on: Best Practices in Physicsbased Fault Rupture Models for Seismic Hazard Assessment of Nuclear Installations, Vienna, Austria, November 1820, 2015
+
+- Nebojša Orbović, Boris Jeremić, José Antonio Abell Mena, Chao Luo, Robert P. Kennedy and Andrei Blaihoanu, Use of Nonlinear, Time Domain Analysis for Design in Proceedings of the Structural Mechanics in Reactor Technology (SMiRT) 2015 Conference, Manchester, August 10-14, 2015.
+
+-   N.Tafazzoli, F. Pisanò, J. A. Abell M., B. Kamrani, C.-G. Jeong, B.
     Aldridge, R. Roche, A. Kammerer, and B. Jeremic*- ESSI Simulator
     Program, Current Status* . Proceedings of the 22nd. Structural
     Mechanics in Reactor Technology (SMiRT 22) Conference, San
