@@ -4,6 +4,7 @@ Author: jaabell
 Slug: 01about
 
 [![me][]][me]
+[![CIS][]][cis]
 
 I am a chilean professor working at [Universidad de los Andes][] within the
 *Civil Infrastructure Systems* group. 
@@ -39,3 +40,4 @@ move forward in terms of the power of analysis available to engineers.
   [School of Engineering and Applied Sciences]: http://ing.uandes.cl
   [RealESSI Simulator]: http://nrc-essi-simulator.info/
   [me]: /images/me.jpeg 
+  [cis]: /images/logocis.png 
