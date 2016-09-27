@@ -85,6 +85,9 @@ Lectura Personal
     * [Libro de Felippa. Chapter 16: The Iso'Parametric Representation](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch16.d/IFEM.Ch16.pdf)
     * [Libro de Felippa. Chapter 18: Shape Function Magic](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch18.d/IFEM.Ch18.pdf)
 
+1. 3 de Octubre
+    * [Curso de FEM Avanzado de Felippa. Kirchoff Plates: Field Equations](http://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/AFEM.Ch20.d/AFEM.Ch20.pdf)
+
 Ejemplos
 ============
 - Introduccion: Ejemplo sobre MRD con la funcion de la tarea 1. Ejemplo completo con solucion del
