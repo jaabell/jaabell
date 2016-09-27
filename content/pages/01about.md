@@ -3,7 +3,7 @@ Date: 2016-05-31 22:54:07
 Author: jaabell
 Slug: 01about
 
-[![me][]][me] [![cis][]][cis] 
+[![me][]][me] 
 
 I am a chilean professor working at [Universidad de los Andes][] within the
 *Civil Infrastructure Systems* group. 
@@ -15,6 +15,8 @@ deterministic and probabilistic (stochastic) models.
 A major goal for me is to leverage the use of high-performance
 computing as the enabling technology that will allow the profession to 
 move forward in terms of the power of analysis available to engineers. 
+
+[![cis][]][cis] 
 
 <a title="José A. Abell" href="https://www.researchgate.net/profile/Jose_Abell/"><img src="https://www.researchgate.net/images/public/profile_share_badge.png" alt="José A. Abell" /></a>
 
