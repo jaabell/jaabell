@@ -3,8 +3,7 @@ Date: 2016-05-31 22:54:07
 Author: jaabell
 Slug: 01about
 
-[![me][]][me]
-[![CIS][]][cis]
+[![me][]][me] <a href="/images/logocis.png" height="187" width="480" ><img alt="CIS" src="/images/logocis.png" /></a></p>
 
 I am a chilean professor working at [Universidad de los Andes][] within the
 *Civil Infrastructure Systems* group. 
