@@ -3,7 +3,7 @@ Date: 2016-05-31 22:54:07
 Author: jaabell
 Slug: 01about
 
-[![me][]][me] <a href="/images/logocis.png" height="94" width="24" ><img alt="CIS" src="/images/logocis.png" /></a></p>
+[![me][]][me] [![cis][]][cis] 
 
 I am a chilean professor working at [Universidad de los Andes][] within the
 *Civil Infrastructure Systems* group. 
@@ -39,4 +39,4 @@ move forward in terms of the power of analysis available to engineers.
   [School of Engineering and Applied Sciences]: http://ing.uandes.cl
   [RealESSI Simulator]: http://nrc-essi-simulator.info/
   [me]: /images/me.jpeg 
-  [cis]: /images/logocis.png 
+  [cis]: /images/logocis_240x94.png
