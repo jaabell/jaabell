@@ -1,20 +1,15 @@
 Title: About 
-Date: 2016-05-31 22:54:07
+Date: 2016-10-10 15:23:33
 Author: jaabell
 Slug: 01about
 
 [![me][]][me] 
 
-I am a chilean professor working at [Universidad de los Andes][] within the
-*Civil Infrastructure Systems* group. 
+I am a chilean professor working at [Universidad de los Andes][] within the *Civil Infrastructure Systems* group. 
 
-My research focuses on modeling and simulation of nonlinear soils and
-structures under earthquake loading (see [RealESSI Simulator][]) both using
-deterministic and probabilistic (stochastic) models. 
+My research focuses on the study of nonlinear  structure-soil systems under earthquake loading (see [RealESSI Simulator][]), through modeling and simulation. An important aspect of my research is that I place strong emphasis on the correct description of seismic wave propagation from source to site. 
 
-A major goal for me is to leverage the use of high-performance
-computing as the enabling technology that will allow the profession to 
-move forward in terms of the power of analysis available to engineers. 
+A major goal for me is to leverage the use of high-performance computing as the enabling technology that will allow the profession to move forward in terms of the power of analysis available to engineers. 
 
 [![cis][]][cis] 
 

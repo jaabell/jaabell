@@ -1,5 +1,5 @@
 Title: Publications
-Date: 2014-11-25 13:18:16
+Date: 2016-10-10 15:58:27
 Author: jaabell
 Slug: 04publications
 
@@ -22,9 +22,14 @@ Slug: 04publications
     Mechanics in Reactor Technology (SMiRT 22) Conference, San
     Francisco, California, U.S.A. 
 
+***Ph.D. Dissertation***
+
+[InSAR Compatible Ground Motions for Northern Chile][] - Ph.D. Dissertation
+- University of California at Davis, March 2016
+
 ***Masters Thesis***
 
-[InSAR Compatible Ground Motions for Northern Chile][] - Masters Thesis
+[Earthquake-Soil-Structure Interaction Modeling of Nuclear Power Plants for Near-Field Events][] - Masters Thesis
 - Pontificia Universidad Católica de Chile, August 2009
 
   [José A. Abell]: https://www.researchgate.net/researcher/2024071206_Jose_A_Abell/
@@ -35,3 +40,4 @@ Slug: 04publications
     "Charles W. Wicks"
   [Catalina Fortuño]: http://www.researchgate.net/profile/Catalina_Fortuno
   [InSAR Compatible Ground Motions for Northern Chile]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDEQFjAA&url=http%3A%2F%2Frepositorio.uc.cl%2Fxmlui%2Fbitstream%2Fhandle%2F123456789%2F1361%2F530502.pdf%3Fsequence%3D1&ei=ml5DUpydEYrsiQLwkYCgBQ&usg=AFQjCNFeYk9L7MuTKpYj0U1Qu9Kg4hY7Ww&sig2=qjOobpxRQuOcvlljvLmOxg
+  [Earthquake-Soil-Structure Interaction Modeling of Nuclear Power Plants for Near-Field Events]: https://www.dropbox.com/s/bgnqt9wj0nm8ru4/Abell%20-%202016%20-%20Earthquake-Soil-Structure%20Interaction%20Modeling%20of%20Nuclear%20Power%20Plants%20for%20Near-Field%20Events.pdf?dl=0
