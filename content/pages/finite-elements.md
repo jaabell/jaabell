@@ -96,6 +96,10 @@ sistema y graficos. [ejemplo.py](https://www.dropbox.com/s/vt2cazdop2ioqm4/ejemp
 [ejemplo_leer_archivo.py](https://www.dropbox.com/s/q00xvko2zeoa4lq/ejemplo_leer_archivo.py?dl=0)
 - Graficando polinomios de Hermite en python. [hermite.py](https://www.dropbox.com/s/j3eqr09wnqz2osk/hermite.py?dl=0)
 - Para graficar resultados en gmsh. [export_to_gmsh.py](https://www.dropbox.com/s/hytpc5btq8fvjhl/export_to_gmsh.py?dl=0)
+- Ejemplo de uso de las funciones de export_to_gmsh.
+    - [ejemplo_write.py](https://www.dropbox.com/s/py7xjug1jcvt28q/ejemplo_write.py?dl=0)
+    - [viga.msh](https://www.dropbox.com/s/ipou1eqkq3i45lx/viga.msh?dl=0)
+    - [Video tutorial](https://youtu.be/NYo4txhAmgI). 
 
 
 Tareas 
