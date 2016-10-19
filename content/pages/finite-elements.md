@@ -116,7 +116,7 @@ Tareas
 - ** Tarea 2 ** (31 Agosto)      - Teoría de Elementos Finitos y Más Método de Rigidez Directa. [[Enunciado](https://www.dropbox.com/s/bmonzrj9tyk6fgn/t2.pdf?dl=0)]
 - ** Tarea 3 ** (14 Septiembre)  - Elementos Finitos 1D [[Enunciado](https://www.dropbox.com/s/1vidv6lzhr6ahby/t3.pdf?dl=0)] 
 - ** Tarea 4 ** (12 Octubre)  - Elementos Finitos 2D [[Enunciado](https://www.dropbox.com/s/2cvpnxgvsqvmze1/t4.pdf?dl=0 )]
-- ** Tarea 5 ** (2 Octubre)     - Propagación de Ondas [[Enunciado]](https://www.dropbox.com/s/9zj8dj4x4olnmd0/t5.pdf?dl=0)
+- ** Tarea 5 ** (2 Octubre)     - Propagación de Ondas [[Enunciado](https://www.dropbox.com/]s/9zj8dj4x4olnmd0/t5.pdf?dl=0)
 - ** Tarea 6 ** (9 Noviembre)    - Problemas de fluidos   
 
 
