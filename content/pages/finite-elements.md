@@ -100,6 +100,9 @@ sistema y graficos. [ejemplo.py](https://www.dropbox.com/s/vt2cazdop2ioqm4/ejemp
     - [ejemplo_write.py](https://www.dropbox.com/s/py7xjug1jcvt28q/ejemplo_write.py?dl=0)
     - [viga.msh](https://www.dropbox.com/s/ipou1eqkq3i45lx/viga.msh?dl=0)
     - [Video tutorial](https://youtu.be/NYo4txhAmgI). 
+- Comparacion metodo de Newmark y Metodo de Variables de Estado
+    - [metodo_de_estado.py](https://www.dropbox.com/s/0mmkq0cnt1y3e18/metodo_de_estado.py?dl=0)
+    - [ejemplo_dinamica.py](https://www.dropbox.com/s/kqhq7q19j6tex2i/ejemplo_dinamica.py?dl=0)
 
 
 Tareas 
