@@ -4,7 +4,7 @@ Author: jaabell
 Slug: 07links
 
 <center>
-[Engineering@UAndes][] | [UCDavis][] |  [CompGeoMech Group][] |  | [GGSS][]
+[Engineering@UAndes][] | [UCDavis][] |  [CompGeoMech Group][] |  [GGSS][]
 </center>
 Misc. Programming Links
 
