@@ -6,6 +6,9 @@ Slug: 07links
 <center>
 [Engineering@UAndes][] | [UCDavis][] |  [CompGeoMech Group][] |  [GGSS][]
 </center>
+
+[Presentacion Mec. Mat](https://www.dropbox.com/s/e7trg5kx3opajk2/Cap%C3%ADtulo%205%20-%20Flexi%C3%B3n%20y%20Corte%20en%20Vigas.pptx?dl=0)
+
 Misc. Programming Links
 
 -   [Python Scientific Lecture Notes][]. Matlab user? Switch to python now! Thank me later... A
