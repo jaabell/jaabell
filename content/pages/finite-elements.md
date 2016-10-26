@@ -91,6 +91,9 @@ Lectura Personal
 1. 24 de Octubre 
     * [Paper 1977: Método de Integración Numérica HHT - Hilber-Hughes-Taylor](https://www.dropbox.com/s/h8gch2n30jxergt/Hilber_et_al-1977-Earthquake_Engineering_%26_Structural_Dynamics.pdf?dl=0) Esta es una extensión del método de Newmark para mayor control del la disipación numérica. 
 
+1. 4 de Noviembre
+    * [Paper 2003: Método de descomposición de dominio - Bielak et. al](https://www.dropbox.com/s/14eikhimtgn9h82/Bielak%20et%20al.%20-%202003%20-%20Domain%20Reduction%20Method%20for%20Three--Dimensional%20Earthquake%20Modeling%20in%20Localized%20Regions.%20Part%20%7BI%7D%20Theory.pdf?dl=0)
+
 Ejemplos
 ============
 - Introduccion: Ejemplo sobre MRD con la funcion de la tarea 1. Ejemplo completo con solucion del
