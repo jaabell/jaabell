@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Jose Abell'
 SITENAME = u'Jose Abell\'s Research Blog'
-# SITEURL = 'www.joseabell.com'
+SITEURL = 'www.joseabell.com'
 
 TIMEZONE = 'US/Pacific'
 
@@ -53,9 +53,10 @@ TYPOGRIFY = True
 
 #Plugins 
 PLUGIN_PATHS = ['/home/jaabell/www/pelican-plugins']
-PLUGINS = ["pelican_youtube", "ipythonnb", "render_math"]
+PLUGINS = ["pelican_youtube", "ipythonnb.markup", "render_math"]
 MARKUP = ('md', 'ipynb')
 IGNORE_FILES = ['*checkpoint.ipynb']
+
 
 #Enable TOC generation in markdown
 MD_EXTENSIONS =  [ 'toc'] #, 'codehilite','extra']

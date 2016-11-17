@@ -6,6 +6,7 @@ Category: CS261 Homeworks
 Author: Jose Abell
 Lang: en
 Summary: This is homework # 1 for UC Berkeley class CS261: Application of Parallel Computers
+status: draft
 
 by: José Abell
 
