@@ -24,13 +24,14 @@ Slug: 04publications
 
 ***Ph.D. Dissertation***
 
-[InSAR Compatible Ground Motions for Northern Chile][] - Ph.D. Dissertation
+[Earthquake-Soil-Structure Interaction Modeling of Nuclear Power Plants for Near-Field Events][] - Ph.D. Dissertation
 - University of California at Davis, March 2016
 
 ***Masters Thesis***
 
-[Earthquake-Soil-Structure Interaction Modeling of Nuclear Power Plants for Near-Field Events][] - Masters Thesis
+[InSAR Compatible Ground Motions for Northern Chile][]  - Masters Thesis
 - Pontificia Universidad Católica de Chile, August 2009
+
 
   [José A. Abell]: https://www.researchgate.net/researcher/2024071206_Jose_A_Abell/
     "José A. Abell"
