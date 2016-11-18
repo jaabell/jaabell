@@ -26,6 +26,8 @@ A major goal for me is to leverage the use of high-performance computing as the 
 </script>
 
 
+<a class="github-button" href="https://github.com/jaabell" data-style="mega" data-count-href="/jaabell/followers" data-count-api="/users/jaabell#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @jaabell on GitHub">Follow @jaabell</a>
+
 
   [UC Davis]: http://cee.engr.ucdavis.edu/
   [CompGeoMech]: http://sokocalo.engr.ucdavis.edu/~jeremic/research/index.html
