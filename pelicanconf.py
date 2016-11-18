@@ -31,8 +31,9 @@ DEFAULT_PAGINATION = False
 # THEME = "../pelican-themes/svbtle"
 THEME = "../blogtheme"
 
-DISQUS_SITENAME = "joseabell"
+DISQUS_USERNAME = "joseabell"
 DISQUS_SITENAME = "www.joseabell.com"
+DISQUSURL = 'http://www.joseabell.com'
 
 GITHUB_URL = "https://github.com/jaabell"
 
