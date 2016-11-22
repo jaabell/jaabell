@@ -63,5 +63,9 @@ IGNORE_FILES = ['*checkpoint.ipynb']
 #Enable TOC generation in markdown
 MD_EXTENSIONS =  [ 'toc'] #, 'codehilite','extra']
 
+#Tweak maths
+macros = ['/home/jaabell/www/blog/latex-macros.tex']
+MATH_JAX = {'color': 'gray', 'align': 'left', 'macros': macros}
+
 
 SUMMARY_MAX_LENGTH = 100
