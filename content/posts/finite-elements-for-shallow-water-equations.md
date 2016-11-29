@@ -87,7 +87,7 @@ $$\begin{aligned}
 {
     \vect{0} \\ \vect{0} \\ \vect{0}
 } \\ 
-\vect{A} \dot{\vect{z}} + B  \vect{z} = \vect{0}\end{aligned}$$
+\vect{A} \dot{\vect{z}} + \vect{B}  \vect{z} = \vect{0}\end{aligned}$$
 
 Where the involved sub-matrices are given by the following matrix integrals:
 
@@ -291,7 +291,7 @@ $$\begin{aligned}
 {
     \vect{0} \\ \vect{0} \\ \vect{0}
 } \\ 
-\vect{A} \dot{\vect{z}} + B  \vect{z} = \vect{0}\end{aligned}$$
+\vect{A} \dot{\vect{z}} + \vect{B}  \vect{z} = \vect{0}\end{aligned}$$
 to generate the discretized SWE. 
 
 A future post will discuss the python implementation of this finite element and its application to a basic problem. 
