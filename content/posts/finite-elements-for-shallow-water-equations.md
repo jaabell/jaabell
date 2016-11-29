@@ -93,8 +93,8 @@ Where the involved sub-matrices are given by the following matrix integrals:
 
 $$\begin{aligned}
      & \vect{M} = \int_{\Omega^e} \vect{N}^T \vect{N} \ud \Omega^e \\
-     & \vect{K}_{hu} = \int_{\Omega^e} H \vect{N}^T \pardiff{\vect{N}}{x} \ud \Omega^e \\
-     & \vect{K}_{hv} = \int_{\Omega^e} H \vect{N}^T \pardiff{\vect{N}}{y} \ud \Omega^e \\
+     & \vect{K}_{hu} = \int_{\Omega^e} H \pare{\pardiff{\vect{N}}{x}}^T \vect{N}  \ud \Omega^e \\
+     & \vect{K}_{hv} = \int_{\Omega^e} H \pare{\pardiff{\vect{N}}{y}}^T \vect{N}  \ud \Omega^e \\
      & \vect{K}_{uh} = \int_{\Omega^e} g \vect{N}^T \pardiff{\vect{N}}{x} \ud \Omega^e \\
      & \vect{K}_{vh} = \int_{\Omega^e} g \vect{N}^T \pardiff{\vect{N}}{y} \ud \Omega^e \\
      & \vect{K}_{uv} = \int_{\Omega^e} f \vect{N}^T \vect{N} \ud \Omega^e \\
