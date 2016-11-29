@@ -282,7 +282,7 @@ $$\begin{aligned}
 } \dot{\vect{z}}  + 
 \matorvec{ccc}
 {
-    \vect{0}        & -\vect{K}_{hu} & \vect{K}_{hv} \\
+    \vect{0}        & -\vect{K}_{hu} & -\vect{K}_{hv} \\
     \vect{K}_{uh}   & \vect{0} & -\vect{K}_{uv} \\
     \vect{K}_{vh}   & \vect{K}_{vu} & \vect{0} 
 } \vect{z}
