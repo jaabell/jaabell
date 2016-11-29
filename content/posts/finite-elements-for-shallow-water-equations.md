@@ -78,7 +78,7 @@ $$\begin{aligned}
 } \dot{\vect{z}}  + 
 \matorvec{ccc}
 {
-    \vect{0}        & -\vect{K}_{hu} & \vect{K}_{hv} \\
+    \vect{0}        & -\vect{K}_{hu} & -\vect{K}_{hv} \\
     \vect{K}_{uh}   & \vect{0} & -\vect{K}_{uv} \\
     \vect{K}_{vh}   & \vect{K}_{vu} & \vect{0} 
 } \vect{z}
@@ -268,7 +268,7 @@ And finally we can write the sub-matrices as follows.
 
 $$\begin{aligned}
  \vect{M} &= \vect{I}_1 \\
- \vect{K}_{hu} &=  H \cdot \vect{I}_2 & \vect{K}_{hv} &=  H \cdot \vect{I}_3 \\
+ \vect{K}_{hu} &=  H \cdot {\vect{I}_2}^T & \vect{K}_{hv} &=  H \cdot {\vect{I}_3}^T \\
  \vect{K}_{uh} &=  g \cdot \vect{I}_2 & \vect{K}_{vh} &=  g \cdot \vect{I}_3 \\
  \vect{K}_{uv} &=  f \cdot \vect{I}_1 & \vect{K}_{vu} &=  f \cdot \vect{I}_1 \end{aligned}$$
 
