@@ -103,13 +103,13 @@ sistema y graficos. [ejemplo.py](https://www.dropbox.com/s/vt2cazdop2ioqm4/ejemp
 - Graficando polinomios de Hermite en python. [hermite.py](https://www.dropbox.com/s/j3eqr09wnqz2osk/hermite.py?dl=0)
 - Para graficar resultados en gmsh. [export_to_gmsh.py](https://www.dropbox.com/s/hytpc5btq8fvjhl/export_to_gmsh.py?dl=0)
 - Ejemplo de uso de las funciones de export_to_gmsh.
-    - [ejemplo_write.py](https://www.dropbox.com/s/py7xjug1jcvt28q/ejemplo_write.py?dl=0)
-    - [viga.msh](https://www.dropbox.com/s/ipou1eqkq3i45lx/viga.msh?dl=0)
+    - [ejemplo_write.py](https://www.dropbox.com/s/py7xjug1jcvt28q/ejemplo_write.py?dl=0).
+    - [viga.msh](https://www.dropbox.com/s/ipou1eqkq3i45lx/viga.msh?dl=0).
     - [Video tutorial](https://youtu.be/NYo4txhAmgI). 
 - Comparacion metodo de Newmark y Metodo de Variables de Estado
-    - [metodo_de_estado.py](https://www.dropbox.com/s/0mmkq0cnt1y3e18/metodo_de_estado.py?dl=0)
-    - [ejemplo_dinamica.py](https://www.dropbox.com/s/kqhq7q19j6tex2i/ejemplo_dinamica.py?dl=0)
-
+    - [metodo_de_estado.py](https://www.dropbox.com/s/0mmkq0cnt1y3e18/metodo_de_estado.py?dl=0).
+    - [ejemplo_dinamica.py](https://www.dropbox.com/s/kqhq7q19j6tex2i/ejemplo_dinamica.py?dl=0).
+- Viga-columna 3D (cortesía de Nicole Andrea y Francisco Hillman) [viga_columna.py](https://www.dropbox.com/s/nj0bc2vfkujgji2/viga_columna_3d.py?dl=0).
 
 Tareas 
 ============
