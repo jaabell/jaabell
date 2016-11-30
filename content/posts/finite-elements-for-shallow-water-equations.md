@@ -6,6 +6,12 @@ Category: Finite elements
 Author: jaabell
 Lang: en 
 
+
+<div class="youtube" align="left">
+<iframe width="640" height="480" src="https://www.youtube.com/embed/ghdvW-2XzKA" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 The linear [shallow water equations](https://en.wikipedia.org/wiki/Shallow_water_equations) (SWE) are used extensively to model propagation of waves in situations where lateral domain dimensions are much greater than fluid height and, at the same time, wave perturbation height are much smaller than the fluid height. This finds useful applications in the case of tsunami-wave propagation modeling in deep-sea. The equations, after heavy linearization, are given by:
 
 $$\begin{aligned}
