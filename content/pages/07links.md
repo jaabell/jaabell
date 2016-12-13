@@ -1,5 +1,5 @@
 Title: Links
-Date: 2014-06-23 18:09
+Date: 2016-12-13 20:36:55
 Author: jaabell
 Slug: 07links
 
@@ -23,6 +23,12 @@ Links for resources on technical writing.
 
 -   [Nina Amenta][] (a fellow UCD Aggie at CS dept.) has a nice document on
     writing technical (i.e. mathy) reports/articles/papers/homeworks.
+
+
+Interesting YouTube videos:
+
+- TED-Ed: [Accuracy vs. precision](https://www.youtube.com/watch?v=hRAFPdDppzs). 
+
 
   [UCDavis]: http://cee.engr.ucdavis.edu/
   [CompGeoMech Group]: sokocalo.engr.ucdavis.edu/~jeremic/
