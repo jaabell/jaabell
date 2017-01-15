@@ -3,7 +3,10 @@ Date: 2016-07-22 10:40:20
 Author: jaabell
 Slug: 03teaching
 
-Currently: (2nd. Semester 2016) - Finite Elements [[webpage](http://www.joseabell.com/pages/finite-elements.html)]
+Currently: (1nd. Semester 2017) - Statics [[webpage](http://www.joseabell.com/pages/statics.html)]
+
+At [Universidad de los Andes][] 
+- (2nd. semester 2016) - (2nd. Semester 2016) - Finite Elements [[webpage](http://www.joseabell.com/pages/finite-elements.html)]
 
 
 At [UCDavis][] (2011 - 2014)

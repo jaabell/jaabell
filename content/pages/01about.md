@@ -1,13 +1,13 @@
 Title: About 
-Date: 2016-10-10 15:23:33
+Date: 2017-01-15 16:49:31
 Author: jaabell
 Slug: 01about
 
 [![me][]][me] 
 
-I am a chilean professor working at [Universidad de los Andes][] within the *Civil Infrastructure Systems* group. 
+I am a chilean professor working at [Universidad de los Andes][] within the *Civil Infrastructure Systems* group of the [School of Engineering and Applied Sciences](). 
 
-My research focuses on the study of nonlinear  structure-soil systems under earthquake loading (see [RealESSI Simulator][]), through modeling and simulation. An important aspect of my research is that I place strong emphasis on the correct description of seismic wave propagation from source to site. 
+My research focuses on the study of linear and nonlinear structure-soil systems under earthquake loading, through modeling and simulation. An important aspect of my research is that I place strong emphasis on the correct description of seismic wave propagation from source to site. 
 
 A major goal for me is to leverage the use of high-performance computing as the enabling technology that will allow the profession to move forward in terms of the power of analysis available to engineers. 
 
@@ -29,13 +29,7 @@ A major goal for me is to leverage the use of high-performance computing as the 
 <a class="github-button" href="https://github.com/jaabell" data-style="mega" data-count-href="/jaabell/followers" data-count-api="/users/jaabell#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @jaabell on GitHub">Follow @jaabell</a>
 
 
-  [UC Davis]: http://cee.engr.ucdavis.edu/
-  [CompGeoMech]: http://sokocalo.engr.ucdavis.edu/~jeremic/research/index.html
-    "CompGeoMech"
-  [Boris Jeremić]: http://sokocalo.engr.ucdavis.edu/~jeremic/
-  [Becas Chile]: http://www.becaschile.cl
   [Universidad de los Andes]: http://ing.uandes.cl
   [School of Engineering and Applied Sciences]: http://ing.uandes.cl
-  [RealESSI Simulator]: http://nrc-essi-simulator.info/
   [me]: /images/me.jpeg 
   [cis]: /images/logocis_240x94.png

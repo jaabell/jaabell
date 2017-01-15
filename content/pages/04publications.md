@@ -1,26 +1,24 @@
 Title: Publications
-Date: 2016-10-10 15:58:27
+Date: 2017-01-15 16:45:17
 Author: jaabell
 Slug: 04publications
 
 ***Journal Articles***
 
--   [Catalina Fortuño][], [Juan Carlos de la Llera][], [Charles W. Wicks][], and [José A. Abell][] - *Synthetic Hybrid Broadband Seismograms Based on InSAR Coseismic Displacements*. Bulletin of the Seismological Society of America published ahead of print November 18, 2014, doi:10.1785/0120130293
+-   [Catalina Fortuño][], [Juan Carlos de la Llera][], [Charles W. Wicks][], and **[José A. Abell][]** - *Synthetic Hybrid Broadband Seismograms Based on InSAR Coseismic Displacements*. Bulletin of the Seismological Society of America published ahead of print November 18, 2014, doi:10.1785/0120130293
 
--   [José A. Abell][], [Juan Carlos de la Llera][], [Charles W. Wicks][] - *Enhancement of long period components of recorded and synthetic ground motions using InSAR*. Soil Dynamics and Earthquake Engineering **01/2011; 31(5):817-829**. DOI:10.1016/j.soildyn.2011.01.005
+-   **[José A. Abell][]**, [Juan Carlos de la Llera][], [Charles W. Wicks][] - *Enhancement of long period components of recorded and synthetic ground motions using InSAR*. Soil Dynamics and Earthquake Engineering **01/2011; 31(5):817-829**. DOI:10.1016/j.soildyn.2011.01.005
 
 
 ***Conference Proceedings***
 
--  José Antonio Abell Mena, Sumeet Kumar Sinha, Boris Jeremić, Wavelet Based Synthetic Earthquake Sources for Path and Soil Structure Interaction Modeling: Stress Testing of Nuclear Power Plants In proceedings of IAEA conference on: Best Practices in Physicsbased Fault Rupture Models for Seismic Hazard Assessment of Nuclear Installations, Vienna, Austria, November 1820, 2015
+- **J. A. Abell**, J. G. F. Crempien, and B. Jeremić - *Physics-Based Scenario Modeling for Earthquake-Soil-Structure Interaction of Buildings* in Proceedings of the 16th. World Conference on Earthquake Engineering, 2017.
 
-- Nebojša Orbović, Boris Jeremić, José Antonio Abell Mena, Chao Luo, Robert P. Kennedy and Andrei Blaihoanu, Use of Nonlinear, Time Domain Analysis for Design in Proceedings of the Structural Mechanics in Reactor Technology (SMiRT) 2015 Conference, Manchester, August 10-14, 2015.
+-  **José Antonio Abell Mena**, Sumeet Kumar Sinha, Boris Jeremić - *Wavelet Based Synthetic Earthquake Sources for Path and Soil Structure Interaction Modeling: Stress Testing of Nuclear Power Plants * Proceedings of IAEA conference on: Best Practices in Physics-based Fault Rupture Models for Seismic Hazard Assessment of Nuclear Installations, Vienna, Austria, November 1820, 2015
 
--   N.Tafazzoli, F. Pisanò, J. A. Abell M., B. Kamrani, C.-G. Jeong, B.
-    Aldridge, R. Roche, A. Kammerer, and B. Jeremic*- ESSI Simulator
-    Program, Current Status* . Proceedings of the 22nd. Structural
-    Mechanics in Reactor Technology (SMiRT 22) Conference, San
-    Francisco, California, U.S.A. 
+- Nebojša Orbović, Boris Jeremić, **José Antonio Abell Mena**, Chao Luo, Robert P. Kennedy and Andrei Blaihoanu - *Use of Nonlinear, Time Domain Analysis for Design of NPPs* in Proceedings of the Structural Mechanics in Reactor Technology (SMiRT) 2015 Conference, Manchester, August 10-14, 2015.
+
+-   N.Tafazzoli, F. Pisanò, **J. A. Abell M.**, B. Kamrani, C.-G. Jeong, B. Aldridge, R. Roche, A. Kammerer, and B. Jeremic - * ESSI Simulator Program, Current Status* . Proceedings of the 22nd. Structural Mechanics in Reactor Technology (SMiRT 22) Conference, San Francisco, California, U.S.A. 
 
 ***Ph.D. Dissertation***
 
