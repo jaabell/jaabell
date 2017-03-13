@@ -61,7 +61,9 @@ IGNORE_FILES = ['*checkpoint.ipynb']
 
 
 #Enable TOC generation in markdown
-MD_EXTENSIONS =  [ 'toc'] #, 'codehilite','extra']
+# MD_EXTENSIONS =  [ 'toc'] #, 'codehilite','extra']
+MARKDOWN =  [ 'toc'] #, 'codehilite','extra']
+MD_EXTENSIONS = MARKDOWN
 
 #Tweak maths
 macros = ['/home/jaabell/www/blog/latex-macros.tex']
