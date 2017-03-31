@@ -45,7 +45,7 @@ initial condition.
 Doing 5000 Monte-Carlo draws and plotting all the responses together we
 get:[![ensemble][]][ensemble]
 
-About half of the the pendulums swing to the left and the other half to
+-About half of the the pendulums swing to the left and the other half to
 the right. This would result in a bimodal distribution and is a mere
 artifact of the mathematical model used. Indeed, what the model
 perceives as two distinct equilibrium points are actually the same

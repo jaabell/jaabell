@@ -3,7 +3,7 @@ Date: 2017-01-27 12:14:30
 Author: jaabell
 Slug: 08prospective-students
 
-Temas de memoria ofrecidos a alumnos de Ingeniería Civil en Obras Civiles mención Estructuras. 
+[Temas de memoria](https://www.dropbox.com/s/28hjzkhlvzm6w2k/temas.pdf?dl=1) ofrecidos a alumnos de Ingeniería Civil en Obras Civiles mención Estructuras. 
 
 + ** Modelación en elementos finitos de una turbina eólica**. En esta memoria el alumno trabajará en la creación de un modelo de elementos finitos (dinámico, lineal y no-lineal) de un aerogenerador que deberá ser sometido a cargas de viento y sismo. 
 
