@@ -1,20 +1,22 @@
 Title: Prospective Students
-Date: 2017-01-27 12:14:30
+Date: 2017-07-31 13:13:38
 Author: jaabell
 Slug: 08prospective-students
 
 [Temas de memoria](https://www.dropbox.com/s/28hjzkhlvzm6w2k/temas.pdf?dl=1) ofrecidos a alumnos de Ingeniería Civil en Obras Civiles mención Estructuras. 
 
-+ ** Modelación en elementos finitos de una turbina eólica**. En esta memoria el alumno trabajará en la creación de un modelo de elementos finitos (dinámico, lineal y no-lineal) de un aerogenerador que deberá ser sometido a cargas de viento y sismo. 
++ ** Respuesta no-lineal de sitios con pendiente suave usando elementos finitos y modelación constitutiva avanzada ** Se contrastarán los resultados de análisis de respuesta de sitio, especialemnte la deformación residual del sitio, usando dos modelos constitutivos. El objetivo es demostrar que un modelo constitutivo nuevo que incorpora la acumulación deformacion cíclica correctamente es indispensable para el correcto cálculo de la respuesta de sitio y su deformación permanente, en presencia de un campo estático de corte. 
 
-+ ** Modelación de daños y defectos en aspas de aerogeneradores y el efecto que tienen en su comportamiento dinámico** En esta memoria el alumno trabajará en la modelación a escala constitutiva de daños y defectos (como delaminación y fractura) en materiales compuestos usados en aspas de aerogeneradores, y en determinar como dichos daños modifican la respuesta dinámica de las aspas.  
++ ** Estabilidad y deformacion de taludes usando elementos finitos y modelación constitutiva avanzada ** Se contrastarán los resultados de análisis de estabilidad y deformaciones sísmico de un talud 2-D de arena, usando dos modelos constitutivos. El objetivo es demostrar que un modelo constitutivo nuevo que incorpora la acumulación deformacion cíclica correctamente es indispensable para el correcto cálculo de deformaciones sísmicas de un talud. 
+
++ ** Patrones de disipación de energía en fundaciones sobre arena ** Se explorará, usando el método de elementos finitos y diversos modelos constitutivos, los patrones de disipación (ciclica) de enerǵia típicos en fundaciones superficiales (no mecedoras o balanceadoras) en búsqueda de posibles optimizaciones. 
 
 + ** Modelación de un edificio típico de muros de hormigón armado incluyendo interacción suelo-estructura** En esta memoria el alumno deberá generar un modelo de elementos finitos de un edificio tipico chileno, incluyendo modelación explícita del suelo. El modelo se someterá a análisis de interacción sismo-suelo-estructura utilizando recursos de super-cómputo.  
 
-+ ** Detección automatizada de daño estructural usando reconocimiento de imágenes ** El alumno deberá generar una base de datos de imágenes de daño y no daño estructural, indicando el tipo de daño. Estos datos se usarán para entrenar un sistema automatizado de detección de daños usando inteligencia artificial.  Este trabajo será en equipo con otro alumno de ingeniería eléctrica, encargado de los algoritmos de inteligencia artificial para detección de daños.
-
 + ** Cloud Computing para el Método de Elementos Finitos** Consistirá en utilizar infraestructura computacional de alto rendimiento (HPC)en la nube (cloud-computing), como Amazon Web Services, para acelerar el análisis por elementos finitos no-lineal. La idea es evaluar, para un problema dado, la mejora en el tiempo de solución cuando se utilizan recursos HPC. Requerimientos: ganas de aprender/utilizar linux y aprender sobre simulación remota.
 
-+ ** Análisis Dinámico Incremental de un Edificio de Acero Incluyendo Efectos de Interacción Suelo Estructura ** El alumno deberá modelar una estructura de acero, utilizando el modelo no-lineal de fibras y modelación explicita del suelo como un continuo, en OpenSEES. Se someterá la estructura a un análisis incremental dinámico, y se evaluará su desempeño, contrastándolo con el obtenido usando modelamiento de base fija. 
-
 + ** Puente del Chacao: Análisis Sísmico Considerando No-Linealidad de los Cables ** Se continuará estudiando el modelamiento dinámico del puente del Chacao. Utilizando OpenSEES y una nueva formulación de cables, se modelará el puente y sometiéndolo a movimientos sísmicos y evaluando distintas métricas de desempeño.  Este trabajo se realizará en conjunto a otro alumno que ya ha comenzado a trabajar en OpenSEES y cables.
+
++ ** Modelación en elementos finitos de una turbina eólica**. En esta memoria el alumno trabajará en la creación de un modelo de elementos finitos (dinámico, lineal y no-lineal) de un aerogenerador que deberá ser sometido a cargas de viento y sismo. 
+
++ ** Modelación de daños y defectos en aspas de aerogeneradores y el efecto que tienen en su comportamiento dinámico** En esta memoria el alumno trabajará en la modelación a escala constitutiva de daños y defectos (como delaminación y fractura) en materiales compuestos usados en aspas de aerogeneradores, y en determinar como dichos daños modifican la respuesta dinámica de las aspas.  
