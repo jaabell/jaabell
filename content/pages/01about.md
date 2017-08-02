@@ -1,5 +1,5 @@
 Title: About 
-Date: 2017-01-15 16:49:31
+Date: 2017-08-02 18:03:07
 Author: jaabell
 Slug: 01about
 
@@ -10,6 +10,8 @@ I am a chilean professor working at [Universidad de los Andes][] within the *Civ
 My research focuses on the study of linear and nonlinear structure-soil systems under earthquake loading, through modeling and simulation. An important aspect of my research is that I place strong emphasis on the correct description of seismic wave propagation from source to site. 
 
 A major goal for me is to leverage the use of high-performance computing as the enabling technology that will allow the profession to move forward in terms of the power of analysis available to engineers. 
+
+See my [extended research statement](http://www.joseabell.com/pages/02research.html).
 
 [![cis][]][cis] 
 

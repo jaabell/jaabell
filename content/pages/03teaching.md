@@ -1,5 +1,5 @@
 Title: Teaching
-Date: 2016-07-22 10:40:20
+Date: 2017-08-02 18:03:19
 Author: jaabell
 Slug: 03teaching
 
