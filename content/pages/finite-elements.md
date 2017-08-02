@@ -1,70 +1,73 @@
 Title: Elementos Finitos - 2nd. Sem. 2016
-Date: 2016-08-04 11:10:40
+Date: 2017-08-01 10:53:13
 Author: jaabell
 Slug: finite-elements
 status: hidden
 
-## Descripción
+## Description
 
-Curso introductorio al método de elementos finítos. El enfoque del curso es práctico orientado al modelamiento de sistemas físicos, con énfasis de que el alumno aprenda a *implementar* programas de elementos finitos con especial atención a problemas de sólidos y, en menor medida, fluídos. Se le entregará al alumno una mirada crítica, con base en teoría de elementos finitos lineales, que le permitirá conocer las fortalezas y limitaciones de las técnicas aprendidas. 
+This is a graduate level course in the Finite Element Method. The course is practically focused, with some important mathematical insights, oriented to the modeling of physical systems. The student will learn the typical work-flow of finite element software by implementing his/her own linear solver including several typical elements. Aspects of meshing and post-processing are also thoroughly discussed and practiced. Special attention is given to mechanics oriented problems (linear elasto-statics and elasto-dynamics) as well as some other problems such as incompressible laminar flow, flow nets, shallow-wave equations, coupled elements, to name a few. 
 
-Requiere aptitud o disposición para programar, solo y en equipo. 
-
-## Generalidades
-
-- Creditos: 6 ($ \frac{6 \text{creditos} \cdot 30 \text{horas/credito} }{ 18 \text{semanas}} \\approx 10 $ horas semanales)
-- Clases: L-W 10:30-12:20 (L: C-13 W:H-03)
-- Profesor: José Abell (jaabell@miuandes.cl)
-- Horario de oficina: L-W (15:30 - 17:30)
-- 29 - 31 clases expositivas.
-
-## Competencias desarrolladas
-
-- Entender la teoría del método de elementos finitos.
-- Desarrollar elementos finitos simples para problemas de elasticidad.
-- Aprender técnicas de mallado para problemas de elementos finitos.
-- Resolver problemas de propagación de ondas en elementos finitos.
-
-## Evaluación
-
-- ** (60%) ** 7 Tareas grupales (dos personas) Tareas son cada dos semanas, se entregan los Miércoles. 
-- ** (30%) ** Un proyecto de modelamiento con presentaciones. 
-- ** (10%) ** Lectura semanal (control online en sistema SAF) 
+A critical view is encouraged, whereby the student is able to identify main modeling assumption and understand the limitations of his/her results and the overall range of applicability of linear FEM methods. 
 
 
+## General information 
+
+- Credits: 6 CDT ($ \frac{6 \text{credits} \cdot 30 \text{hours/credit} }{ 18 \text{weeks}} \\approx 10 $ hours a week of dedication are required)
+- Clases meetings: M-J 13:30-15:20 (M: C-215 J: H-219)
+- Instructor: José Abell (jaabell@miuandes.cl)
+- Office Hours: (TBD)
+- 29 - 31 lessons.
+
+## Developed competencies
+
+- Completes and puts into practice the student's modeling skills. 
+- To understand theory of the linear finite element method. 
+- To develop simple (classical) finite elements applied to diverse PDEs.
+- Gain practical meshing and post-processing skills for FEM model development. 
+
+## Grading
+
+- ** (50%) ** Group Homework Assignments (2 persons per group).
+- ** (20%) ** 2 Midterms
+- ** (10%) ** Weekly reading assignments.
+- ** (20%) ** Term FEM modeling project. 
+- ** Homework grade must be > 4.0 for course approval. Homeworks are regraded for partial credit. 
+
+<!-- 
 Calendario 
 ============
 
 <iframe src="https://calendar.google.com/calendar/embed?src=68hj1a9pjm988hq9avip7ggus0%40group.calendar.google.com&ctz=America/Santiago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+ -->
 
-Contenidos
+Contents
 ============
 
 29 clases.
 
-- Introducción: Discretización de elementos finitos: nodos y grados de libertad.                    **(1 clase)**
-- Método de rigidez directa (repaso).                                                               **(2 clases)**
-- Forma débil y formulación variacional (teoría de elementos finitos).                              **(4 clases)**
-- Elementos finitos para problemas sólidos                                                          **(8 clases)**
-    + Reticulado y viga de Bernoulli como elementos finitos (2d y 3d)                                 **[2 clases]**
-    + Elementos para análisis 2-D (triángulos y cuadriláteros de primer y segundo órden)              **[2 clases]**
-    + Elementos para análisis 3-D (tetrahedros y hexaédros de primer y segundo órden)                 **[2 clases]**
-    + Elementos para flexión bidimensional (plate theory)                                             **[2 Clases]**
-- Propagación de ondas con elementos finitos (elementos finitos dinámicos).                         **(6 clases)**
-- Problemas de fluídos.                                                                             **(3 clases)**
-- Elementos para análisis acoplado (fase fluída y fase sólida) de medios porosos.                   **(2 clases)**
+- Introduction: Finite element Discretization: nodes and degrees of freedom, the direct stiffness method.
+
+- Weak and variational form of partial differential equations. Linear FEM theory. 
+
+- A gallery of finite elements (1D, 2D, 3D)
+
+- Wave propagation problems. 
+
+- Special topics (multi-phase coupled FEM), shallow wave equations, thermoelasticity, domain reduction method for seismic input)
 
 
-Lectura Personal
+Readings
 ============
 
-1. 8 de Agosto:
-    * [Libro de Felippa. Chapter 2. Direct Stiffness Method I](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch02.d/IFEM.Ch02.pdf).
-    * [Libro de Felippa. Chapter 6. FEM Modeling: Introduction](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch06.d/IFEM.Ch06.pdf).
-    * [Libro de Felippa. Chapter 7. FEM Modeling: Mesh, Loads and BCs](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch07.d/IFEM.Ch07.pdf) Solo Secciones 7.1, 7.2 y 7.3
+1. 8 de August:
+    * [Felippa's lecture notes. Chapter 2. Direct Stiffness Method I](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch02.d/IFEM.Ch02.pdf).
+    * [Felippa's lecture notes. Chapter 6. FEM Modeling: Introduction](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch06.d/IFEM.Ch06.pdf).
+    * [Felippa's lecture notes. Chapter 7. FEM Modeling: Mesh, Loads and BCs](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch07.d/IFEM.Ch07.pdf) Sections 7.1, 7.2 y 7.3
     * [Wikipedia: Types of mesh](https://en.wikipedia.org/wiki/Types_of_mesh)
 
+<!-- 
 1. 15 de Agosto:
     * [Libro de Felippa. Chapter 7. FEM Modeling: Mesh, Loads and BCs](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch07.d/IFEM.Ch07.pdf) Secciones 7.4 en adelante. 
 
@@ -92,10 +95,15 @@ Lectura Personal
     * [Paper 1977: Método de Integración Numérica HHT - Hilber-Hughes-Taylor](https://www.dropbox.com/s/h8gch2n30jxergt/Hilber_et_al-1977-Earthquake_Engineering_%26_Structural_Dynamics.pdf?dl=0) Esta es una extensión del método de Newmark para mayor control del la disipación numérica. 
 
 1. 4 de Noviembre
-    * [Paper 2003: Método de descomposición de dominio - Bielak et. al](https://www.dropbox.com/s/14eikhimtgn9h82/Bielak%20et%20al.%20-%202003%20-%20Domain%20Reduction%20Method%20for%20Three--Dimensional%20Earthquake%20Modeling%20in%20Localized%20Regions.%20Part%20%7BI%7D%20Theory.pdf?dl=0)
+    * [Paper 2003: Método de descomposición de dominio - Bielak et. al](https://www.dropbox.com/s/14eikhimtgn9h82/Bielak%20et%20al.%20-%202003%20-%20Domain%20Reduction%20Method%20for%20Three--Dimensional%20Earthquake%20Modeling%20in%20Localized%20Regions.%20Part%20%7BI%7D%20Theory.pdf?dl=0) 
+-->
 
-Ejemplos
+Examples
 ============
+
+- Coming soon
+
+<!-- 
 - Introduccion: Ejemplo sobre MRD con la funcion de la tarea 1. Ejemplo completo con solucion del
 sistema y graficos. [ejemplo.py](https://www.dropbox.com/s/vt2cazdop2ioqm4/ejemplo.py?dl=0)
 - Introducción. Hint para leer archivos *.msh* en python. 
@@ -110,54 +118,51 @@ sistema y graficos. [ejemplo.py](https://www.dropbox.com/s/vt2cazdop2ioqm4/ejemp
     - [metodo_de_estado.py](https://www.dropbox.com/s/0mmkq0cnt1y3e18/metodo_de_estado.py?dl=0).
     - [ejemplo_dinamica.py](https://www.dropbox.com/s/kqhq7q19j6tex2i/ejemplo_dinamica.py?dl=0).
 - Viga-columna 3D (cortesía de Nicole Andrea y Francisco Hillman) [viga_columna.py](https://www.dropbox.com/s/nj0bc2vfkujgji2/viga_columna_3d.py?dl=0).
+ -->
 
-Tareas 
+Homeworks 
 ============
 
 
+**General instructions:** 
 
-**Instrucciones generales:** las tareas se entregan en grupos de máximo 2 integrantes a través del sistema SAF. Debe entregar dos archivos: un *.pdf* con el informe y un *.zip* con todo el código fuente que reproduce sus resultados (archvios de geometría, malla, código de elementos finitos, resultados intermedios e imágenes incluidas en su informe deben estar en una estructura de carpetas coherente). Si el código no corre correctamente se considerará tarea no realizada.
+* Homeworks are the most important part of this course. 
+* Homeworks are solved pairs (of two of course). Exceptionally, in the case of an odd enrollment, there may exist one group of 3 people, first come first served, from which more will be expected. 
+* All homeworks are typewritten and handed in on the due date at the beginning of the lesson. 
+* All source code (which replicates plots on the main text) is handed in via the SAF virtual learning environment (zip file). Non running code is exposed to minimum grade no matter what the report says. 
+* Additionally, on the due date each group may have to present a one PPT slide summary of their work to be presented within 2 minutes. This must be submitted to the instructor before the days lesson. 
+* Late work is accepted within 24 hours of due date with maximum grade of 4.0 and not eligible for re-grading.
+* Re-grading of homework is expected. An extra week of time will be given after homeworks are handed back for homework re-submission.
 
-- ** Tarea 1 ** (17 Agosto)      - Método de rigidez directa. [[Enunciado](https://www.dropbox.com/s/vquzh1qhfhoz9a0/t1.pdf?dl=0)]
+- ** Tarea 1 ** (17 Agosto) - Direct stiffness method. 
+
+<!-- - ** Tarea 1 ** (17 Agosto)      - Método de rigidez directa. [[Enunciado](https://www.dropbox.com/s/vquzh1qhfhoz9a0/t1.pdf?dl=0)]
 - ** Tarea 2 ** (31 Agosto)      - Teoría de Elementos Finitos y Más Método de Rigidez Directa. [[Enunciado](https://www.dropbox.com/s/bmonzrj9tyk6fgn/t2.pdf?dl=0)]
 - ** Tarea 3 ** (14 Septiembre)  - Elementos Finitos 1D [[Enunciado](https://www.dropbox.com/s/1vidv6lzhr6ahby/t3.pdf?dl=0)] 
 - ** Tarea 4 ** (12 Octubre)  - Elementos Finitos 2D [[Enunciado](https://www.dropbox.com/s/2cvpnxgvsqvmze1/t4.pdf?dl=0 )]
 - ** Tarea 5 ** (2 Octubre)     - Propagación de Ondas [[Enunciado](https://www.dropbox.com/s/9zj8dj4x4olnmd0/t5.pdf?dl=0)]
 - ** Tarea 6 ** (9 Noviembre)    - Problemas de fluidos   
+ -->
 
-
-Proyecto de Modelamiento
+Modeling project
 ============
 
-**Presentación (23 Noviembre)** Posters!
+Posters! Due date TBA.
+
+There are two possible formats 
+
+* * Format 1* Use FEM tools developed during the course to model some object within the campus grounds. 
+
+    * Option 1.1 - Compare two or more modeling strategies for the same problem to evaluate modeling uncertainty. May use third-party software as an option.
+    * Option 1.2 - Model an object and do some measurement of the object response to assess model suitability or to infer model parameters (inverse modeling). If the modeling task is complex enough, may use a licensed or open source third party software (e.g. OpenSees).
+
+* *Format 2*  Implement some strategy that has not been covered it full or at all during classes. s. Talk to instructor about possible alternatives. Should present main implementation (make it available to everyone) as well as a set of examples to verify i
 
 
+**Ideas**
 
-* *Formato 1* Consiste en modelar mediante elementos finitos, usando el código generado durante el semestre (u opcionalmente algún otro *código de fuente abierta* ), algun objecto dentro del campus de la universidad. 
-
-    * Opción 1.1 - Comparar dos estrategias de modelamiento para el mismo problema. Una debe ser
-    más detallada o precisa que la otra (incerteza en el modelamiento).
-    * Opción 1.2 - Hacer alguna medición de la respuesta del objeto y tratar de modelarla lo más
-    preciso posible. 
-
-* *Formato 2* Implementar alguna técnica que no se haya visto en el curso. Para esto ud. deberá
-referirse a la bibliografía del curso o a la investigación científica (con ayuda del profesor) para
-escoger la técnica a implementar. Se deberá presentar la implementaciómn y verificación de la
-técnica. 
-
-
-**Ideas para proyecto**
-
-*Entre corchetes [] el tipo de trabajo*
-
- - [1.2] Propagación de ondas en la fuente del edificio central. (ver [Ecuaciones de aguas someras](https://en.wikipedia.org/wiki/Shallow_water_equations)) 
- - [1.2] Notas producidas por una copa o vaso (ver [Coffee Cup Vibrations](https://www.youtube.com/watch?v=MfzNJE4CK_s)).
- - [1.2] Vibraciones en el puente del edificio central. (Usar acelerómetro del celular).
- - [1.2] Deformación de alguna baranda o posamanos al apoyarse en el. 
- - [1.2] Vibraciones libres y amortiguamiento en un arco de futbol (sometido a un pelozato). 
- - [ 2 ] Implementar elementos acoplados u-p-U. Modelar ensayos de consolidación. 
- - [ 2 ] Implementar elementos acoplados u-p-U. Modelar ensayos de consolidación. 
- - [ 2 ] Implementar elemento termoelástico. (Resolver problema de calor acoplado con elasticidad).
+ - [Previous semester posters](https://www.dropbox.com/sh/xklao0w07vh1fks/AADkFGeHOxXF7iwNRsNkraBda?dl=0). 
+ - More ideas soon
 
 
 

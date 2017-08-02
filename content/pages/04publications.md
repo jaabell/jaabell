@@ -22,7 +22,7 @@ Slug: 04publications
 
 ***Ph.D. Dissertation***
 
-[Earthquake-Soil-Structure Interaction Modeling of Nuclear Power Plants for Near-Field Events][] - Ph.D. Dissertation
+[Earthquake-Soil-Structure Interaction Modeling of Nuclear Power Plants for Near-Field 08prospective-students.md][] - Ph.D. Dissertation
 - University of California at Davis, March 2016
 
 ***Masters Thesis***
