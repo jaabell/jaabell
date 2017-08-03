@@ -16,7 +16,7 @@ A critical view is encouraged, whereby the student is able to identify main mode
 - Credits: 6 CDT ($ \frac{6 \text{credits} \cdot 30 \text{hours/credit} }{ 18 \text{weeks}} \\approx 10 $ hours a week of dedication are required)
 - Clases meetings: M-J 13:30-15:20 (M: C-215 J: H-219)
 - Instructor: José Abell (jaabell@miuandes.cl)
-- Office Hours: (TBD)
+- Office Hours: Monday 14:30 to 16:30 (at my office).
 - 29 - 31 lessons.
 
 ## Developed competencies
