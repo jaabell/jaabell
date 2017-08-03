@@ -16,7 +16,7 @@ A critical view is encouraged, whereby the student is able to identify main mode
 - Credits: 6 CDT ($ \frac{6 \text{credits} \cdot 30 \text{hours/credit} }{ 18 \text{weeks}} \\approx 10 $ hours a week of dedication are required)
 - Clases meetings: M-J 13:30-15:20 (M: C-215 J: H-219)
 - Instructor: José Abell (jaabell@miuandes.cl)
-- Office Hours: Monday 14:30 to 16:30 (at my office).
+- Office Hours: Monday 14:30 to 16:30 (at my office)
 - 29 - 31 lessons.
 
 ## Developed competencies
@@ -171,6 +171,7 @@ Links
 
 - Un buen tutorial de python científico: [http://www.scipy-lectures.org/](http://www.scipy-lectures.org/).
 - [python(x,y)](https://python-xy.github.io/) Distribución de python para windows orientada para el cálculo científico (usuarios de Mac deben instalar componentes por separado). 
+- [Python para usuaros de Matlab](http://bfy.tw/DBWA). Varios tutoriales interesantes para usuarios de Matlab. 
 - [gmsh](http://gmsh.info/) Mallador de código abierto que será usado en este curso. 
 - [Finite Elements at University of Colorado, Boulder](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/Home.html).  (Prof. Carlos Felippa). Este curso está fuertemente basado en este otro. 
 - Recursos para hacer gráficos bien
