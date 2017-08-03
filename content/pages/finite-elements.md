@@ -134,7 +134,7 @@ Homeworks
 * Late work is accepted within 24 hours of due date with maximum grade of 4.0 and not eligible for re-grading.
 * Re-grading of homework is expected. An extra week of time will be given after homeworks are handed back for homework re-submission.
 
-- ** Tarea 1 ** (17 Agosto) - Direct stiffness method. 
+- ** Tarea 1 ** (17 Agosto) - Direct stiffness method.  [[Enunciado]](https://www.dropbox.com/s/jk8qh96z73c1wlw/t1.pdf?dl=0)
 
 <!-- - ** Tarea 1 ** (17 Agosto)      - Método de rigidez directa. [[Enunciado](https://www.dropbox.com/s/vquzh1qhfhoz9a0/t1.pdf?dl=0)]
 - ** Tarea 2 ** (31 Agosto)      - Teoría de Elementos Finitos y Más Método de Rigidez Directa. [[Enunciado](https://www.dropbox.com/s/bmonzrj9tyk6fgn/t2.pdf?dl=0)]
