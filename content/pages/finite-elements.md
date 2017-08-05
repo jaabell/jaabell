@@ -67,7 +67,7 @@ Readings
     * [Felippa's lecture notes. Chapter 7. FEM Modeling: Mesh, Loads and BCs](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch07.d/IFEM.Ch07.pdf) Sections 7.1, 7.2 y 7.3
     * [Wikipedia: Types of mesh](https://en.wikipedia.org/wiki/Types_of_mesh)
 
-<! 
+<!--
 1. 15 de Agosto:
     * [Libro de Felippa. Chapter 7. FEM Modeling: Mesh, Loads and BCs](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch07.d/IFEM.Ch07.pdf) Secciones 7.4 en adelante. 
 
