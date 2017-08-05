@@ -45,17 +45,19 @@ Calendario
 Contents
 ============
 
-29 clases.
+- **Introduction**. Finite element Discretization: nodes and degrees of freedom, the direct stiffness method.
 
-- Introduction: Finite element Discretization: nodes and degrees of freedom, the direct stiffness method.
+- **Linear FEM Theory**. Weak and variational form of partial differential equations. Linear FEM theory. Convergence and consistency. Error bounds. Examples from 1-D elliptic problems. 1-D Quadrature. 
 
-- Weak and variational form of partial differential equations. Linear FEM theory. 
+- **The Iso-parametric Finite Element Family **. A gallery of finite elements ( 2D and 3D) applied to different elliptic (static) problems. Multidimensional quadrature. 
 
-- A gallery of finite elements (1D, 2D, 3D)
+- **Dynamic and transient problems**. Parabolic PDEs: diffusion (heat, transient Darcy flow, chemical diffusion, Ricci flow).  Hyperbolic PDEs: wave propagation (elasticity and shallow-wave equation)
 
-- Wave propagation problems. 
-
-- Special topics (multi-phase coupled FEM), shallow wave equations, thermoelasticity, domain reduction method for seismic input)
+- **Advanced topics**. One or two of these topics will be seen. 
+    - Shell elements.
+    - Enhanced elements (B-Bar, Selective single point integration).
+    - Coupled problems (poroelasticity, thermoelasticity, fluid-solid interaction, etc). 
+    - Unbounded domains: infinite-element method, Lysmer-Kuhlemeyer (aka silent) boundaries, domain reduction method.
 
 
 Readings
