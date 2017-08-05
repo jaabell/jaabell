@@ -1,5 +1,5 @@
 Title: Elementos Finitos - 2nd. Sem. 2016
-Date: 2017-08-02 18:03:15
+Date: 2017-08-05 16:18:41
 Author: jaabell
 Slug: finite-elements
 status: hidden
