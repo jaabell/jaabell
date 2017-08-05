@@ -153,7 +153,7 @@ Posters! Due date TBA.
 
 There are two possible formats 
 
-* * Format 1* Use FEM tools developed during the course to model some object within the campus grounds. 
+* *Format 1* Use FEM tools developed during the course to model some object within the campus grounds. 
 
     * Option 1.1 - Compare two or more modeling strategies for the same problem to evaluate modeling uncertainty. May use third-party software as an option.
     * Option 1.2 - Model an object and do some measurement of the object response to assess model suitability or to infer model parameters (inverse modeling). If the modeling task is complex enough, may use a licensed or open source third party software (e.g. OpenSees).
