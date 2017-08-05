@@ -67,7 +67,7 @@ Readings
     * [Felippa's lecture notes. Chapter 7. FEM Modeling: Mesh, Loads and BCs](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch07.d/IFEM.Ch07.pdf) Sections 7.1, 7.2 y 7.3
     * [Wikipedia: Types of mesh](https://en.wikipedia.org/wiki/Types_of_mesh)
 
-<!-- 
+<! 
 1. 15 de Agosto:
     * [Libro de Felippa. Chapter 7. FEM Modeling: Mesh, Loads and BCs](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch07.d/IFEM.Ch07.pdf) Secciones 7.4 en adelante. 
 
@@ -95,7 +95,7 @@ Readings
     * [Paper 1977: Método de Integración Numérica HHT - Hilber-Hughes-Taylor](https://www.dropbox.com/s/h8gch2n30jxergt/Hilber_et_al-1977-Earthquake_Engineering_%26_Structural_Dynamics.pdf?dl=0) Esta es una extensión del método de Newmark para mayor control del la disipación numérica. 
 
 1. 4 de Noviembre
-    * [Paper 2003: Método de descomposición de dominio - Bielak et. al](https://www.dropbox.com/s/14eikhimtgn9h82/Bielak%20et%20al.%20-%202003%20-%20Domain%20Reduction%20Method%20for%20Three--Dimensional%20Earthquake%20Modeling%20in%20Localized%20Regions.%20Part%20%7BI%7D%20Theory.pdf?dl=0) 
+    * [Paper 2003: Método de descomposición de dominio - Bielak et. al](https://www.dropbox.com/s/14eikhimtgn9h82/Bielak%20et%20al.%20-%202003%20-%20Domain%20Reduction%20Method%20for%20ThreeDimensional%20Earthquake%20Modeling%20in%20Localized%20Regions.%20Part%20%7BI%7D%20Theory.pdf?dl=0) 
 -->
 
 Examples
