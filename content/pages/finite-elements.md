@@ -1,4 +1,4 @@
-Title: Elementos Finitos - 2nd. Sem. 2016
+Title: Finite Elements - 2nd. Sem. 2017
 Date: 2017-08-05 16:18:41
 Author: jaabell
 Slug: finite-elements
