@@ -134,7 +134,7 @@ Homeworks
 * Late work is accepted within 24 hours of due date with maximum grade of 4.0 and not eligible for re-grading.
 * Re-grading of homework is expected. An extra week of time will be given after homeworks are handed back for homework re-submission.
 
-- ** Tarea 1 ** (17 Agosto) - Direct stiffness method.  [[Enunciado]](https://www.dropbox.com/s/jk8qh96z73c1wlw/t1.pdf?dl=0)
+- ** Tarea 1 ** (17 Agosto) - Direct stiffness method.  [[Statement]](https://www.dropbox.com/s/jk8qh96z73c1wlw/t1.pdf?dl=0)
 
 <!-- - ** Tarea 1 ** (17 Agosto)      - Método de rigidez directa. [[Enunciado](https://www.dropbox.com/s/vquzh1qhfhoz9a0/t1.pdf?dl=0)]
 - ** Tarea 2 ** (31 Agosto)      - Teoría de Elementos Finitos y Más Método de Rigidez Directa. [[Enunciado](https://www.dropbox.com/s/bmonzrj9tyk6fgn/t2.pdf?dl=0)]
@@ -169,13 +169,13 @@ There are two possible formats
 Links
 ============
 
-- Un buen tutorial de python científico: [http://www.scipy-lectures.org/](http://www.scipy-lectures.org/).
-- [python(x,y)](https://python-xy.github.io/) Distribución de python para windows orientada para el cálculo científico (usuarios de Mac deben instalar componentes por separado). 
-- [Python para usuaros de Matlab](http://bfy.tw/DBWA). Varios tutoriales interesantes para usuarios de Matlab. 
-- [gmsh](http://gmsh.info/) Mallador de código abierto que será usado en este curso. 
-- [Finite Elements at University of Colorado, Boulder](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/Home.html).  (Prof. Carlos Felippa). Este curso está fuertemente basado en este otro. 
-- Recursos para hacer gráficos bien
-    - [Esto](http://flowingdata.com/2010/07/22/7-basic-rules-for-making-charts-and-graphs/)
-    - [y esto](http://hackerspace.kinja.com/5-rules-for-making-graphs-1605706367)
-    - [tambien esto](https://visage.co/peoples-charts-graphs-look-like-crap/)
-    - [porfavor esto](http://fosslien.com/rules/)
+- A good tutorial for scientific python [http://www.scipy-lectures.org/](http://www.scipy-lectures.org/).
+- [python(x,y)](https://python-xy.github.io/) The de-facto (scientific) python distribution for windows. 
+- [Python para usuaros de Matlab](http://bfy.tw/DBWA). Several python tutorials for users migrating from Matlab to python.
+- [gmsh](http://gmsh.info/) The meshing software we will use in this class.
+- [Finite Elements at University of Colorado, Boulder](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/Home.html).  The main text of this class. 
+- Resources for making graphs which don't hurt your eyes and kill brain cells
+    - [This](http://flowingdata.com/2010/07/22/7-basic-rules-for-making-charts-and-graphs/)
+    - also [this](http://hackerspace.kinja.com/5-rules-for-making-graphs-1605706367)
+    - and [this](https://visage.co/peoples-charts-graphs-look-like-crap/)
+    - please, oh, please [this one](http://fosslien.com/rules/)
