@@ -34,3 +34,5 @@ Ofrecidos a alumnos de Ingeniería Civil en Obras Civiles mención Estructuras. 
 + ** Modelación en elementos finitos de una turbina eólica**. En esta memoria el alumno trabajará en la creación de un modelo de elementos finitos (dinámico, lineal y no-lineal) de un aerogenerador que deberá ser sometido a cargas de viento y sismo. 
 
 + ** Modelación de daños y defectos en aspas de aerogeneradores y el efecto que tienen en su comportamiento dinámico** En esta memoria el alumno trabajará en la modelación a escala constitutiva de daños y defectos (como delaminación y fractura) en materiales compuestos usados en aspas de aerogeneradores, y en determinar como dichos daños modifican la respuesta dinámica de las aspas.  
+
+[Más](https://www.dropbox.com/s/y5naorkllw9f8fd/temas022017.pdf?dl=0)
