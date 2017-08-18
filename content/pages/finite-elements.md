@@ -69,14 +69,14 @@ Readings
     * [Felippa's lecture notes. Chapter 7. FEM Modeling: Mesh, Loads and BCs](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch07.d/IFEM.Ch07.pdf) Sections 7.1, 7.2 y 7.3
     * [Wikipedia: Types of mesh](https://en.wikipedia.org/wiki/Types_of_mesh)
 
-<!--
-1. 15 de Agosto:
+1. Optional but recommended reading. 
     * [Libro de Felippa. Chapter 7. FEM Modeling: Mesh, Loads and BCs](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch07.d/IFEM.Ch07.pdf) Secciones 7.4 en adelante. 
 
-1. 22 de Agosto.
+1. 21 de August.
     * [Curso de FEM Avanzado de Felippa. Chapter 1: Introduction](http://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/AFEM.Ch01.d/AFEM.Ch01.pdf) Capitulo introductorio de interés general. Fijarse especialmente en el ejemplo del final. 
     * [Curso de FEM Avanzado de Felippa. Chapter 6: Decomposition of Poisson Problems](http://www.colorado.edu/engineering/CAS/courses.d/AVMM.d/AVMM.Ch06.d/AVMM.Ch06.pdf) hasta seccion 6.4. 
 
+<!--
 1. <s>29 de Agosto.</s> 31 de Agosto
     * [Libro de Felippa. Chapter 11: Variational Formulation of Bar Element](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch11.d/IFEM.Ch11.pdf)
 
@@ -103,7 +103,8 @@ Readings
 Examples
 ============
 
-- Coming soon
+- [Un ambiente de trabajo efectivo para desarrollar en gmsh](https://youtu.be/Lhgw4dSEJbQ).
+- [Como generar mallas con gmsh y sublime text ](https://youtu.be/LsL39CuPFx0).
 
 <!-- 
 - Introduccion: Ejemplo sobre MRD con la funcion de la tarea 1. Ejemplo completo con solucion del
