@@ -75,6 +75,7 @@ Readings
 1. 21 de August.
     * [Curso de FEM Avanzado de Felippa. Chapter 1: Introduction](http://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/AFEM.Ch01.d/AFEM.Ch01.pdf) Capitulo introductorio de interés general. Fijarse especialmente en el ejemplo del final. 
     * [Curso de FEM Avanzado de Felippa. Chapter 6: Decomposition of Poisson Problems](http://www.colorado.edu/engineering/CAS/courses.d/AVMM.d/AVMM.Ch06.d/AVMM.Ch06.pdf) hasta seccion 6.4. 
+    * Adicional útil (no evaluado en SAF) [Curso de FEM Avanzado de Felippa. Chapter 7: Weak and variational form of the Poisson Equation](http://www.colorado.edu/engineering/CAS/courses.d/AVMM.d/AVMM.Ch07.d/AVMM.Ch07.pdf)
 
 <!--
 1. <s>29 de Agosto.</s> 31 de Agosto
