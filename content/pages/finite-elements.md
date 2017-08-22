@@ -106,7 +106,7 @@ Examples
 
 - [Un ambiente de trabajo efectivo para desarrollar en gmsh](https://youtu.be/Lhgw4dSEJbQ).
 - [Como generar mallas con gmsh y sublime text ](https://youtu.be/LsL39CuPFx0).
-
+- Particion de un sistema de rigidez [resolverMDF.py](https://www.dropbox.com/s/ob0zf265mso44wh/resolverMDF.py?dl=0)
 <!-- 
 - Introduccion: Ejemplo sobre MRD con la funcion de la tarea 1. Ejemplo completo con solucion del
 sistema y graficos. [ejemplo.py](https://www.dropbox.com/s/vt2cazdop2ioqm4/ejemplo.py?dl=0)
