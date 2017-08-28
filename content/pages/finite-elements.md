@@ -63,7 +63,7 @@ Contents
 Readings
 ============
 
-1. 8 de August:
+1. 8  August:
     * [Felippa's lecture notes. Chapter 2. Direct Stiffness Method I](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch02.d/IFEM.Ch02.pdf).
     * [Felippa's lecture notes. Chapter 6. FEM Modeling: Introduction](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch06.d/IFEM.Ch06.pdf).
     * [Felippa's lecture notes. Chapter 7. FEM Modeling: Mesh, Loads and BCs](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch07.d/IFEM.Ch07.pdf) Sections 7.1, 7.2 y 7.3
@@ -72,18 +72,16 @@ Readings
 1. Optional but recommended reading. 
     * [Libro de Felippa. Chapter 7. FEM Modeling: Mesh, Loads and BCs](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch07.d/IFEM.Ch07.pdf) Secciones 7.4 en adelante. 
 
-1. 21 de August.
-    * [Curso de FEM Avanzado de Felippa. Chapter 1: Introduction](http://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/AFEM.Ch01.d/AFEM.Ch01.pdf) Capitulo introductorio de interés general. Fijarse especialmente en el ejemplo del final. 
-    * [Curso de FEM Avanzado de Felippa. Chapter 6: Decomposition of Poisson Problems](http://www.colorado.edu/engineering/CAS/courses.d/AVMM.d/AVMM.Ch06.d/AVMM.Ch06.pdf) hasta seccion 6.4. 
+1. 21 August.
+    * [Felippa's lecture notes. Chapter 1: Introduction](http://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/AFEM.Ch01.d/AFEM.Ch01.pdf) Capitulo introductorio de interés general. Fijarse especialmente en el ejemplo del final. 
+    * [Felippa's lecture notes. Chapter 6: Decomposition of Poisson Problems](http://www.colorado.edu/engineering/CAS/courses.d/AVMM.d/AVMM.Ch06.d/AVMM.Ch06.pdf) hasta seccion 6.4. 
     * Adicional útil (no evaluado en SAF) [Curso de FEM Avanzado de Felippa. Chapter 7: Weak and variational form of the Poisson Equation](http://www.colorado.edu/engineering/CAS/courses.d/AVMM.d/AVMM.Ch07.d/AVMM.Ch07.pdf)
 
+1. 4 Sept.
+    * [Felippa's lecture notes. Chapter 11: Variational Formulation of Bar Element](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch11.d/IFEM.Ch11.pdf)
+    * [Felippa's lecture notes. Chapter 12: Variational Formulation of Plane Beam Element.](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch12.d/IFEM.Ch12.pdf)
+
 <!--
-1. <s>29 de Agosto.</s> 31 de Agosto
-    * [Libro de Felippa. Chapter 11: Variational Formulation of Bar Element](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch11.d/IFEM.Ch11.pdf)
-
-1. 5 de Septiembre.
-    * [Libro de Felippa. Chapter 12: Variational Formulation of Plane Beam Element.](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch12.d/IFEM.Ch12.pdf)
-
 1. 12 de Septiembre.
     * [Libro de Felippa. Chapter 14: The Plane Stress Problem](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch14.d/IFEM.Ch14.pdf)
 
@@ -139,7 +137,9 @@ Homeworks
 * Late work is accepted within 24 hours of due date with maximum grade of 4.0 and not eligible for re-grading.
 * Re-grading of homework is expected. An extra week of time will be given after homeworks are handed back for homework re-submission.
 
-- ** Tarea 1 ** (17 Agosto) - Direct stiffness method.  [[Statement]](https://www.dropbox.com/s/jk8qh96z73c1wlw/t1.pdf?dl=0)
+- ** Homework 1 ** (17 Aug.) - Direct stiffness method.  [[Statement]](https://www.dropbox.com/s/jk8qh96z73c1wlw/t1.pdf?dl=0)
+
+- ** Homework 1 ** (7 Sept.) - Weak form and 1-D Finite Elements.  [[Statement]](https://www.dropbox.com/s/b8qtgobvny2ubsk/t2.pdf?dl=0)
 
 <!-- - ** Tarea 1 ** (17 Agosto)      - Método de rigidez directa. [[Enunciado](https://www.dropbox.com/s/vquzh1qhfhoz9a0/t1.pdf?dl=0)]
 - ** Tarea 2 ** (31 Agosto)      - Teoría de Elementos Finitos y Más Método de Rigidez Directa. [[Enunciado](https://www.dropbox.com/s/bmonzrj9tyk6fgn/t2.pdf?dl=0)]
@@ -166,8 +166,16 @@ There are two possible formats
 
 **Ideas**
 
- - [Previous semester posters](https://www.dropbox.com/sh/xklao0w07vh1fks/AADkFGeHOxXF7iwNRsNkraBda?dl=0). 
- - More ideas soon
+ - Improve one of the [previous semester posters](https://www.dropbox.com/sh/xklao0w07vh1fks/AADkFGeHOxXF7iwNRsNkraBda?dl=0). 
+ - Implement and test:
+     * uPU element for coupled poro-elasticity problems (consolidation, seepage, liquefaction, etc.). 
+     * Optimized DOF numberer.
+     * A shell element.
+ - Build, model and analyze a demonstration of water seepage in an earth dam [video](https://www.youtube.com/watch?v=Xz2hfdiBOZM)
+ - Model and analyze one of the structures (maquetas) at the structures lab. 
+
+ - More ideas
+
 
 
 
