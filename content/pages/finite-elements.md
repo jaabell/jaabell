@@ -81,6 +81,10 @@ Readings
     * [Felippa's lecture notes. Chapter 11: Variational Formulation of Bar Element](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch11.d/IFEM.Ch11.pdf)
     * [Felippa's lecture notes. Chapter 12: Variational Formulation of Plane Beam Element.](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch12.d/IFEM.Ch12.pdf)
 
+1. 12 de Septiembre
+    * [Libro de Felippa. Chapter 16: The Iso-Parametric Representation](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch16.d/IFEM.Ch16.pdf)
+    * [Libro de Felippa. Chapter 18: Shape Function Magic](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch18.d/IFEM.Ch18.pdf)
+
 <!--
 1. 12 de Septiembre.
     * [Libro de Felippa. Chapter 14: The Plane Stress Problem](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch14.d/IFEM.Ch14.pdf)
