@@ -143,7 +143,9 @@ Homeworks
 
 - ** Homework 1 ** (17 Aug.) - Direct stiffness method.  [[Statement]](https://www.dropbox.com/s/jk8qh96z73c1wlw/t1.pdf?dl=0)
 
-- ** Homework 1 ** (7 Sept.) - Weak form and 1-D Finite Elements.  [[Statement]](https://www.dropbox.com/s/b8qtgobvny2ubsk/t2.pdf?dl=0)
+- ** Homework 2 ** (7 Sept.) - Weak form and 1-D Finite Elements.  [[Statement]](https://www.dropbox.com/s/b8qtgobvny2ubsk/t2.pdf?dl=0)
+
+- ** Homework 3 ** (26 Sept.) - 2-D finite elemens. Shear locking, selective integration, high-order elements.   [[Statement]](https://www.dropbox.com/s/ym46c7k3dy9269r/t3.pdf?dl=0)
 
 <!-- - ** Tarea 1 ** (17 Agosto)      - Método de rigidez directa. [[Enunciado](https://www.dropbox.com/s/vquzh1qhfhoz9a0/t1.pdf?dl=0)]
 - ** Tarea 2 ** (31 Agosto)      - Teoría de Elementos Finitos y Más Método de Rigidez Directa. [[Enunciado](https://www.dropbox.com/s/bmonzrj9tyk6fgn/t2.pdf?dl=0)]
