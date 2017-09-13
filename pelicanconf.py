@@ -52,6 +52,7 @@ DISPLAY_PAGES_ON_MENU = True
 
 #Fonts look nicer?
 TYPOGRIFY = True
+# TYPOGRIFY = False
 
 #Plugins 
 PLUGIN_PATHS = ['/home/jaabell/www/pelican-plugins']
@@ -62,8 +63,9 @@ IGNORE_FILES = ['*checkpoint.ipynb']
 
 #Enable TOC generation in markdown
 # MD_EXTENSIONS =  [ 'toc'] #, 'codehilite','extra']
-MARKDOWN =  [ 'toc'] #, 'codehilite','extra']
-MD_EXTENSIONS = MARKDOWN
+# MARKDOWN =  ['toc'] #, 'codehilite','extra']
+# MD_EXTENSIONS = MARKDOWN
+MARKDOWN = {}
 
 #Tweak maths
 macros = ['/home/jaabell/www/blog/latex-macros.tex']
