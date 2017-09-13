@@ -69,7 +69,7 @@ MARKDOWN = {}
 
 #Tweak maths
 macros = ['/home/jaabell/www/blog/latex-macros.tex']
-MATH_JAX = {'color': 'gray', 'align': 'left', 'macros': macros}
+MATH_JAX = {'color': 'gray', 'align': 'left', 'macros': macros, 'process_summary': True}
 
 
 SUMMARY_MAX_LENGTH = 100
