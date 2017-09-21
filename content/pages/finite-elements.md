@@ -114,6 +114,7 @@ Examples
     - [ejemplo_write.py](https://www.dropbox.com/s/py7xjug1jcvt28q/ejemplo_write.py?dl=0).
     - [viga.msh](https://www.dropbox.com/s/ipou1eqkq3i45lx/viga.msh?dl=0).
     - [Video tutorial](https://youtu.be/oJB7ODwBoQ8). 
+- Prueba 1 [[enunciado](https://www.dropbox.com/s/d1spiigx7hnothd/fem_prueba1.pdf?dl=0)] [[solución](https://www.dropbox.com/s/3h9msel4mfgb2h4/fem_prueba1_pauta.pdf?dl=0)]
 
 <!-- 
 - Introduccion: Ejemplo sobre MRD con la funcion de la tarea 1. Ejemplo completo con solucion del
