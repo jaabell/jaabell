@@ -32,3 +32,6 @@ At [Universidad de los Andes][] (Before Ph.D.)
 
   [Universidad de los Andes]: http://ing.uandes.cl
   [UCDavis]: http://cee.ucdavis.edu
+
+  [[Charla Ingeniería Sismológica Parte 1](https://www.dropbox.com/s/rj5nnet81chow3p/sismos1.pdf?dl=0)]
+  [[Charla Ingeniería Sismológica Parte 2](https://www.dropbox.com/s/4fpqe0drxemtird/sismos2.pdf?dl=0)]
