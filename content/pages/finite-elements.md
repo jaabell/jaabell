@@ -85,6 +85,9 @@ Readings
     * [Libro de Felippa. Chapter 16: The Iso-Parametric Representation](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch16.d/IFEM.Ch16.pdf)
     * [Libro de Felippa. Chapter 18: Shape Function Magic](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch18.d/IFEM.Ch18.pdf)
 
+1. 17 de Octubre
+    * Libro de Oñate - Structural Analysis with the Finite Element Method. Vol 2. [Chapter 6](https://www.dropbox.com/s/5tv5um0gjxiejm6/Structural-Analysis-w-FEM-Onate-Vol2-Ch6-ThickShells.pdf?dl=0). Hasta 6.5.1 (incluyendolo) y 6.16 y 6.17. 
+
 <!--
 1. 12 de Septiembre.
     * [Libro de Felippa. Chapter 14: The Plane Stress Problem](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch14.d/IFEM.Ch14.pdf)
@@ -92,9 +95,12 @@ Readings
 1. 26 de Septiembre
     * [Libro de Felippa. Chapter 16: The Iso'Parametric Representation](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch16.d/IFEM.Ch16.pdf)
     * [Libro de Felippa. Chapter 18: Shape Function Magic](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch18.d/IFEM.Ch18.pdf)
+-->
 
-1. 3 de Octubre
+<!-- 1. 3 de Octubre
     * [Curso de FEM Avanzado de Felippa. Kirchoff Plates: Field Equations](http://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/AFEM.Ch20.d/AFEM.Ch20.pdf)
+ -->
+<!--
 
 1. 24 de Octubre 
     * [Paper 1977: Método de Integración Numérica HHT - Hilber-Hughes-Taylor](https://www.dropbox.com/s/h8gch2n30jxergt/Hilber_et_al-1977-Earthquake_Engineering_%26_Structural_Dynamics.pdf?dl=0) Esta es una extensión del método de Newmark para mayor control del la disipación numérica. 
