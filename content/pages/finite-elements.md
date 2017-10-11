@@ -86,7 +86,7 @@ Readings
     * [Libro de Felippa. Chapter 18: Shape Function Magic](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch18.d/IFEM.Ch18.pdf)
 
 1. 17 de Octubre
-    * Libro de Oñate - Structural Analysis with the Finite Element Method. Vol 2. [Chapter 6](https://www.dropbox.com/s/5tv5um0gjxiejm6/Structural-Analysis-w-FEM-Onate-Vol2-Ch6-ThickShells.pdf?dl=0). Hasta 6.5.1 (incluyendolo) y 6.16 y 6.17. 
+    * Libro de Oñate - Structural Analysis with the Finite Element Method. Vol 2. [Chapter 6 - Thick/Thin Plates. Reissner-Mindlin Theory](https://www.dropbox.com/s/5tv5um0gjxiejm6/Structural-Analysis-w-FEM-Onate-Vol2-Ch6-ThickShells.pdf?dl=0). Hasta 6.5.1 (incluyendolo) y 6.16 y 6.17. 
 
 <!--
 1. 12 de Septiembre.
