@@ -2,14 +2,6 @@ Title: Video of 2-D SSI model of an RC Shear Wall Building
 Slug: video-of-2-d-ssi-model-of-an-rc-shear-wall-building
 Date: 2017-11-09 13:21:21
 Modified: 2017-11-09 13:21:21
-Tags: 
-Category: 
-Author: 
-Lang: 
-Summary: Title: 
-Slug: 
-Date: 2017-11-09 13:21:21
-Modified: 
 Tags: OpenSees, Paraview, Building, FEM
 Category: 
 Author: jaabell
