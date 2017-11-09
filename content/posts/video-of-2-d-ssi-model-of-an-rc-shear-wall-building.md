@@ -13,5 +13,8 @@ Lang:
 </div>
 
 
-More info soon....
+The RC shear-wall building is modeled in OpenSees using non-linear fiber based beam column elements. Soil is modeled as a continuum using quad elements and linear stress-strain relationship. Soil shear wave-speed is varied in depth such as to obtain a $V_{s30}$ consistent with a class B site according to chilean seismic code. Lysmer-Kulhemeyer dashpots are used along the soil boundary to model seismic radiation and earthquake wave-field input.
 
+The performance of the building will be assessed for varying site fundamental periods. This is an aspect of SSI that is not covered by the chilean seismic code, and has been shown to be a problem in past earthquakes. 
+
+This is part of an on-going study with Prof. [Carolina Magna](http://cigiden.cl/es/carolina-magna/) from Adolfo Ibañez Unversity and her MS student Miguel Ángel Rodriguez from UDP. 
