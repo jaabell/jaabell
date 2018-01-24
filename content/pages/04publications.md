@@ -9,7 +9,7 @@ Slug: 04publications
 
 -  *[In Review]* [**José. A. Abell**][self], Christian Crempien, [Federico Pisanò][Fede]. *Inspecting the effects of sand dilatancy in drained seismic response analyses.* Soil Dynamics and Earthquake Engineering, 2018.
 
--  *[Accepted]*  [**José. A. Abell**][self], Nebojša Orbović, David B. McCallen and[ Boris Jeremić][Boris]. *Earthquake Soil Structure Interaction of Nuclear Power Plants, differences in response to 3-D, 3×1-D, and 1-D excitations.* Earthquake Engineering and Structural Dynamics, in print, 2018.
+-  *[Accepted]*  [**José. A. Abell**][self], Nebojša Orbović, David B. McCallen and [Boris Jeremić][Boris]. *Earthquake Soil Structure Interaction of Nuclear Power Plants, differences in response to 3-D, 3×1-D, and 1-D excitations.* Earthquake Engineering and Structural Dynamics, in print, 2018.
 
 -   [Catalina Fortuño][], [Juan Carlos de la Llera][], [Charles W. Wicks][], and **[José A. Abell][self]** - *Synthetic Hybrid Broadband Seismograms Based on InSAR Coseismic Displacements*. Bulletin of the Seismological Society of America published ahead of print November 18, 2014, doi:10.1785/0120130293
 
@@ -18,15 +18,15 @@ Slug: 04publications
 
 ***Conference Proceedings***
 
-- Yuan Feng, **José Abell**, Sumeet Kumar Sinha, Han Yang, Fatemah Behbehani, Hexian Wang, Nebojša Orbović, David B McCallen and Boris Jeremić. *Verification for the Real ESSI Simulator*. In proceedings of Structural Mechanics in Reactor Technology (SMiRT) 24 conference, Busan, South Korea, August 20-25, 2017.
+- Yuan Feng, [**José Abell**][self], Sumeet Kumar Sinha, Han Yang, Fatemah Behbehani, Hexian Wang, Nebojša Orbović, David B McCallen and [Boris Jeremić][Boris]. *Verification for the Real ESSI Simulator*. In proceedings of Structural Mechanics in Reactor Technology (SMiRT) 24 conference, Busan, South Korea, August 20-25, 2017.
 
-- [**J. A. Abell**][self], J. G. F. Crempien, and B. Jeremić - *Physics-Based Scenario Modeling for Earthquake-Soil-Structure Interaction of Buildings* in Proceedings of the 16th. World Conference on Earthquake Engineering, 2017.
+- [**J. A. Abell**][self], J. G. F. Crempien, and [B. Jeremić][Boris] - *Physics-Based Scenario Modeling for Earthquake-Soil-Structure Interaction of Buildings* in Proceedings of the 16th. World Conference on Earthquake Engineering, 2017.
 
--  [**José Antonio Abell Mena**][self], Sumeet Kumar Sinha, Boris Jeremić - *Wavelet Based Synthetic Earthquake Sources for Path and Soil Structure Interaction Modeling: Stress Testing of Nuclear Power Plants * Proceedings of IAEA conference on: Best Practices in Physics-based Fault Rupture Models for Seismic Hazard Assessment of Nuclear Installations, Vienna, Austria, November 1820, 2015
+-  [**José Antonio Abell Mena**][self], Sumeet Kumar Sinha, [Boris Jeremić][Boris] - *Wavelet Based Synthetic Earthquake Sources for Path and Soil Structure Interaction Modeling: Stress Testing of Nuclear Power Plants * Proceedings of IAEA conference on: Best Practices in Physics-based Fault Rupture Models for Seismic Hazard Assessment of Nuclear Installations, Vienna, Austria, November 1820, 2015
 
-- Nebojša Orbović, Boris Jeremić, [**José Antonio Abell Mena**][self], Chao Luo, Robert P. Kennedy and Andrei Blaihoanu - *Use of Nonlinear, Time Domain Analysis for Design of NPPs* in Proceedings of the Structural Mechanics in Reactor Technology (SMiRT) 2015 Conference, Manchester, August 10-14, 2015.
+- Nebojša Orbović, [Boris Jeremić][Boris], [**José Antonio Abell Mena**][self], Chao Luo, Robert P. Kennedy and Andrei Blaihoanu - *Use of Nonlinear, Time Domain Analysis for Design of NPPs* in Proceedings of the Structural Mechanics in Reactor Technology (SMiRT) 2015 Conference, Manchester, August 10-14, 2015.
 
--   N.Tafazzoli, F. Pisanò, [**J. A. Abell M.**][self], B. Kamrani, C.-G. Jeong, B. Aldridge, R. Roche, A. Kammerer, and B. Jeremic - * ESSI Simulator Program, Current Status* . Proceedings of the 22nd. Structural Mechanics in Reactor Technology (SMiRT 22) Conference, San Francisco, California, U.S.A. 
+-   N.Tafazzoli, [F. Pisanò][Fede], [**J. A. Abell M.**][self], B. Kamrani, C.-G. Jeong, B. Aldridge, R. Roche, A. Kammerer, and [B. Jeremic][Boris] - * ESSI Simulator Program, Current Status* . Proceedings of the 22nd. Structural Mechanics in Reactor Technology (SMiRT 22) Conference, San Francisco, California, U.S.A. 
 
 ***Ph.D. Dissertation***
 
