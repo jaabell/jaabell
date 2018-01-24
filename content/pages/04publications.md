@@ -5,9 +5,9 @@ Slug: 04publications
 
 ***Journal Articles***
 
-- *[In Review]* H.Y. Liu, [**J.A. Abell**][self], A. Diambra, F. Pisanò *A three-surface plasticity model capturing cyclic sand ratcheting.* Earthquake Engineering and Structural Dynamics,  2018.
+- *[In Review]* H.Y. Liu, [**J.A. Abell**][self], A. Diambra, F. Pisanò *A three-surface plasticity model capturing cyclic sand ratcheting.* Géotechnique,  2018.
 
--  *[In Review]* [**José. A. Abell**][self], Christian Crempien, [Federico Pisanò][Fede]. *Inspecting the effects of sand dilatancy in drained seismic response analyses.* Géotechnique, 2018.
+-  *[In Review]* [**José. A. Abell**][self], Christian Crempien, [Federico Pisanò][Fede]. *Inspecting the effects of sand dilatancy in drained seismic response analyses.* Soil Dynamics and Earthquake Engineering, 2018.
 
 -  *[Accepted]*  [**José. A. Abell**][self], Nebojša Orbović, David B. McCallen and[ Boris Jeremić][Boris]. *Earthquake Soil Structure Interaction of Nuclear Power Plants, differences in response to 3-D, 3×1-D, and 1-D excitations.* Earthquake Engineering and Structural Dynamics, in print, 2018.
 
