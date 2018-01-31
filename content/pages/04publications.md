@@ -5,7 +5,7 @@ Slug: 04publications
 
 ***Journal Articles***
 
-- *[In Review]* M. Rodriguez, C Magna-Verdugo, [**J. A. Abell**][self] *Influence of soil-structure-interaction and site natural period in fragility curves derived for a reinforced concrete shear-wall building*, Engineering Structures, 2018.
+- *[In Review]* M. Rodriguez, [C Magna-Verdugo][Carola], [**J. A. Abell**][self] *Influence of soil-structure-interaction and site natural period in fragility curves derived for a reinforced concrete shear-wall building*, Engineering Structures, 2018.
 
 - *[In Review]* H.Y. Liu, [**J.A. Abell**][self], A. Diambra, [F. Pisanò][Fede] *A three-surface plasticity model capturing cyclic sand ratcheting.* Géotechnique,  2018.
 
@@ -48,3 +48,4 @@ Slug: 04publications
   [Earthquake-Soil-Structure Interaction Modeling of Nuclear Power Plants for Near-Field Events]: https://www.dropbox.com/s/bgnqt9wj0nm8ru4/Abell%20-%202016%20-%20Earthquake-Soil-Structure%20Interaction%20Modeling%20of%20Nuclear%20Power%20Plants%20for%20Near-Field%20Events.pdf?dl=0
   [Fede]: https://online-learning.tudelft.nl/instructors/federico-pisano/
   [Boris]: http://sokocalo.engr.ucdavis.edu/~jeremic/Bib_WWW.html
+  [Carola]: https://www.researchgate.net/profile/Carolina_Magna-Verdugo
