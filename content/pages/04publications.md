@@ -4,6 +4,7 @@ Author: jaabell
 Slug: 04publications
 
 ***Journal Articles***
+
 - *[In Review]* M. Rodriguez, C Magna-Verdugo, [**J. A. Abell**][self] *Influence of soil-structure-interaction and site natural period in fragility curves derived for a reinforced concrete shear-wall building*, Engineering Structures, 2018.
 
 - *[In Review]* H.Y. Liu, [**J.A. Abell**][self], A. Diambra, [F. Pisanò][Fede] *A three-surface plasticity model capturing cyclic sand ratcheting.* Géotechnique,  2018.
