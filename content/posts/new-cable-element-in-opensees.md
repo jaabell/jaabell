@@ -4,7 +4,6 @@ Date: 2017-09-07 20:13:57
 Modified: 2017-09-07 20:13:57
 Tags: OpenSees, Cable, Blender
 Author: jaabell
-Lang: EN
 
 <div class="youtube" align="left">
 <iframe width="640" height="480" src="https://www.youtube.com/embed/MX_--SI_vKg" frameborder="0" allowfullscreen></iframe>

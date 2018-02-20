@@ -4,7 +4,6 @@ Date: 2018-02-20 10:50:00
 Modified: 2018-02-20 10:50:00
 Tags: Papers, DRM, ESSI
 Author: jaabell 
-Lang: EN
 
 **Finally!** First paper since PhD was accepted for publication. I'll take this opportunity to start a tradition and review my own papers here. I think its important that I do this for several reasons. First, there are discussions that come up during peer review that are important but don't make it into the paper. Misconceptions about the presented work can be clarified to a broader audience here. Also, I can say whatever I want, specially opinions and thoughts that come from intuition and might not make it through peer-review, I'll be as critical as possible about these too and hope that my readers can discuss with me. I can post videos and other additional content here and make them available to everyone for free. And, finally, this post will have a Disqus thread where we can all interact. 
 
