@@ -2,8 +2,7 @@ Title: New cable element in OpenSees
 Slug: new-cable-element-in-opensees
 Date: 2017-09-07 20:13:57
 Modified: 2017-09-07 20:13:57
-Tags: OpenSees, Cable, Blender, 
-Category: OpenSees
+Tags: OpenSees, Cable, Blender
 Author: jaabell
 Lang: EN
 
