@@ -56,7 +56,7 @@ TYPOGRIFY = True
 
 #Plugins 
 PLUGIN_PATHS = ['/home/jaabell/www/pelican-plugins']
-PLUGINS = ["pelican_youtube", "ipythonnb.markup", "render_math"]
+PLUGINS = ["pelican_youtube", "ipythonnb.markup", "render_math", "representative_image"]
 MARKUP = ('md', 'ipynb')
 IGNORE_FILES = ['*checkpoint.ipynb']
 
