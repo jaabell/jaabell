@@ -4,6 +4,8 @@ Date: 2018-02-26 13:55:13
 Modified: 2018-02-26 13:55:13
 Tags: opensees, gmsh, gmshtranslator, python, pre-proceesing, meshing
 Author: jaabell
+Image: https://www.dropbox.com/s/24tkmfk1y1r0wz5/disp.png?raw=1
+
 
 I wrote the [*gmshtranslator*](https://github.com/jaabell/gmshtranslator) tool a while back during my PhD, to easily parse [*gmsh*](http://gmsh.info/) `msh` files to any other format. I've been using it for years now with not much change for both research and consulting, and have been contacted by other researchers that want to use it. I will soon write a tool, powered by *gmshtranslator*, to more easily translate from *gmsh* into OpenSees. Meanwhile, here is a short example on how to use gmshtranslator to create [*OpenSees*](opensees.berkeley.edu) models. The example assumes you know *gmsh* formats (`.geo` and `.msh`) and python. 
 
