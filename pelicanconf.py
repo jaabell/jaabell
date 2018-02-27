@@ -65,7 +65,15 @@ IGNORE_FILES = ['*checkpoint.ipynb']
 # MD_EXTENSIONS =  [ 'toc'] #, 'codehilite','extra']
 # MARKDOWN =  ['toc'] #, 'codehilite','extra']
 # MD_EXTENSIONS = MARKDOWN
-MARKDOWN = {}
+# MARKDOWN = {}
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
+}
 
 #Tweak maths
 macros = ['/home/jaabell/www/blog/latex-macros.tex']
