@@ -18,6 +18,7 @@ The beam is fixed at the right end, and has node-by-node forcing on the right en
 
 **`beam.geo : `**
 
+    #!c
     LX = 5; LY = 0.5; Nx = 40; Ny = 5;
 
     Point(1) = {0, 0, 0, 1};
@@ -48,6 +49,7 @@ The beam is fixed at the right end, and has node-by-node forcing on the right en
 
 First, import the `beam.msh` file into *gmshtranslator* and open files to be written that will contain the opensees code. 
 
+    #!python
     from gmshtranslator import gmshTranslator
 
     mshfname = "beam.msh"
@@ -63,11 +65,13 @@ I like writing different things (nodes, elements, etc.) in separate files for de
 
 The syntax for node and element conditions are:
 
+    #!python
     def node_condition(tag,x,y,z,physgroups): 
     def element_condition(eletag,eletype,physgrp,nodes):
 
 These are functions that evaluate to `true` or `false` depending on the inputs. Then the syntax for *actions* are:
 
+    #!python
     def node_action(tag,x,y,z):
     def element_action(eletag,eletype,physgrp,nodes):
 
@@ -75,6 +79,7 @@ These functions don't return anything, instead excecute whatever code should be 
 
 For example, the rule to add all nodes to the opensees domain would be:
 
+    #!python
     def is_node(tag,x,y,z,physgroups):
         return True
 
@@ -87,6 +92,7 @@ The node *condition* (`is_node`) function always returns `true`, that is this ru
 
 The code for the rest of the example is:
 
+    #!python
     def fix_node(tag,x,y,z):
         fid_fixities.write("fix {} 1 1\n".format(tag))
 
@@ -105,21 +111,25 @@ The code for the rest of the example is:
 
 Note that we didn't write a condition for the `fix_node` action, instead we used some of the simple conditions contained in *gmshtranslator* that can simplify some typical situations. In this case the `gt.is_node_in()` function takes a physical group name and evaluates whether each node is in that physical group. An equivalent `python` code for this would be:
 
+    #!python
     Fixed = 1  # Physical group number assigned by gmsh to the 'Fixed' group
     def is_node_in_Fixed(tag, x, y, z, physgroups):
         return Fixed in physgroups
 
 Or using *gmstranslator*s internal mapping.
 
+    #!python
     def is_node_in_Fixed(tag, x, y, z, physgroups):
         return gt.physical_groups_by_name['Fixed'] in physgroups\
 
 The same holds true for the `add_load` and `add_element` rules, I just opted to use the simple function but could have written a condition function from scratch.  Add all rules to the parser by callig the `add_X_rule` functions. Finally, call parse to execute and generate all output files. 
 
+    #!python
     gt.parse()
 
 Don't forget to close files people!
 
+    #!python
     fid_nodes.close()
     fid_elements.close()
     fid_fixities.close()
@@ -129,7 +139,7 @@ Run the python script and, voillá! Meshing done.
 
 Finally, for completeness, here is the OpenSees tcl code that runs the complete example. I used elastic-isotropic material and a simple static analysis. I added only vertical loading on the tip of the beam. 
 
-
+    #!tcl
     model BasicBuilder -ndm 2 -ndf 2
 
     set thick 1.0
