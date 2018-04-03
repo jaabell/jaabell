@@ -71,7 +71,7 @@ Volver al home
 Compilar e instalar
 
     cd Python-3.5.5
-    ./configure --with-icc --without-gcc --prefix=$HOME
+    ./configure --with-icc --without-gcc --prefix=$HOME --enable-shared
     make -j 20
     make install
 
