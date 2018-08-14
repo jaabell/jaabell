@@ -1,5 +1,5 @@
 Title: Finite Elements - 2nd. Sem. 2017
-Date: 2017-08-05 16:18:41
+Date: 2018-08-13 16:18:41
 Author: jaabell
 Slug: finite-elements
 status: hidden
@@ -14,9 +14,9 @@ A critical view is encouraged, whereby the student is able to identify main mode
 ## General information 
 
 - Credits: 6 CDT ($ \frac{6 \text{credits} \cdot 30 \text{hours/credit} }{ 18 \text{weeks}} \\approx 10 $ hours a week of dedication are required)
-- Clases meetings: M-J 13:30-15:20 (M: C-215 J: H-219)
+- Clases meetings: M-W 13:30-15:20 (M: B30 W: C-013)
 - Instructor: José Abell (jaabell@miuandes.cl)
-- Office Hours: Monday 14:30 to 16:30 (at my office)
+- Office Hours: By appointment. 
 - 29 - 31 lessons.
 
 ## Developed competencies
@@ -50,7 +50,6 @@ Contents
 - **Linear FEM Theory**. Weak and variational form of partial differential equations. Linear FEM theory. Convergence and consistency. Error bounds. Examples from 1-D elliptic problems. 1-D Quadrature. 
 
 - **The Iso-parametric Finite Element Family **. A gallery of finite elements ( 2D and 3D) applied to different elliptic (static) problems. Multidimensional quadrature. 
-
 - **Dynamic and transient problems**. Parabolic PDEs: diffusion (heat, transient Darcy flow, chemical diffusion, Ricci flow).  Hyperbolic PDEs: wave propagation (elasticity and shallow-wave equation)
 
 - **Advanced topics**. One or two of these topics will be seen. 
@@ -59,6 +58,7 @@ Contents
     - Coupled problems (poroelasticity, thermoelasticity, fluid-solid interaction, etc). 
     - Unbounded domains: infinite-element method, Lysmer-Kuhlemeyer (aka silent) boundaries, domain reduction method.
 
+<!--
 
 Readings
 ============
@@ -88,7 +88,6 @@ Readings
 1. 17 de Octubre
     * Libro de Oñate - Structural Analysis with the Finite Element Method. Vol 2. [Chapter 6 - Thick/Thin Plates. Reissner-Mindlin Theory](https://www.dropbox.com/s/5tv5um0gjxiejm6/Structural-Analysis-w-FEM-Onate-Vol2-Ch6-ThickShells.pdf?dl=0). Hasta 6.5.1 (incluyendolo) y 6.16 y 6.17. 
 
-<!--
 1. 12 de Septiembre.
     * [Libro de Felippa. Chapter 14: The Plane Stress Problem](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/IFEM.Ch14.d/IFEM.Ch14.pdf)
 
@@ -99,7 +98,6 @@ Readings
 
 <!-- 1. 3 de Octubre
     * [Curso de FEM Avanzado de Felippa. Kirchoff Plates: Field Equations](http://www.colorado.edu/engineering/CAS/courses.d/AFEM.d/AFEM.Ch20.d/AFEM.Ch20.pdf)
- -->
 
 1. 23 de Octubre 
     * [Paper 1977: Método de Integración Numérica HHT - Hilber-Hughes-Taylor](https://www.dropbox.com/s/h8gch2n30jxergt/Hilber_et_al-1977-Earthquake_Engineering_%26_Structural_Dynamics.pdf?dl=0) Esta es una extensión del método de Newmark para mayor control del la disipación numérica. 
@@ -120,6 +118,7 @@ Examples
     - [viga.msh](https://www.dropbox.com/s/ipou1eqkq3i45lx/viga.msh?dl=0).
     - [Video tutorial](https://youtu.be/oJB7ODwBoQ8). 
 - Prueba 1 [[enunciado](https://www.dropbox.com/s/d1spiigx7hnothd/fem_prueba1.pdf?dl=0)] [[solución](https://www.dropbox.com/s/3h9msel4mfgb2h4/fem_prueba1_pauta.pdf?dl=0)]
+ -->
 
 <!-- 
 - Introduccion: Ejemplo sobre MRD con la funcion de la tarea 1. Ejemplo completo con solucion del
@@ -147,6 +146,7 @@ Homeworks
 * Late work is accepted within 24 hours of due date with maximum grade of 4.0 and not eligible for re-grading.
 * Re-grading of homework is expected. An extra week of time will be given after homeworks are handed back for homework re-submission.
 
+<!--
 - ** Homework 1 ** (17 Aug.) - Direct stiffness method.  [[Statement]](https://www.dropbox.com/s/jk8qh96z73c1wlw/t1.pdf?dl=0)
 
 - ** Homework 2 ** (7 Sept.) - Weak form and 1-D finite elements.  [[Statement]](https://www.dropbox.com/s/b8qtgobvny2ubsk/t2.pdf?dl=0)
