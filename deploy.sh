@@ -1,5 +1,10 @@
-#!/bin/bash 
+#!/bin/sh
 
-. /home/jaabell/.virtualenv/pelican/bin/activate
-../blog.git/hooks/post-receive
-deactivate
+make publish
+cd ../jaabell.github.io
+cp -R ../blog2/output/* .
+git add . 
+git commit
+git push 
+
+

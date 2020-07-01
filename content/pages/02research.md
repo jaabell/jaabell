@@ -2,6 +2,7 @@ Title: Research
 Date: 2017-08-02 17:48:33
 Author: jaabell
 Slug: 02research
+status: hidden
 
 My personal research focuses on the study of linear and nonlinear structure-soil systems under earthquake loading, through modeling and simulation. An important aspect of my research is that I place strong emphasis on the correct description of seismic wave propagation from source to site by coupling detaile models of earthquake motions (3D seismic simulations which are generally linear but require huge computational resource) with detailed modeles of site and structure (solvable on laptops to small HPC clusters).
 

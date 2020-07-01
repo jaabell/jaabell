@@ -2,6 +2,8 @@ Title: Links
 Date: 2017-01-15 16:53:53
 Author: jaabell
 Slug: 07links
+status: hidden
+
 
 <center>
 [Engineering@UAndes][] | [UCDavis][] |  [CompGeoMech Group][] |  [GGSS][]
