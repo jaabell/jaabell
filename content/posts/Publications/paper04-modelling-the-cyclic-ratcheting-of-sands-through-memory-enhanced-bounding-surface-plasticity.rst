@@ -39,7 +39,6 @@ So, Federico and his great PhD student Haoyuan Liu together with Andrea Diambra 
 .. figure:: https://www.dropbox.com/s/xis1190jcxkv410/ratchy_team.png?raw=1
     :width: 100%
 
-    ...
 
 
 The concept of memory surface (MS) is a way to keep track of stress states that the soil has *visited* previously, a type of soil fabric effect. When the soil re-visits this area then it should *remember* and respond with higher stiffness. Its explained in greater depth in the article, `go read it to get the best experience <https://www.researchgate.net/publication/328211282_Modelling_the_cyclic_ratcheting_of_sands_through_memory-enhanced_bounding_surface_plasticity>`_. The main point is that SAniSand's fabric tensor gets replaced with a new formulation based on the MS.
