@@ -2,7 +2,7 @@ Title: Publications
 Date: 2018-01-24 15:13:00
 Author: jaabell
 Slug: 04publications
-
+Summary:
 
 <center>
 <a title="José A. Abell" href="https://www.researchgate.net/profile/Jose_Abell/"><img src="https://www.researchgate.net/images/public/profile_share_badge.png" alt="José A. Abell" /></a>
@@ -16,29 +16,29 @@ Click arrow to get details!
 
 
 
+<!---------------------------------------------------------------- 
+Paper07
+------------------------------------------------------------------>
 
 <details markdown="1">
 <summary> [**In review**] 
 Nicolás Andrés Galano, [Patricio Alejandro Moreno-Casas](pato), [**Jose Antonio Abell**](self). *Extending the Particle Finite Element Method for Sediment Transport Simulation*. Computer Methods in Applied Mechanics and Engineering
 </summary>
 
+![Fig 1](https://www.dropbox.com/s/hwvo1eu292lgjgo/Fig1.png?raw=1)
+
 ####Abstract
 
-The present work extends the capabilities of the Particle Finite Element Method
-(PFEM), which allows modeling of soil-fluid-structure interaction problems, to allow the
-modeling of sediment transport and scouring effects. This is accomplished by
-implementing scouring rules on an evolving scourable-interface, i.e. the interface
-surface between fluid and soil. The proposed method improves upon previous
-proposals by jointly capturing both the temporal and spatial scales of scouring
-evolution, as shown in the presented validation exercise, and also because its
-parametrization is conforms with commonplace engineering procedures for scouring
-prediction. The extension preserves desirable PFEM properties such as conservation
-of mass, mesh-size independence, and stability of the numerical solution of the PFEM
-equations.
+{! content/abstracts/paper07-abstract.md !}
+
+[PDF] [BLOG]
 
 </details>
 
 
+<!---------------------------------------------------------------- 
+Paper06
+------------------------------------------------------------------>
 
 <details markdown="1">
 <summary> 
@@ -47,45 +47,59 @@ equations.
 
 ####Abstract
 
+{! content/abstracts/paper06-abstract.md !}
+
+[PDF] [BLOG]
+
+
 </details>
 
 
-
+<!---------------------------------------------------------------- 
+Paper05
+------------------------------------------------------------------>
 
 <details markdown="1">
 <summary> 
  [Patricio A. Moreno-Casas](Pato), [Felipe Scott](scottypippen), [José Delpiano](JoeDelpiano), [**José A. Abell**][self], Francisco Caicedo, Raúl Muñoz, and [Alberto Vergara-Fernández](albertovergara). *Mechanistic Description of Convective Gas–Liquid Mass Transfer in Biotrickling Filters Using CFD Modeling.* Environmental Science & Technology 2020 54 (1), 419-426
 </summary>
 
+![Fig 1](https://www.dropbox.com/s/d1n9ckosxi0cfvl/fig1.png?raw=1)
+
 ####Abstract
 
+{! content/abstracts/paper05-abstract.md !}
 
+[[PDF](https://www.researchgate.net/publication/337698382_Mechanistic_Description_of_Convective_Gas-Liquid_Mass_Transfer_in_Biotrickling_Filters_Using_CFD_Modeling)] [BLOG]
 
 
 </details>
 
 
-
+<!---------------------------------------------------------------- 
+Paper04
+------------------------------------------------------------------>
 
 <details markdown="1">
 <summary> 
  Hao Yuan Liu, [**José Antonio Abell**][self], [Andrea Diambra](Diambra), and Federico Pisanò. *Modelling the cyclic ratcheting of sands through memory-enhanced bounding surface plasticity.* Géotechnique 2019 69:9, 783-800
 </summary>
 
-![Fig 1](https://www.dropbox.com/s/sqc6efifafocw2c/fig1-deviatoric.png?raw=1)
-![Fig 2](https://www.dropbox.com/s/clz3s9odnbze3xg/fig2-response.png?raw=1)
+![Fig 1](https://www.dropbox.com/s/clz3s9odnbze3xg/fig2-response.png?raw=1)
 
 ####Abstract
 
 {! content/abstracts/paper04-abstract.md !}
 
-[[PDF](https://www.researchgate.net/publication/328211282_Modelling_the_cyclic_ratcheting_of_sands_through_memory-enhanced_bounding_surface_plasticity)}
+[[PDF](https://www.researchgate.net/publication/328211282_Modelling_the_cyclic_ratcheting_of_sands_through_memory-enhanced_bounding_surface_plasticity)]
 [[BLOG]({filename}../posts/Publications/paper04-modelling-the-cyclic-ratcheting-of-sands-through-memory-enhanced-bounding-surface-plasticity.rst)]
 
 </details>
 
 
-
+<!---------------------------------------------------------------- 
+Paper03
+------------------------------------------------------------------>
 
 
 <details markdown="1">
@@ -93,37 +107,61 @@ equations.
  [**José. A. Abell**][self], Nebojša Orbović, David B. McCallen and [Boris Jeremić][Boris]. *Earthquake Soil Structure Interaction of Nuclear Power Plants, differences in response to 3-D, 3×1-D, and 1-D excitations.* Earthquake Engineering and Structural Dynamics, in print, 2018.
 </summary>
 
+![Fig 1](https://www.dropbox.com/s/sxthk6218su7ajt/fig5-reduced.png?raw=1)
 
+{! content/abstracts/paper03-abstract.md !}
 
-
+[[PDF](https://www.researchgate.net/publication/323417515_Earthquake_soil-structure_interaction_of_nuclear_power_plants_differences_in_response_to_3-D_3_1-D_and_1-D_excitations)]
+[[BLOG]({filename}../posts/Publications/paper03-earthquake-soil-structure-interaction-of-nuclear-power-plants-differences-in-response-to-3-d-3-1-d-and-1-d-excitations.md)]
 
 </details>
 
 
-
+<!---------------------------------------------------------------- 
+Paper02
+------------------------------------------------------------------>
 
 <details markdown="1">
 <summary> 
  Catalina Fortuño, [Juan Carlos de la Llera][jcllera], [Charles W. Wicks][chuck], and **[José A. Abell][self]** - *Synthetic Hybrid Broadband Seismograms Based on InSAR Coseismic Displacements*. Bulletin of the Seismological Society of America published ahead of print November 18, 2014, doi:10.1785/0120130293
 </summary>
 
+![Fig 1](https://www.dropbox.com/s/e01a725qraknovc/fig-1.png?raw=1)
+![Fig 2](https://www.dropbox.com/s/yknqfvy8ztqnbyl/fig-2.png?raw=1)
+
 ####Abstract
 
 
+
+{! content/abstracts/paper02-abstract.md !}
+
+[[PDF](https://www.researchgate.net/publication/271386799_Synthetic_Hybrid_Broadband_Seismograms_Based_on_InSAR_Coseismic_Displacements)]
+[[BLOG]]
 
 
 </details>
 
 
 
-
+<!---------------------------------------------------------------- 
+Paper01
+------------------------------------------------------------------>
 <details markdown="1">
 <summary> 
  **[José A. Abell][self]**, [Juan Carlos de la Llera][jcllera], [Charles W. Wicks][chuck] - *Enhancement of long period components of recorded and synthetic ground motions using InSAR*. Soil Dynamics and Earthquake Engineering **01/2011; 31(5):817-829**. DOI:10.1016/j.soildyn.2011.01.005
 </summary>
 
+![Fig 1](https://www.dropbox.com/s/pvouvs9lggmepmi/fig-1.png?raw=1)
+![Fig 2](https://www.dropbox.com/s/9ts6lp2dkxwzx14/fig-2.png?raw=1)
+![Fig 3](https://www.dropbox.com/s/8fvwddy2cfoq5ia/fig-3.png?raw=1)
+
 ####Abstract
 
+
+{! content/abstracts/paper01-abstract.md !}
+
+[[PDF](https://www.researchgate.net/publication/251544639_Enhancement_of_long_period_components_of_recorded_and_synthetic_ground_motions_using_InSAR)]
+[[BLOG]]
 
 
 
@@ -134,6 +172,8 @@ equations.
 <br>
 
 ##Conference Proceedings
+
+Please check my [ResearchGate profile](https://www.researchgate.net/profile/Jose_Abell) for the most up-to-date list of conference papers. 
 
 - Yuan Feng, [**José Abell**][self], Sumeet Kumar Sinha, Han Yang, Fatemah Behbehani, Hexian Wang, Nebojša Orbović, David B McCallen and [Boris Jeremić][Boris]. *Verification for the Real ESSI Simulator*. In proceedings of Structural Mechanics in Reactor Technology (SMiRT) 24 conference, Busan, South Korea, August 20-25, 2017.
 

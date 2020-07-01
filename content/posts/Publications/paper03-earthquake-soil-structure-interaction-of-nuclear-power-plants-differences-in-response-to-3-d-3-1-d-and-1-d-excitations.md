@@ -16,12 +16,10 @@ Lets get to it! Here is the citation so far (I still don't have an issue assign,
 
  The idea is simple: to show that the 3-D character of seismic motions has an impact on the structural response of a nuclear power-plant by comparing the response to 3-D motions with the one produced by an equivalent 1-D (1 component: horizontal) or 3×1-D (3 components) motion. Here is the NPP model used in the article:
 
-<img width="100%" src="https://www.dropbox.com/s/dj6ruypv0722qh2/fem_mesh.png?raw=1" alt="NPP" />
 
 And its fixed-base eigenmodes:
 
-<img width="100%" src="https://www.dropbox.com/s/01pkei2pibg3nws/containment_modes.png?raw=1" alt="Containment building modes" />
-<img width="100%" src="https://www.dropbox.com/s/9d2um509pcrot7r/auxilliary_modes.png?raw=1" alt="Auxiliary building modes" />
+
 
 I was required by the peer-reviewers to include these fixed-base modes in the article. These are interesting, but they're not too relevant to the SSI system. SSI significantly changes the participation of the modes. I've found it useful to stop thinking in terms of eigen modes for these kind of problems, it is better to think in terms of the requirements of wave-propagation. 
 
