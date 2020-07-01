@@ -28,6 +28,7 @@ This is a ratchet! Ratchetin' is what it do.
 
 .. figure:: https://www.dropbox.com/s/ksbd0a86m4728wk/ratchet-2.png?raw=1
     :width: 40%
+    :alt: I am the ratchet. 
 
     *This is a ratchet. It ratechets.*
 
@@ -37,6 +38,7 @@ So, Federico and his great PhD student Haoyuan Liu together with Andrea Diambra 
 
 
 .. figure:: https://www.dropbox.com/s/xis1190jcxkv410/ratchy_team.png?raw=1
+    :alt: The team.
     :width: 100%
 
 

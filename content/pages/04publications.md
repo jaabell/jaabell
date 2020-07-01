@@ -80,7 +80,7 @@ equations.
 {! content/abstracts/paper04-abstract.md !}
 
 [[PDF](https://www.researchgate.net/publication/328211282_Modelling_the_cyclic_ratcheting_of_sands_through_memory-enhanced_bounding_surface_plasticity)}
-[[BLOG]({filename}../posts/Publications/paper04-modelling-the-cyclic-ratcheting-of-sands-through-memory-enhanced-bounding-surface-plasticity.md)]
+[[BLOG]({filename}../posts/Publications/paper04-modelling-the-cyclic-ratcheting-of-sands-through-memory-enhanced-bounding-surface-plasticity.rst)]
 
 </details>
 
