@@ -37,7 +37,9 @@ MARKDOWN = {
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
+        # 'markdown.extensions.mdx_include': {},
     },
+    'extensions':['mdx_include'],
     'output_format': 'html5',
 }
 
@@ -69,7 +71,7 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-MARKUP = ("md", "ipynb")
+MARKUP = ("rst", "md", "ipynb")
 
 from pelican_jupyter import markup as nb_markup
 
@@ -216,13 +218,15 @@ HERO = [
 ]
 
 
-SUMMARY_BEGIN_MARKER = "<!-- SUMMARY BEGIN -->"
-SUMMARY_END_MARKER = "<!-- SUMMARY END -->"
+# SUMMARY_BEGIN_MARKER = "<!-- SUMMARY BEGIN -->"
+# SUMMARY_END_MARKER = "<!-- SUMMARY END -->"
 # SUMMARY_USE_FIRST_PARAGRAPH  = True
 SUMMARY_MAX_LENGTH = 10
 
 OUTPUT_PATH = "output"
 
-DISQUS_USERNAME = "joseabell"
-DISQUS_SITENAME = "www.joseabell.com"
-DISQUSURL = 'http://www.joseabell.com'
+# DISQUS_USERNAME = "joseabell"
+DISQUS_SITENAME = "joseabell"
+# DISQUSURL = 'http://www.joseabell.com'
+
+RESPONSIVE_IMAGES = True

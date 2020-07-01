@@ -7,7 +7,7 @@ Author: jaabell
 Lang: en
 Status: 
 
-<!-- SUMMARY BEGIN -->
+<!-- PELICAN_BEGIN_SUMMARY -->
 
 
 <div class="videoWrapper" align="left">
@@ -17,7 +17,7 @@ Status:
 Stuck teaching during COVID-19 lockdowns in Chile has reminded me one crucial thing 
 about statics (the class I'm teaching this first semester in the southern hemisphere): **it can be very frustrating for students**. This frustriation comes from unmet expectations. They're just finishing their early maths and physics formation (Calculus, Linear Algebra, Differential Equations, physics etc. ), an ideal world where problems have nice answers such as $\sqrt{2}  \pi$ or no answer at all. Then, along comes statics, and the world seems upside down. 
 
-<!-- SUMMARY END -->
+<!-- PELICAN_BEGIN_SUMMARY -->
 
 Not only are the contents of statics deceptively simple ($\sum F=0$ pretty much sums it up... get it?... sums?... ok), the only way through is through exercising... a lot. This cannot be over-emphasized. 
 

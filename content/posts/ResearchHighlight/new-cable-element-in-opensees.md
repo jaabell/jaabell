@@ -6,7 +6,7 @@ Tags: OpenSees, Cable, Blender
 Author: jaabell
 Lang: en
 
-<!-- SUMMARY BEGIN -->
+<!-- PELICAN_BEGIN_SUMMARY -->
 
 
 <div class="videoWrapper" align="left">
@@ -18,7 +18,7 @@ With my student, Pablo Ibañez, we implemented a new [catenary cable element](ht
 
 The stiffness of this element is obtained using a flexibility formulation. Basically the shape of the cable is determined by the integral:
 
-<!-- SUMMARY END -->
+<!-- PELICAN_BEGIN_SUMMARY -->
 
 $$
 \newcommand{\pare}[1]{\left( #1 \right)}
