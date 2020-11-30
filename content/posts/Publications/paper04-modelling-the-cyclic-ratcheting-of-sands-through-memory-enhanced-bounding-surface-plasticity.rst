@@ -30,11 +30,11 @@ This is a ratchet! Ratchetin' is what it do.
     :width: 40%
     :alt: I am the ratchet. 
 
-    *This is a ratchet. It ratechets.*
+    *This is a ratchet. It ratchets.*
 
 In all seriousness, when soils are subjected to asymmetrical loading, for example because there may be a static shear load acting on it and then it gets shaken, the soil accumulates irrecoverable strain as it cycles. Typical constitutive models predict a constant rate of strain accumulation for this type of loading, and that is what needs to be fixed. Only *drained* ratcheting response is pursued here, the *undrained* behavior is get its own (already accepted) article (see `this <https://en.wikipedia.org/wiki/Least_publishable_unit>`_ for more info on this publishing strategy. *(joke Fede)*). 
 
-So, Federico and his great PhD student Haoyuan Liu together with Andrea Diambra at Bristol University integrated the idea of *memory surface* (which was applied to granular soils by `Corti and Diambra in 2016 <https://research-information.bris.ac.uk/en/publications/memory-surface-hardening-model-for-granular-soils-under-repeated->`_) to extend the SAniSand constitutive and fix this. We affectionately baptized this model `RatchySand`... a play on the SAniSand origins of the model and ratchyness. We've recently received the blessing of Yannis Dafalias himself to name the model `SAniSand-MS`, in line with other models that have been developed. 
+So, Federico and his great PhD student Haoyuan Liu together with Andrea Diambra at Bristol University integrated the idea of *memory surface* (which was applied to granular soils by `Corti and Diambra in 2016 <https://research-information.bris.ac.uk/en/publications/memory-surface-hardening-model-for-granular-soils-under-repeated->`_) to extend the SAniSand constitutive and fix this. We affectionately baptized this model `RatchySand`... a play on the SAniSand origins of the model and ratchyness. Officially we call the model `SAniSand-MS`, in line with other models that have been developed in the same family. 
 
 
 .. figure:: https://www.dropbox.com/s/xis1190jcxkv410/ratchy_team.png?raw=1

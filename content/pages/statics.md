@@ -1,57 +1,49 @@
-Title: Estática - 1er. Sem. 2017
+Title: Estática 202010
 Date: 2017-01-15 16:55:07
+Modified: 2020-07-21 11:21:11
 Author: jaabell
 Slug: statics
 status: hidden
 
-## Descripción
+## Introducción
+
+Después de la hecatombe del COVID--19, quedaron bastantes temas pendientes en estática. 
+Este rincón de mi sitio web es para entregar esos contenidos a los alumnos interesados. 
+El plan es el siguiente:
+
+Semana del 20 de Julio de 2020
+
+* Sistemas de cuerpos rígidos
+* Esfuerzos internos en vigas
+* Esfuerzos internos en marcos
+
+Semana del 27 de Julio de 2020
+
+* Cinemática de cuerpos rígidos
+* Principio de trabajos virtuales
 
 
-## Generalidades
-
-- Creditos: 6 ($ \frac{6 \text{creditos} \cdot 30 \text{horas/credito} }{ 18 \text{semanas}} \\approx 10 $ horas semanales)
-- Clases: TBD
-- Profesor: José Abell (jaabell@miuandes.cl)
-- Horario de oficina: TBD
-- 29 - 31 clases expositivas.
-
-## Competencias desarrolladas
-
-- Aprender a resolver problemas de equilibrio estático de partícula y sólidos rígidos.
-
-- Aprender a modelar y determinar los esfuerzos internos en estructuras isostáticas formadas por elementos uniaxiales.
-
-- Comprender y aplicar el concepto de cinemática para pequeños desplazamientos.
-
-- Comprender la relación entre equilibrio estático y balance de energía.
-
-## Evaluación
-
-
-
-Calendario 
-============
-
-<!-- <iframe src="https://calendar.google.com/calendar/embed?src=68hj1a9pjm988hq9avip7ggus0%40group.calendar.google.com&ctz=America/Santiago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
- -->
-
-Contenidos
-============
+Este esquema es el que voy a usar para entregar los contenidos, no necesariamente
+el tiempo en que el alumno debe aprender los contenidos, sería iluso asumir esto. 
 
 
 
-Lectura Personal
-============
+## Sistemas de cuerpos rígidos
 
+Por completar...
 
+## Esfuerzos internos en vigas
 
-Links
-============
+Por completar...
 
-- Un buen tutorial de python científico: [http://www.scipy-lectures.org/](http://www.scipy-lectures.org/).
-- [python(x,y)](https://python-xy.github.io/) Distribución de python para windows orientada para el cálculo científico (usuarios de Mac deben instalar componentes por separado). 
-- Recursos para hacer gráficos bien
-    - [Esto](http://flowingdata.com/2010/07/22/7-basic-rules-for-making-charts-and-graphs/)
-    - [y esto](http://hackerspace.kinja.com/5-rules-for-making-graphs-1605706367)
-    - [tambien esto](https://visage.co/peoples-charts-graphs-look-like-crap/)
-    - [porfavor esto](http://fosslien.com/rules/)
+## Esfuerzos internos en marcos
+
+Por completar...
+
+## Cinemática de cuerpos rígidos
+
+Por completar...
+
+## Principio de trabajos virtuales
+
+Por completar...

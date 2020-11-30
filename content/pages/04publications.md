@@ -12,9 +12,75 @@ Summary:
 
 ##Journal Articles
 
-Click arrow to get details!
+Click to get details!
 
 
+<!---------------------------------------------------------------- 
+Paper10
+------------------------------------------------------------------>
+
+<details markdown="1">
+<summary> [**In review**] 
+[**Jose A. Abell.**](self), Jorge G.F. Crempien, Matías Recabarren
+*``ShakerMaker``: A framework that simplifies the simulation of seismic ground-motions*. SoftwareX
+</summary>
+
+![Fig 1](https://www.dropbox.com/s/v7ylof57q5ritmy/fig1.png?raw=1)
+
+####Abstract
+
+{! content/abstracts/paper10-abstract.md !}
+
+[PDF] [BLOG]
+
+</details>
+
+
+
+<!---------------------------------------------------------------- 
+Paper09
+------------------------------------------------------------------>
+
+<details markdown="1">
+<summary> [**In review**] 
+Francisco Pinto, Christian Ledezma, Rodrigo Astroza, [**Jose A. Abell.**](self)
+*Understanding the loss of vibration energy in buildings to elastic-waves induced in foundation site with high-fidelity finite-element modeling*. Journal of Earthquake Engineering. 
+</summary>
+
+![Fig 1](https://www.dropbox.com/s/h3w5ghavuftxtb4/fig1.png?raw=1)
+![Fig 2](https://www.dropbox.com/s/2lix2nezgxjmn1i/fig2.png?raw=1)
+
+####Abstract
+
+{! content/abstracts/paper09-abstract.md !}
+
+[PDF] [BLOG]
+
+</details>
+
+
+<!---------------------------------------------------------------- 
+Paper08
+------------------------------------------------------------------>
+
+<details markdown="1">
+<summary> [**In review**] 
+Haoyuan Liu, Evangelos Kementzetzidis, [**José Antonio Abell**](self), [Federico Pisanò](fede)
+*From cyclic sand ratcheting to tilt accumulation in offshore monopiles: 3D FE modelling using SANISAND-MS*. Géotechnique
+</summary>
+
+
+####Abstract
+
+*Not yet available for release*
+
+[PDF] [BLOG]
+
+</details>
+
+
+<!-- ![Fig 1](https://www.dropbox.com/s/hwvo1eu292lgjgo/Fig1.png?raw=1) -->
+<!-- {! content/abstracts/paper08-abstract.md !} -->
 
 <!---------------------------------------------------------------- 
 Paper07
@@ -42,14 +108,14 @@ Paper06
 
 <details markdown="1">
 <summary> 
- [**Accepted**] Haoyuan Liu, [Andrea Diambra](Diambra), [**José Antonio Abell**](self), [Federico Pisanò][Fede]. *Memory-enhanced plasticity modelling of sand behaviour under undrained cyclic loading*. Journal of Geotech. and Geoenvironmental Eng.
+ Haoyuan Liu, [Andrea Diambra](Diambra), [**José Antonio Abell**](self), [Federico Pisanò][Fede]. *Memory-enhanced plasticity modelling of sand behaviour under undrained cyclic loading*. Journal of Geotechnical and Geoenvironmental Engineering, Vol. 146, Issue 11 (November 2020)
 </summary>
 
 ####Abstract
 
 {! content/abstracts/paper06-abstract.md !}
 
-[PDF] [BLOG]
+[[PDF]](https://www.researchgate.net/publication/344014750_Memory-Enhanced_Plasticity_Modeling_of_Sand_Behavior_under_Undrained_Cyclic_Loading) [BLOG]
 
 
 </details>
