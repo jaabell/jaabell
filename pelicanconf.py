@@ -60,10 +60,11 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (
   ('Github', 'https://www.github.com/jaabell'),
-  ('Twitter', 'https://www.twitter.com/RealJoseAbell'),
-  ('Instagram', 'https://www.instagram.com/ja.abell'),
-  ('Youtube', 'https://www.youtube.com/user/eivelinsar'),
-  ('researchgate', 'https://www.researchgate.net/profile/Jose_Abell/')
+  # ('Twitter', 'https://www.twitter.com/RealJoseAbell'),
+  # ('Instagram', 'https://www.instagram.com/ja.abell'),
+  ('Youtube', 'https://www.youtube.com/c/JoseAAbellM'),
+  ('researchgate', 'https://www.researchgate.net/profile/Jose_Abell/'),
+  ('linkedin', 'linkedin.com/in/josé-abell-93194129')
 )
 
 DEFAULT_PAGINATION = 10

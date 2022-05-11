@@ -7,7 +7,10 @@ Summary:
 <center>
 <a title="José A. Abell" href="https://www.researchgate.net/profile/Jose_Abell/"><img src="https://www.researchgate.net/images/public/profile_share_badge.png" alt="José A. Abell" /></a>
 <a href="https://scholar.google.com/citations?user=mcmCTfQAAAAJ&hl=en"><img height="70px" src="/images/other/gscholar.png" alt="José A. Abell" />Google Scholar</a>
-<a itemprop="sameAs" content="https://orcid.org/0000-0002-2735-6547" href="https://orcid.org/0000-0002-2735-6547" target="orcid.widget" rel="me noopener noreferrer"><img src="https://orcid.org/sites/default/files/images/orcid_64x64.png" style="width:3.5em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-2735-6547</a>
+<a href="https://orcid.org/0000-0002-2735-6547">
+<img alt="ORCID logo" src="https://www.dropbox.com/s/c0o23zsp78k54i9/orcid_16x16.gif?raw=1" width="16" height="16" />
+0000-0002-2735-6547
+</a>
 </center>
 
 ##Journal Articles
@@ -16,12 +19,76 @@ Click to get details!
 
 
 <!---------------------------------------------------------------- 
-Paper10
+Paper13
 ------------------------------------------------------------------>
 
 <details markdown="1">
 <summary> [**In review**] 
-[**Jose A. Abell.**](self), Jorge G.F. Crempien, Matías Recabarren
+Marco Tulio Herrera, [Jorge G. F. Crempien](Georgie), Roberto Benavente, [**Jose A. Abell.**](self) *Bayesian ground motion model selection method based on evidence and information criteria*. Bulletin of the Seismological Society of America
+</summary>
+
+![Fig 1](https://www.dropbox.com/s/pov2nm3rtm1ame9/fig1.png?raw=1)
+
+####Abstract
+
+{! content/abstracts/paper13-abstract.md !}
+
+[PDF] [BLOG]
+
+</details>
+
+
+
+<!---------------------------------------------------------------- 
+Paper12
+------------------------------------------------------------------>
+
+<details markdown="1">
+<summary> [**Accepted**] 
+Francisco J. Pinto, Christian Ledezma, [**Jose A. Abell.**](self), [Rodrigo Astroza](Rorro), Shideh Dashti *Soil-Basement Interaction Effects on the Seismic Response of Tall Buildings with Basement Levels*. Engineering structures
+</summary>
+
+![Fig 1](https://www.dropbox.com/s/y7aczbgu4xxoy6g/fig1.png?raw=1)
+
+####Abstract
+
+{! content/abstracts/paper12-abstract.md !}
+
+[PDF] [BLOG]
+
+</details>
+
+
+
+<!---------------------------------------------------------------- 
+Paper11
+------------------------------------------------------------------>
+
+<details markdown="1">
+<summary> [**In review**] Francisco Pinto, Shideh Dashti, Christian Ledezma, [**Jose A. Abell.**](self)
+*How Do Tall Buildings Affect Seismic Earth Pressures on Their Basement Walls?*. Soil Dynamics and Earthquake Engineering
+</summary>
+
+![Fig 1](![Fig 1](https://www.dropbox.com/s/qi1wfe4qzbknv76/fig1.png?raw=1)
+
+
+####Abstract
+
+{! content/abstracts/paper11-abstract.md !}
+
+[PDF] [BLOG]
+
+</details>
+
+
+
+<!---------------------------------------------------------------- 
+Paper10
+------------------------------------------------------------------>
+
+<details markdown="1">
+<summary> [**Accepted**] 
+[**Jose A. Abell.**](self), [Jorge G.F. Crempien](Georgie), Matías Recabarren
 *``ShakerMaker``: A framework that simplifies the simulation of seismic ground-motions*. SoftwareX
 </summary>
 
@@ -42,9 +109,9 @@ Paper09
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary> [**In review**] 
+<summary> [**Accepted**] 
 Francisco Pinto, Christian Ledezma, Rodrigo Astroza, [**Jose A. Abell.**](self)
-*Understanding the loss of vibration energy in buildings to elastic-waves induced in foundation site with high-fidelity finite-element modeling*. Journal of Earthquake Engineering. 
+*Modeling the loss of vibration energy in buildings to elastic-waves using high-fidelity FE modeling and absorbent exterior boundaries*. Journal of Earthquake Engineering. 
 </summary>
 
 ![Fig 1](https://www.dropbox.com/s/h3w5ghavuftxtb4/fig1.png?raw=1)
@@ -64,15 +131,17 @@ Paper08
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary> [**In review**] 
+<summary> [**Accepted**] 
 Haoyuan Liu, Evangelos Kementzetzidis, [**José Antonio Abell**](self), [Federico Pisanò](fede)
-*From cyclic sand ratcheting to tilt accumulation in offshore monopiles: 3D FE modelling using SANISAND-MS*. Géotechnique
+*From cyclic sand ratcheting to tilt accumulation in offshore monopiles: 3D FE modelling using SANISAND-MS*. Géotechnique. Online March 8, 2021 (Ahead of print)
 </summary>
 
+![Fig 1](https://www.dropbox.com/s/dfyutj7p9fejzuc/fig.png?raw=1)
 
 ####Abstract
 
-*Not yet available for release*
+{! content/abstracts/paper09-abstract.md !}
+
 
 [PDF] [BLOG]
 
@@ -87,8 +156,8 @@ Paper07
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary> [**In review**] 
-Nicolás Andrés Galano, [Patricio Alejandro Moreno-Casas](pato), [**Jose Antonio Abell**](self). *Extending the Particle Finite Element Method for Sediment Transport Simulation*. Computer Methods in Applied Mechanics and Engineering
+<summary>
+Nicolás Andrés Galano, [Patricio Alejandro Moreno-Casas](pato), [**Jose Antonio Abell**](self). *Extending the Particle Finite Element Method for Sediment Transport Simulation*. Computer Methods in Applied Mechanics and Engineering, Vol 380, 1 July 2021. 
 </summary>
 
 ![Fig 1](https://www.dropbox.com/s/hwvo1eu292lgjgo/Fig1.png?raw=1)
@@ -276,3 +345,4 @@ Please check my [ResearchGate profile](https://www.researchgate.net/profile/Jose
   [scottypippen]: https://ing.uandes.cl/academicos/scott-felipe/
   [albertovergara]: https://ing.uandes.cl/academicos/vergara-fernandez-alberto/
   [Georgie]: https://www.ing.uc.cl/academicos-e-investigadores/jorge-gustavo-federico-crempien-de-la-carrera/
+  [Rorro]: www.rastroza.com
