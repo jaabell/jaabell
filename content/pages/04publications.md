@@ -18,12 +18,39 @@ Summary:
 Click to get details!
 
 
+
+
+<!---------------------------------------------------------------- 
+Paper14
+------------------------------------------------------------------>
+
+<details markdown="1">
+<summary markdown="1"> [**Accepted**] 
+M. Birrell, C. Pastén, [**J.A. Abell**](self), [R. Astroza](Rorro), Probabilistic characterization of a high-cycle accumulation model for sands, Computers and Geotechnics, Volume 147, 2022, [https://doi.org/10.1016/j.compgeo.2022.104798](https://doi.org/10.1016/j.compgeo.2022.104798).
+</summary>
+
+
+####Abstract
+
+![Fig 1](https://www.dropbox.com/s/cvjj5elggsv71kq/fig1.jpg?raw=1)
+
+{! content/abstracts/paper14-abstract.md !}
+
+![Fig 2](https://www.dropbox.com/s/sxq7w3qg55ew6ka/fig2.jpg?raw=1)
+
+
+[PDF] [BLOG]
+
+</details>
+
+
+
 <!---------------------------------------------------------------- 
 Paper13
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary> [**In review**] 
+<summary markdown="1"> [**In review**] 
 Marco Tulio Herrera, [Jorge G. F. Crempien](Georgie), Roberto Benavente, [**Jose A. Abell.**](self) *Bayesian ground motion model selection method based on evidence and information criteria*. Bulletin of the Seismological Society of America
 </summary>
 
@@ -44,7 +71,7 @@ Paper12
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary> [**Accepted**] 
+<summary markdown="1"> [**Accepted**] 
 Francisco J. Pinto, Christian Ledezma, [**Jose A. Abell.**](self), [Rodrigo Astroza](Rorro), Shideh Dashti *Soil-Basement Interaction Effects on the Seismic Response of Tall Buildings with Basement Levels*. Engineering structures
 </summary>
 
@@ -65,7 +92,8 @@ Paper11
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary> [**In review**] Francisco Pinto, Shideh Dashti, Christian Ledezma, [**Jose A. Abell.**](self)
+<summary markdown="1"> [**In review**] 
+Francisco Pinto, Shideh Dashti, Christian Ledezma, [**Jose A. Abell.**](self)
 *How Do Tall Buildings Affect Seismic Earth Pressures on Their Basement Walls?*. Soil Dynamics and Earthquake Engineering
 </summary>
 
@@ -87,7 +115,7 @@ Paper10
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary> [**Accepted**] 
+<summary markdown="1"> [**Accepted**] 
 [**Jose A. Abell.**](self), [Jorge G.F. Crempien](Georgie), Matías Recabarren
 *``ShakerMaker``: A framework that simplifies the simulation of seismic ground-motions*. SoftwareX
 </summary>
@@ -109,7 +137,7 @@ Paper09
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary> [**Accepted**] 
+<summary markdown="1"> [**Accepted**] 
 Francisco Pinto, Christian Ledezma, Rodrigo Astroza, [**Jose A. Abell.**](self)
 *Modeling the loss of vibration energy in buildings to elastic-waves using high-fidelity FE modeling and absorbent exterior boundaries*. Journal of Earthquake Engineering. 
 </summary>
@@ -131,7 +159,7 @@ Paper08
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary> [**Accepted**] 
+<summary markdown="1"> [**Accepted**] 
 Haoyuan Liu, Evangelos Kementzetzidis, [**José Antonio Abell**](self), [Federico Pisanò](fede)
 *From cyclic sand ratcheting to tilt accumulation in offshore monopiles: 3D FE modelling using SANISAND-MS*. Géotechnique. Online March 8, 2021 (Ahead of print)
 </summary>
@@ -156,7 +184,7 @@ Paper07
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary>
+<summary markdown="1">
 Nicolás Andrés Galano, [Patricio Alejandro Moreno-Casas](pato), [**Jose Antonio Abell**](self). *Extending the Particle Finite Element Method for Sediment Transport Simulation*. Computer Methods in Applied Mechanics and Engineering, Vol 380, 1 July 2021. 
 </summary>
 
@@ -176,7 +204,7 @@ Paper06
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary> 
+<summary markdown="1"> 
  Haoyuan Liu, [Andrea Diambra](Diambra), [**José Antonio Abell**](self), [Federico Pisanò][Fede]. *Memory-enhanced plasticity modelling of sand behaviour under undrained cyclic loading*. Journal of Geotechnical and Geoenvironmental Engineering, Vol. 146, Issue 11 (November 2020)
 </summary>
 
@@ -195,7 +223,7 @@ Paper05
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary> 
+<summary markdown="1"> 
  [Patricio A. Moreno-Casas](Pato), [Felipe Scott](scottypippen), [José Delpiano](JoeDelpiano), [**José A. Abell**][self], Francisco Caicedo, Raúl Muñoz, and [Alberto Vergara-Fernández](albertovergara). *Mechanistic Description of Convective Gas–Liquid Mass Transfer in Biotrickling Filters Using CFD Modeling.* Environmental Science & Technology 2020 54 (1), 419-426
 </summary>
 
@@ -216,7 +244,7 @@ Paper04
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary> 
+<summary markdown="1"> 
  Hao Yuan Liu, [**José Antonio Abell**][self], [Andrea Diambra](Diambra), and Federico Pisanò. *Modelling the cyclic ratcheting of sands through memory-enhanced bounding surface plasticity.* Géotechnique 2019 69:9, 783-800
 </summary>
 
@@ -238,7 +266,7 @@ Paper03
 
 
 <details markdown="1">
-<summary> 
+<summary markdown="1"> 
  [**José. A. Abell**][self], Nebojša Orbović, David B. McCallen and [Boris Jeremić][Boris]. *Earthquake Soil Structure Interaction of Nuclear Power Plants, differences in response to 3-D, 3×1-D, and 1-D excitations.* Earthquake Engineering and Structural Dynamics, in print, 2018.
 </summary>
 
@@ -257,7 +285,7 @@ Paper02
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary> 
+<summary markdown="1"> 
  Catalina Fortuño, [Juan Carlos de la Llera][jcllera], [Charles W. Wicks][chuck], and **[José A. Abell][self]** - *Synthetic Hybrid Broadband Seismograms Based on InSAR Coseismic Displacements*. Bulletin of the Seismological Society of America published ahead of print November 18, 2014, doi:10.1785/0120130293
 </summary>
 
@@ -282,7 +310,7 @@ Paper02
 Paper01
 ------------------------------------------------------------------>
 <details markdown="1">
-<summary> 
+<summary markdown="1"> 
  **[José A. Abell][self]**, [Juan Carlos de la Llera][jcllera], [Charles W. Wicks][chuck] - *Enhancement of long period components of recorded and synthetic ground motions using InSAR*. Soil Dynamics and Earthquake Engineering **01/2011; 31(5):817-829**. DOI:10.1016/j.soildyn.2011.01.005
 </summary>
 

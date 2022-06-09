@@ -181,6 +181,14 @@ HERO = [
     #   }
     # ]
   }, {
+    'image': '/images/hero/hpc.jpg',
+    'title': {
+      'en':'José Abell\'s Research Blog',
+    },
+    'text': {
+      'en': 'Numerical modeling in engineering | Earthquakes | HPC | OpenSource',
+      }
+  }, {
     'image': '/images/hero/playa.jpg',
     'title': {
       'en':'José Abell\'s Research Blog',
@@ -215,7 +223,7 @@ HERO = [
   #   'title': 'Ads missing as well',
   #   'text': 'And since i hate any ads, this is not implemented as well',
   #   'links': []
-  # }
+  # }/home/jaabell/Dropbox/homefolder/www/blog/images/hero/hpc.jpg
 ]
 
 
