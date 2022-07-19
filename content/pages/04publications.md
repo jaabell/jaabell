@@ -365,7 +365,7 @@ Please check my [ResearchGate profile](https://www.researchgate.net/profile/Jose
   [chuck]: https://www.researchgate.net/researcher/2023911886_Charles_W_Wicks/
   [msthesis]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDEQFjAA&url=http%3A%2F%2Frepositorio.uc.cl%2Fxmlui%2Fbitstream%2Fhandle%2F123456789%2F1361%2F530502.pdf%3Fsequence%3D1&ei=ml5DUpydEYrsiQLwkYCgBQ&usg=AFQjCNFeYk9L7MuTKpYj0U1Qu9Kg4hY7Ww&sig2=qjOobpxRQuOcvlljvLmOxg
   [phdthesis]: https://www.dropbox.com/s/bgnqt9wj0nm8ru4/Abell%20-%202016%20-%20Earthquake-Soil-Structure%20Interaction%20Modeling%20of%20Nuclear%20Power%20Plants%20for%20Near-Field%20Events.pdf?dl=0
-  [Fede]: https://online-learning.tudelft.nl/instructors/federico-pisano/
+  [Fede]: https://www.tudelft.nl/citg/over-faculteit/afdelingen/geoscience-engineering/sections/geo-engineering/staff/academic-staff/dr-f-federico-pisano
   [Boris]: http://sokocalo.engr.ucdavis.edu/~jeremic/Bib_WWW.html
   [Diambra]: http://www.bristol.ac.uk/engineering/people/andrea-diambra/
   [Pato]: https://ing.uandes.cl/academicos/moreno-patricio/

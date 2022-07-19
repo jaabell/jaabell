@@ -45,7 +45,7 @@ I'm having lots of fun these days building, testing, benchmarking and improving 
 
 I want to finish with some special thanks to all that have contributed to this project over the years. 
 
-* Carlos Castex (team v.1)
+* [Carlos Castex](https://www.uandes.cl/personas/carlos-castex/) (permanently on the team)
 * José Luis Assadi (team v.1)
 * Cristobal Griffero (team v.1)
 * Sebastián Baixas (team v.2 and v.3)

@@ -168,18 +168,6 @@ HERO = [
       'en': 'Numerical modeling in engineering | Earthquakes | HPC | OpenSource',
       # 'es': 'Esto es para sacar pica'
     },
-    # 'links': [
-    #   {
-    #     'icon': 'icon-code',
-    #     'url': 'https://github.com/claudio-walser/pelican-fh5co-marble',
-    #     'text': 'Github'
-    #   },
-    #   {
-    #     'icon': 'icon-code',
-    #     'url': 'https://github.com/claudio-walser/pelican-fh5co-marble',
-    #     'text': 'Github'
-    #   }
-    # ]
   }, {
     'image': '/images/hero/hpc.jpg',
     'title': {
