@@ -6,6 +6,7 @@ Slug: 05tools
 **Tools I've (Cr)eated/(Co)ntributed to**
 
 -   [OpenSees][] - (Co) UC Berkeley
+-   [ShakerMaker][] - (Cr) UC Berkeley
 -   [RealESSI Simulator][] - (Co) UCD
     Earthquake-Soil-Structure Interaction simulator system. </span>
 -   [FEI-Syntax-n-Snippets][] - (Cr) - Syntax highlighter and snippets
@@ -39,11 +40,12 @@ As far as OSes go
 
 -   [Ubuntu][] - What? There are other Linux distributions out there?
 -   [elementary OS][] - Interesting and pretty Ubuntu-based linux distro. Inspired by mac.
--   [Virtual Box] - Because sometimes you just need windows (because other people can't linux).
+-   [Virtual Box] - Because sometimes you just need windows 
 
 Some [useful commands][].
 
   [OpenSees]: http://opensees.berkeley.edu
+  [ShakerMaker]: https://github.com/jaabell/ShakerMaker
   [RealESSI Simulator]: http://sokocalo.engr.ucdavis.edu/~jeremic/ESSI_Simulator/
   [FEI-Syntax-n-Snippets]: https://github.com/jaabell/fei-syntax-n-snippets
   [visitESSI]: https://github.com/jaabell/visitESSI

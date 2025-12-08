@@ -24,7 +24,9 @@ USE_FOLDER_AS_CATEGORY = True
 ABOUT = {}
 
 STATIC_PATHS = [
-    'images', 'pdfs', 'extra/CNAME', 'favicon.ico'
+    'images',
+    'images/hero',
+    'pdfs', 'extra/CNAME', 'favicon.ico'
     ]
 
 #Enable TOC generation in markdown
@@ -74,7 +76,7 @@ RELATIVE_URLS = True
 
 MARKUP = ("rst", "md", "ipynb")
 
-from pelican_jupyter import markup as nb_markup
+# from pelican_jupyter import markup as nb_markup
 
 PLUGIN_PATHS = ['../pelican-plugins/']
 PLUGINS = [
@@ -84,7 +86,8 @@ PLUGINS = [
   'summary', 
   'representative_image', 
   'pelican_fontawesome',
-  nb_markup]#, 'better_figures_and_images']
+  ]
+  # nb_markup]#, 'better_figures_and_images']
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],

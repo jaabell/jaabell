@@ -1,19 +1,32 @@
 Title: About 
-Date: 2017-08-02 18:03:07
+Date: 2022-09-01 14:22:59
 Author: jaabell
 Slug: 01about
 
 
 <img src="/images/me.jpeg" alt="It's me. Jose!" align="left" hspace="15" vspace="15"/>
 
+I am a Chilean professor at the [Universidad de los Andes][], in the  
+[Faculty of Engineering and Applied Sciences][].
 
-I am a chilean professor working at [Universidad de los Andes][] in the [Faculty of Engineering and Applied Sciences](ing.uandes.cl). 
+My research centers on the behavior of **soil–structure systems under earthquake
+loading**, with an emphasis on **high-fidelity modeling and simulation**.  
+A core aspect of my work is the **physics-based description of seismic wave
+propagation**—from rupture source, through geological structure, to the site and 
+foundation system.
 
-My main research focuses on the study of structure-soil systems under earthquake loading, through modeling and simulation. An important aspect of my research is that I place strong emphasis on the correct description of seismic wave propagation from source to site. 
+I aim to help advance earthquake engineering by **leveraging high-performance
+computing** as an enabling technology. Scalable numerical methods, modern
+constitutive modeling, and large-scale wave propagation simulations are at the
+heart of the tools I build and use.
 
-A major goal for me is to leverage the use of high-performance computing as the enabling technology that will allow the profession to move forward in terms of the power of analysis available to engineers. 
+I am an active [OpenSees developer](https://github.com/jaabell) and contributor
+to several related [computational tools](05tools).  
+Beyond academia, I work as a consultant on engineering projects involving  
+**soil dynamics, seismic evaluation, numerical modeling**, and **stability
+assessment**.
 
-<br>
+Father of seven, and husband to my beloved Claudia.<br>
 
 **See also**:
 
@@ -28,4 +41,4 @@ A major goal for me is to leverage the use of high-performance computing as the 
 
 
   [Universidad de los Andes]: http://ing.uandes.cl
-  [School of Engineering and Applied Sciences]: http://ing.uandes.cl
+  [Faculty of Engineering and Applied Sciences]: https://www.uandes.cl/universidad/facultades/facultad-ingenieria/

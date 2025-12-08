@@ -1,8 +1,12 @@
 Title: Publications
-Date: 2018-01-24 15:13:00
-Author: jaabell
+Date: 2015-03-27 10:20
+Modified: 2025-12-08 10:20
+Category: pages
 Slug: 04publications
-Summary:
+Authors: [jaabell]
+Image: https://www.dropbox.com/s/07jtgnwq9ppljax/joseabell-publications.jpg?raw=1
+Summary: Publications
+Lang: en
 
 <center>
 <a title="José A. Abell" href="https://www.researchgate.net/profile/Jose_Abell/"><img src="https://www.researchgate.net/images/public/profile_share_badge.png" alt="José A. Abell" /></a>
@@ -21,12 +25,52 @@ Click to get details!
 
 
 <!---------------------------------------------------------------- 
+Paper16
+------------------------------------------------------------------>
+
+<details markdown="1">
+<summary markdown="1"> [**Published**] 
+Alberto Hurtado Valdés, Eduardo Torres, Guido Camata, Massimo Petracca, Jorge G. F. Crempien, [**José A. Abell**](self).
+*Impact of Soil–Structure Interaction Modeling Simplifications and Structural Nonlinearity on Uncertainty in EDPs: A Case Study on an Existing RC Building in Santiago*. *Earthquake Engineering & Structural Dynamics*, **54**(8):2062–2083, 2025. [10.1002/eqe.4340](https://doi.org/10.1002/eqe.4340)
+</summary>
+
+####Abstract
+
+{! content/abstracts/paper16-abstract.md !}
+
+[PDF] [BLOG]
+
+</details>
+
+
+
+<!---------------------------------------------------------------- 
+Paper15
+------------------------------------------------------------------>
+
+<details markdown="1">
+<summary markdown="1"> [**Published**] 
+[**José A. Abell**](self), [Patricio A. Moreno-Casas](pato), Matías Recabarren.
+*Integrating advanced computational skills into engineering education: A discipline-based approach*. *Computer Applications in Engineering Education*, **32**(6):e22784, 2024. [10.1002/cae.22784](https://doi.org/10.1002/cae.22784)
+</summary>
+
+####Abstract
+
+{! content/abstracts/paper15-abstract.md !}
+
+[PDF] [BLOG]
+
+</details>
+
+
+
+<!---------------------------------------------------------------- 
 Paper14
 ------------------------------------------------------------------>
 
 <details markdown="1">
 <summary markdown="1"> [**Accepted**] 
-M. Birrell, C. Pastén, [**J.A. Abell**](self), [R. Astroza](Rorro), Probabilistic characterization of a high-cycle accumulation model for sands, Computers and Geotechnics, Volume 147, 2022, [https://doi.org/10.1016/j.compgeo.2022.104798](https://doi.org/10.1016/j.compgeo.2022.104798).
+M. Birrell, C. Pastén, [**J.A. Abell**](self), [R. Astroza](Rorro), *Probabilistic characterization of a high-cycle accumulation model for sands*. Computers and Geotechnics, Volume 147, 2022, [https://doi.org/10.1016/j.compgeo.2022.104798](https://doi.org/10.1016/j.compgeo.2022.104798).
 </summary>
 
 
@@ -51,7 +95,8 @@ Paper13
 
 <details markdown="1">
 <summary markdown="1"> [**In review**] 
-Marco Tulio Herrera, [Jorge G. F. Crempien](Georgie), Roberto Benavente, [**Jose A. Abell.**](self) *Bayesian ground motion model selection method based on evidence and information criteria*. Bulletin of the Seismological Society of America
+Marco Tulio Herrera, [Jorge G. F. Crempien](Georgie), Roberto Benavente, [**Jose A. Abell.**](self)
+*Bayesian ground motion model selection method based on evidence and information criteria*. Bulletin of the Seismological Society of America
 </summary>
 
 ![Fig 1](https://www.dropbox.com/s/pov2nm3rtm1ame9/fig1.png?raw=1)
@@ -72,7 +117,8 @@ Paper12
 
 <details markdown="1">
 <summary markdown="1"> [**Accepted**] 
-Francisco J. Pinto, Christian Ledezma, [**Jose A. Abell.**](self), [Rodrigo Astroza](Rorro), Shideh Dashti *Soil-Basement Interaction Effects on the Seismic Response of Tall Buildings with Basement Levels*. Engineering structures
+Francisco J. Pinto, Christian Ledezma, [**Jose A. Abell.**](self), [Rodrigo Astroza](Rorro), [Shideh Dashti](Shideh)
+*Soil-Basement Interaction Effects on the Seismic Response of Tall Buildings with Basement Levels*. Engineering structures
 </summary>
 
 ![Fig 1](https://www.dropbox.com/s/y7aczbgu4xxoy6g/fig1.png?raw=1)
@@ -117,7 +163,7 @@ Paper10
 <details markdown="1">
 <summary markdown="1"> [**Accepted**] 
 [**Jose A. Abell.**](self), [Jorge G.F. Crempien](Georgie), Matías Recabarren
-*``ShakerMaker``: A framework that simplifies the simulation of seismic ground-motions*. SoftwareX
+`ShakerMaker`: A framework that simplifies the simulation of seismic ground-motions. SoftwareX 
 </summary>
 
 ![Fig 1](https://www.dropbox.com/s/v7ylof57q5ritmy/fig1.png?raw=1)
@@ -168,7 +214,7 @@ Haoyuan Liu, Evangelos Kementzetzidis, [**José Antonio Abell**](self), [Federic
 
 ####Abstract
 
-{! content/abstracts/paper09-abstract.md !}
+{! content/abstracts/paper08-abstract.md !}
 
 
 [PDF] [BLOG]
@@ -184,8 +230,9 @@ Paper07
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1">
-Nicolás Andrés Galano, [Patricio Alejandro Moreno-Casas](pato), [**Jose Antonio Abell**](self). *Extending the Particle Finite Element Method for Sediment Transport Simulation*. Computer Methods in Applied Mechanics and Engineering, Vol 380, 1 July 2021. 
+<summary markdown="1"> 
+Nicolás Andrés Galano, [Patricio Alejandro Moreno-Casas](pato), [**Jose Antonio Abell**](self). 
+*Extending the Particle Finite Element Method for Sediment Transport Simulation*. Computer Methods in Applied Mechanics and Engineering, Vol 380, 1 July 2021.
 </summary>
 
 ![Fig 1](https://www.dropbox.com/s/hwvo1eu292lgjgo/Fig1.png?raw=1)
@@ -205,7 +252,8 @@ Paper06
 
 <details markdown="1">
 <summary markdown="1"> 
- Haoyuan Liu, [Andrea Diambra](Diambra), [**José Antonio Abell**](self), [Federico Pisanò][Fede]. *Memory-enhanced plasticity modelling of sand behaviour under undrained cyclic loading*. Journal of Geotechnical and Geoenvironmental Engineering, Vol. 146, Issue 11 (November 2020)
+Haoyuan Liu, [Andrea Diambra](Diambra), [**José Antonio Abell**](self), [Federico Pisanò](Pisano). 
+*Memory-enhanced plasticity modelling of sand behaviour under undrained cyclic loading*. Journal of Geotechnical and Geoenvironmental Engineering, Vol. 146, Issue 11 (November 2020).
 </summary>
 
 ####Abstract
@@ -244,8 +292,10 @@ Paper04
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1"> 
- Hao Yuan Liu, [**José Antonio Abell**][self], [Andrea Diambra](Diambra), and Federico Pisanò. *Modelling the cyclic ratcheting of sands through memory-enhanced bounding surface plasticity.* Géotechnique 2019 69:9, 783-800
+
+<summary markdown="1">
+Hao Yuan Liu, [**José Antonio Abell**](self), [Andrea Diambra](Diambra), and [Federico Pisanò](Pisano). 
+*Modelling the cyclic ratcheting of sands through memory-enhanced bounding surface plasticity.* Géotechnique 2019 69:9, 783-800.
 </summary>
 
 ![Fig 1](https://www.dropbox.com/s/clz3s9odnbze3xg/fig2-response.png?raw=1)
@@ -266,8 +316,10 @@ Paper03
 
 
 <details markdown="1">
-<summary markdown="1"> 
- [**José. A. Abell**][self], Nebojša Orbović, David B. McCallen and [Boris Jeremić][Boris]. *Earthquake Soil Structure Interaction of Nuclear Power Plants, differences in response to 3-D, 3×1-D, and 1-D excitations.* Earthquake Engineering and Structural Dynamics, in print, 2018.
+
+<summary markdown="1">
+[**José. A. Abell**](self), Nebojša Orbović, David B. McCallen and Boris Jeremić. 
+*Earthquake Soil Structure Interaction of Nuclear Power Plants, differences in response to 3-D, 3×1-D, and 1-D excitations*. Earthquake Engineering and Structural Dynamics, 2018.
 </summary>
 
 ![Fig 1](https://www.dropbox.com/s/sxthk6218su7ajt/fig5-reduced.png?raw=1)
