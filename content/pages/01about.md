@@ -3,6 +3,10 @@ Date: 2022-09-01 14:22:59
 Author: jaabell
 Slug: 01about
 
+<div class="videoWrapper" align="left">
+<iframe width="640" height="480" src="https://www.youtube.com/embed/MgeV9tJTzI0" frameborder="0"  allowfullscreen></iframe>
+</div>
+
 
 <img src="/images/me.jpeg" alt="It's me. Jose!" align="left" hspace="15" vspace="15"/>
 
