@@ -1,7 +1,7 @@
 Title: Paper17 - Dynamic amplification of isolated shear walls: Insights from layered shell modeling
 Slug: paper17-dynamic-amplification-of-isolated-shear-walls-insights-from-layered-shell-modeling
-Date: 2026-07-01 10:00:00
-Modified: 2026-07-01 10:00:00
+Date: 2026-04-18 10:00:00
+Modified: 2026-04-18 10:00:00
 Tags: Papers, Shear Walls, Dynamic Amplification, Layered Shell
 Author: jaabell
 Image: https://www.dropbox.com/scl/fi/puuzupw3jqim6w3m5ok7c/paper17_thumbnail.png?rlkey=dite4yzwij8273j9uo7gcx1xg&raw=1
