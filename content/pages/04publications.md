@@ -25,12 +25,37 @@ Click to get details!
 
 
 <!---------------------------------------------------------------- 
+Paper17
+------------------------------------------------------------------>
+
+<details markdown="1">
+<summary markdown="1">• Patricio Palacios B., Nicolás Mora Bowen, Rafael Delpiano, [**José A. Abell**](self).
+*Dynamic amplification of isolated shear walls: Insights from layered shell modeling*. *Engineering Structures*, **358**:122641, July 2026. [10.1016/j.engstruct.2026.122641](https://doi.org/10.1016/j.engstruct.2026.122641)
+</summary>
+
+![Fig 1]({static}/images/paper17_thumbnail.jpg)
+
+####Abstract
+
+{! content/abstracts/paper17-abstract.md !}
+
+[[BLOG]({filename}../posts/Publications/paper17-dynamic-amplification-of-isolated-shear-walls-insights-from-layered-shell-modeling.md)]
+
+<div class="videoWrapper" align="left">
+<iframe width="640" height="480"
+ src="https://www.youtube.com/embed/fMmhSz4bC9U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+</details>
+
+
+
+<!---------------------------------------------------------------- 
 Paper16
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1"> [**Published**] 
-Alberto Hurtado Valdés, Eduardo Torres, Guido Camata, Massimo Petracca, Jorge G. F. Crempien, [**José A. Abell**](self).
+<summary markdown="1">• Alberto Hurtado Valdés, Eduardo Torres, Guido Camata, Massimo Petracca, Jorge G. F. Crempien, [**José A. Abell**](self).
 *Impact of Soil–Structure Interaction Modeling Simplifications and Structural Nonlinearity on Uncertainty in EDPs: A Case Study on an Existing RC Building in Santiago*. *Earthquake Engineering & Structural Dynamics*, **54**(8):2062–2083, 2025. [10.1002/eqe.4340](https://doi.org/10.1002/eqe.4340)
 </summary>
 
@@ -49,8 +74,7 @@ Paper15
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1"> [**Published**] 
-[**José A. Abell**](self), [Patricio A. Moreno-Casas](pato), Matías Recabarren.
+<summary markdown="1">• [**José A. Abell**](self), [Patricio A. Moreno-Casas](pato), Matías Recabarren.
 *Integrating advanced computational skills into engineering education: A discipline-based approach*. *Computer Applications in Engineering Education*, **32**(6):e22784, 2024. [10.1002/cae.22784](https://doi.org/10.1002/cae.22784)
 </summary>
 
@@ -69,8 +93,7 @@ Paper14
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1"> [**Accepted**] 
-M. Birrell, C. Pastén, [**J.A. Abell**](self), [R. Astroza](Rorro), *Probabilistic characterization of a high-cycle accumulation model for sands*. Computers and Geotechnics, Volume 147, 2022, [https://doi.org/10.1016/j.compgeo.2022.104798](https://doi.org/10.1016/j.compgeo.2022.104798).
+<summary markdown="1">• M. Birrell, C. Pastén, [**J.A. Abell**](self), [R. Astroza](Rorro), *Probabilistic characterization of a high-cycle accumulation model for sands*. Computers and Geotechnics, Volume 147, 2022, [https://doi.org/10.1016/j.compgeo.2022.104798](https://doi.org/10.1016/j.compgeo.2022.104798).
 </summary>
 
 
@@ -94,8 +117,7 @@ Paper13
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1"> [**In review**] 
-Marco Tulio Herrera, [Jorge G. F. Crempien](Georgie), Roberto Benavente, [**Jose A. Abell.**](self)
+<summary markdown="1">• Marco Tulio Herrera, [Jorge G. F. Crempien](Georgie), Roberto Benavente, [**Jose A. Abell.**](self)
 *Bayesian ground motion model selection method based on evidence and information criteria*. Bulletin of the Seismological Society of America
 </summary>
 
@@ -116,8 +138,7 @@ Paper12
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1"> [**Accepted**] 
-Francisco J. Pinto, Christian Ledezma, [**Jose A. Abell.**](self), [Rodrigo Astroza](Rorro), [Shideh Dashti](Shideh)
+<summary markdown="1">• Francisco J. Pinto, Christian Ledezma, [**Jose A. Abell.**](self), [Rodrigo Astroza](Rorro), [Shideh Dashti](Shideh)
 *Soil-Basement Interaction Effects on the Seismic Response of Tall Buildings with Basement Levels*. Engineering structures
 </summary>
 
@@ -138,8 +159,7 @@ Paper11
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1"> [**In review**] 
-Francisco Pinto, Shideh Dashti, Christian Ledezma, [**Jose A. Abell.**](self)
+<summary markdown="1">• Francisco Pinto, Shideh Dashti, Christian Ledezma, [**Jose A. Abell.**](self)
 *How Do Tall Buildings Affect Seismic Earth Pressures on Their Basement Walls?*. Soil Dynamics and Earthquake Engineering
 </summary>
 
@@ -161,8 +181,7 @@ Paper10
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1"> [**Accepted**] 
-[**Jose A. Abell.**](self), [Jorge G.F. Crempien](Georgie), Matías Recabarren
+<summary markdown="1">• [**Jose A. Abell.**](self), [Jorge G.F. Crempien](Georgie), Matías Recabarren
 `ShakerMaker`: A framework that simplifies the simulation of seismic ground-motions. SoftwareX 
 </summary>
 
@@ -183,8 +202,7 @@ Paper09
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1"> [**Accepted**] 
-Francisco Pinto, Christian Ledezma, Rodrigo Astroza, [**Jose A. Abell.**](self)
+<summary markdown="1">• Francisco Pinto, Christian Ledezma, Rodrigo Astroza, [**Jose A. Abell.**](self)
 *Modeling the loss of vibration energy in buildings to elastic-waves using high-fidelity FE modeling and absorbent exterior boundaries*. Journal of Earthquake Engineering. 
 </summary>
 
@@ -205,8 +223,7 @@ Paper08
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1"> [**Accepted**] 
-Haoyuan Liu, Evangelos Kementzetzidis, [**José Antonio Abell**](self), [Federico Pisanò](fede)
+<summary markdown="1">• Haoyuan Liu, Evangelos Kementzetzidis, [**José Antonio Abell**](self), [Federico Pisanò](fede)
 *From cyclic sand ratcheting to tilt accumulation in offshore monopiles: 3D FE modelling using SANISAND-MS*. Géotechnique. Online March 8, 2021 (Ahead of print)
 </summary>
 
@@ -230,8 +247,7 @@ Paper07
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1"> 
-Nicolás Andrés Galano, [Patricio Alejandro Moreno-Casas](pato), [**Jose Antonio Abell**](self). 
+<summary markdown="1">• Nicolás Andrés Galano, [Patricio Alejandro Moreno-Casas](pato), [**Jose Antonio Abell**](self). 
 *Extending the Particle Finite Element Method for Sediment Transport Simulation*. Computer Methods in Applied Mechanics and Engineering, Vol 380, 1 July 2021.
 </summary>
 
@@ -251,8 +267,7 @@ Paper06
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1"> 
-Haoyuan Liu, [Andrea Diambra](Diambra), [**José Antonio Abell**](self), [Federico Pisanò](Pisano). 
+<summary markdown="1">• Haoyuan Liu, [Andrea Diambra](Diambra), [**José Antonio Abell**](self), [Federico Pisanò](Pisano). 
 *Memory-enhanced plasticity modelling of sand behaviour under undrained cyclic loading*. Journal of Geotechnical and Geoenvironmental Engineering, Vol. 146, Issue 11 (November 2020).
 </summary>
 
@@ -271,8 +286,7 @@ Paper05
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1"> 
- [Patricio A. Moreno-Casas](Pato), [Felipe Scott](scottypippen), [José Delpiano](JoeDelpiano), [**José A. Abell**][self], Francisco Caicedo, Raúl Muñoz, and [Alberto Vergara-Fernández](albertovergara). *Mechanistic Description of Convective Gas–Liquid Mass Transfer in Biotrickling Filters Using CFD Modeling.* Environmental Science & Technology 2020 54 (1), 419-426
+<summary markdown="1">• [Patricio A. Moreno-Casas](Pato), [Felipe Scott](scottypippen), [José Delpiano](JoeDelpiano), [**José A. Abell**][self], Francisco Caicedo, Raúl Muñoz, and [Alberto Vergara-Fernández](albertovergara). *Mechanistic Description of Convective Gas–Liquid Mass Transfer in Biotrickling Filters Using CFD Modeling.* Environmental Science & Technology 2020 54 (1), 419-426
 </summary>
 
 ![Fig 1](https://www.dropbox.com/s/d1n9ckosxi0cfvl/fig1.png?raw=1)
@@ -337,8 +351,7 @@ Paper02
 ------------------------------------------------------------------>
 
 <details markdown="1">
-<summary markdown="1"> 
- Catalina Fortuño, [Juan Carlos de la Llera][jcllera], [Charles W. Wicks][chuck], and **[José A. Abell][self]** - *Synthetic Hybrid Broadband Seismograms Based on InSAR Coseismic Displacements*. Bulletin of the Seismological Society of America published ahead of print November 18, 2014, doi:10.1785/0120130293
+<summary markdown="1">• Catalina Fortuño, [Juan Carlos de la Llera][jcllera], [Charles W. Wicks][chuck], and **[José A. Abell][self]** - *Synthetic Hybrid Broadband Seismograms Based on InSAR Coseismic Displacements*. Bulletin of the Seismological Society of America published ahead of print November 18, 2014, doi:10.1785/0120130293
 </summary>
 
 ![Fig 1](https://www.dropbox.com/s/e01a725qraknovc/fig-1.png?raw=1)
@@ -362,8 +375,7 @@ Paper02
 Paper01
 ------------------------------------------------------------------>
 <details markdown="1">
-<summary markdown="1"> 
- **[José A. Abell][self]**, [Juan Carlos de la Llera][jcllera], [Charles W. Wicks][chuck] - *Enhancement of long period components of recorded and synthetic ground motions using InSAR*. Soil Dynamics and Earthquake Engineering **01/2011; 31(5):817-829**. DOI:10.1016/j.soildyn.2011.01.005
+<summary markdown="1">• **[José A. Abell][self]**, [Juan Carlos de la Llera][jcllera], [Charles W. Wicks][chuck] - *Enhancement of long period components of recorded and synthetic ground motions using InSAR*. Soil Dynamics and Earthquake Engineering **01/2011; 31(5):817-829**. DOI:10.1016/j.soildyn.2011.01.005
 </summary>
 
 ![Fig 1](https://www.dropbox.com/s/pvouvs9lggmepmi/fig-1.png?raw=1)

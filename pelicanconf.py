@@ -203,6 +203,14 @@ HERO = [
     'text': {
       'en': 'Numerical modeling in engineering | Earthquakes | HPC | OpenSource',
       }
+  }, {
+    'image': '/images/hero/asado2025.jpg',
+    'title': {
+      'en':'José Abell\'s Research Blog',
+    },
+    'text': {
+      'en': 'Numerical modeling in engineering | Earthquakes | HPC | OpenSource',
+      }
   }
   # , {
   #   'image': '/images/hero/background-3.jpg',

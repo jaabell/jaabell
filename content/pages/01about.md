@@ -37,6 +37,7 @@ Father of seven, and husband to my beloved Claudia.<br>
 * [Extended research statement](02research).
 * [Publications](04publications).
 * [Teaching](03teaching).
+* [People](09people).
 * [Curriculum Vitae](06cv).
 * [Interesting Links](07links).
 * [Information for Prospective Students](08prospective-students).
