@@ -129,6 +129,7 @@ MENUITEMS = [
 
 
 THEME = "../blog2theme"
+THEME_TEMPLATES_OVERRIDES = ['templates']
 
 MATH_JAX = {
 	'color': 'gray',
