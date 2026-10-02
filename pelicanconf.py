@@ -70,6 +70,7 @@ SOCIAL = (
 )
 
 DEFAULT_PAGINATION = 10
+PAGINATED_TEMPLATES = {'tag': None, 'category': None, 'author': None}
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

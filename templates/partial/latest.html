@@ -1,0 +1,30 @@
+{% if articles %}
+<section class="fh5co-narrow-content" aria-labelledby="recent-articles">
+    <style>
+        .article-feed { max-width: 800px; margin: 0 auto; }
+        .article-feed-item { padding: 32px 0; border-bottom: 1px solid #e5e5e5; }
+        .article-feed-item:first-child { padding-top: 0; }
+        .article-feed-item h3 { margin: 0 0 10px; font-size: 22px; line-height: 1.35; }
+        .article-feed-item h3 a { color: #222; }
+        .article-feed-meta { color: #777; font-size: 12px; letter-spacing: .05em; text-transform: uppercase; }
+        .article-feed-excerpt { margin: 14px 0; line-height: 1.7; }
+        .article-feed-link { color: #1e7cb1; font-weight: 600; }
+        @media (max-width: 768px) {
+            #recent-articles { padding-top: 48px; }
+            .article-feed-item { padding: 24px 0; }
+            .article-feed-item h3 { font-size: 20px; }
+        }
+    </style>
+    <div class="article-feed">
+        <h2 id="recent-articles" class="fh5co-heading">{{ _('All articles') }}</h2>
+        {% for article in articles %}
+        <article class="article-feed-item">
+            <div class="article-feed-meta">{{ article.locale_date }} &middot; <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></div>
+            <h3><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+            <p class="article-feed-excerpt">{{ article.summary|striptags|truncate(200, True, '…') }}</p>
+            <a class="article-feed-link" href="{{ SITEURL }}/{{ article.url }}">{{ _('Read more') }} &rarr;</a>
+        </article>
+        {% endfor %}
+    </div>
+</section>
+{% endif %}
