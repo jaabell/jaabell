@@ -21,7 +21,10 @@
         <article class="article-feed-item">
             <div class="article-feed-meta">{{ article.locale_date }} &middot; <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></div>
             <h3><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
-            <p class="article-feed-excerpt">{{ article.summary|striptags|truncate(200, True, '…') }}</p>
+            {% set excerpt = article.summary|striptags|trim %}
+            {% if excerpt and not excerpt.startswith('$$') %}
+            <p class="article-feed-excerpt">{{ excerpt|truncate(200, True, '…') }}</p>
+            {% endif %}
             <a class="article-feed-link" href="{{ SITEURL }}/{{ article.url }}">{{ _('Read more') }} &rarr;</a>
         </article>
         {% endfor %}
