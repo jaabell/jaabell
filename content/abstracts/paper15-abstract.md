@@ -1,22 +1,2 @@
 
-This article presents a discipline-based strategy for integrating advanced
-computational skills into undergraduate engineering curricula. The approach
-addresses a growing need for engineers who can work effectively with numerical
-simulation, data analysis, and high-performance scientific computing.
-
-We propose a multi-tier instructional framework that blends domain theory,
-computing concepts, and authentic engineering applications. The framework was
-implemented across several civil and environmental engineering courses, ranging
-from introductory numerical methods to high-fidelity finite element modeling.
-
-Results from multi-year deployments show significant gains in student autonomy,
-conceptual understanding, and computational proficiency. The approach also
-improves students’ ability to transfer skills across disciplinary contexts,
-particularly when courses include project-based components rooted in real
-engineering workflows.
-
-The paper offers guidelines for instructors wishing to incorporate similar
-strategies, highlighting practical considerations, examples of modular content,
-and observed student learning trajectories. The proposed methodology can be
-adapted to diverse engineering programs seeking to modernize computational
-education.
+In an era where technology continually reshapes the landscape of professional practice, it has become relevant to equip engineering students with advanced computational skills beyond programming. This article presents a novel discipline-based framework designed to integrate advanced computational skills into engineering education. Responding to challenges such as the disconnection between computational abilities and domain-specific knowledge, and student demotivation due to overwhelming technological challenges, this study aims to validate the impact of the framework on domain learning, computational skill acquisition, and perceived future utility. Implementing a case study approach, we explore the development of high-performance computing skills within a project-based learning context in Civil Engineering. Results indicate significant improvements in students' understanding of both computational concepts and the engineering domain, evidenced by enhanced self-perception and positive Technology Acceptance Model outcomes. The framework facilitated a meaningful connection between computational skills and professional applications, as seen in students' project reflections. Despite the promising results, the necessity for instructors to possess and impart computational knowledge is highlighted as an important factor for successful integration. This study contributes to educational computing research by providing a scalable approach to embedding advanced computational skills in engineering curricula, addressing existing educational challenges, and suggesting directions for future research.

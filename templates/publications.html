@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+
+{% block title %}Publications | José Abell's Research Blog{% endblock %}
+
+{% block content %}
+<style>
+    #fh5co-main .pub-page { width: 90%; max-width: 1100px; margin: 0 auto; padding: 48px 0 80px; }
+    .pub-intro { padding: clamp(28px, 5vw, 58px); border-radius: 16px; color: #fff; background: linear-gradient(105deg, rgba(14, 39, 57, .93), rgba(14, 39, 57, .62)), url('/images/hero/uandes-fm-above.jpg') center / cover; }
+    .pub-eyebrow { color: #a8d6ee; font-size: 12px; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; }
+    .pub-intro h1 { margin: 12px 0; color: #fff; font-size: clamp(36px, 4vw, 52px); }
+    .pub-intro p { max-width: 650px; margin: 0 0 24px; color: rgba(255, 255, 255, .92); font-size: 17px; line-height: 1.6; }
+    .pub-links-top, .pub-jump { display: flex; flex-wrap: wrap; gap: 10px; }
+    .pub-links-top a { padding: 8px 14px; border: 1px solid rgba(255, 255, 255, .65); border-radius: 24px; color: #fff; font-weight: 600; }
+    .pub-links-top a:hover { background: #fff; color: #164766; }
+    .pub-jump { margin: 26px 0 32px; }
+    .pub-jump a { padding: 8px 14px; border-radius: 22px; background: #e9f2f7; color: #145b83; font-size: 13px; font-weight: 700; }
+    .pub-jump a:hover { background: #d5e8f2; }
+    .pub-feature-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+    .pub-feature { display: block; overflow: hidden; border: 1px solid #e2e9ed; border-radius: 14px; background: #fff; box-shadow: 0 8px 24px rgba(24, 50, 67, .06); }
+    .pub-feature img { display: block; width: 100%; aspect-ratio: 16 / 8; object-fit: cover; }
+    .pub-feature span { display: block; padding: 20px 22px 22px; }
+    .pub-feature small { display: block; margin-bottom: 8px; color: #1e7cb1; font-size: 11px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
+    .pub-feature strong { display: block; color: #20313b; font-size: 18px; line-height: 1.35; }
+    .pub-feature em { display: block; margin-top: 10px; color: #56636b; font-size: 14px; font-style: normal; line-height: 1.5; }
+    .pub-feature:hover strong { color: #1e7cb1; }
+    .pub-content h2 { margin: 52px 0 22px; color: #20313b; font-size: 28px; }
+    .pub-content h2[id] { scroll-margin-top: 64px; }
+    .pub-content h3 { margin: 36px 0 16px; color: #52616c; font-size: 19px; }
+    .pub-entry { margin: 0 0 12px; border: 1px solid #e2e9ed; border-radius: 12px; background: #fff; }
+    .pub-entry summary { position: relative; display: grid; gap: 7px; padding: 20px 50px 20px 22px; cursor: pointer; list-style: none; }
+    .pub-entry summary::-webkit-details-marker { display: none; }
+    .pub-entry summary::after { content: '+'; position: absolute; top: 20px; right: 22px; color: #1e7cb1; font-size: 25px; line-height: 1; }
+    .pub-entry[open] summary::after { content: '−'; }
+    .pub-entry summary:focus-visible { outline: 2px solid #1e7cb1; outline-offset: 2px; }
+    .pub-entry[open] summary { border-bottom: 1px solid #edf0f2; }
+    .pub-entry .pub-venue { color: #1e7cb1; font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+    .pub-entry summary strong { color: #20313b; font-size: 18px; line-height: 1.35; }
+    .pub-entry .pub-authors, .pub-entry .pub-source { color: #586773; font-size: 13px; line-height: 1.5; }
+    .pub-entry > p { margin: 18px 22px; color: #3d4b55; line-height: 1.7; }
+    .pub-entry .pub-actions { display: flex; flex-wrap: wrap; gap: 12px; padding: 0 22px 22px; }
+    .pub-entry .pub-actions a { color: #1e7cb1; font-weight: 700; }
+    .pub-entry .pub-actions a:hover { text-decoration: underline; }
+    .pub-conference { margin: 0 0 14px; padding: 16px 20px; border-left: 3px solid #1e7cb1; background: #f5f8fa; line-height: 1.6; }
+    .pub-conference strong { color: #20313b; }
+    .pub-conference span { color: #586773; }
+    @media (max-width: 768px) {
+        #fh5co-main .pub-page { width: 100%; padding: 56px 16px 48px; }
+        .pub-feature-grid { grid-template-columns: 1fr; }
+        .pub-intro h1 { font-size: 36px; }
+        .pub-entry summary { padding: 18px 42px 18px 18px; }
+    }
+</style>
+<div class="pub-page">
+    <header class="pub-intro">
+        <span class="pub-eyebrow">Research &middot; Papers &middot; Software</span>
+        <h1>Publications</h1>
+        <p>Earthquake engineering, computational mechanics, geotechnics, open-source simulation, and how we teach the next generation of engineers.</p>
+        <div class="pub-links-top">
+            <a href="https://scholar.google.com/citations?user=mcmCTfQAAAAJ">Google Scholar</a>
+            <a href="https://orcid.org/0000-0002-2735-6547">ORCID</a>
+            <a href="https://www.researchgate.net/profile/Jose_Abell/">ResearchGate</a>
+        </div>
+    </header>
+    <nav class="pub-jump" aria-label="Publication sections">
+        <a href="#journal-articles">Journal articles</a>
+        <a href="#conference-papers">Conference papers</a>
+        <a href="#theses">Theses</a>
+    </nav>
+    <div class="pub-feature-grid">
+        <a class="pub-feature" href="https://doi.org/10.1016/j.engstruct.2026.122641">
+            <img src="https://www.dropbox.com/scl/fi/puuzupw3jqim6w3m5ok7c/paper17_thumbnail.png?rlkey=dite4yzwij8273j9uo7gcx1xg&amp;raw=1" alt="Layered shell model of a shear wall" loading="lazy">
+            <span><small>2026 · Engineering Structures</small><strong>Dynamic amplification of isolated shear walls</strong><em>What controls the seismic shear amplification in reinforced-concrete walls?</em></span>
+        </a>
+        <a class="pub-feature" href="https://doi.org/10.1002/eqe.4340">
+            <img src="/images/publications/ssi-building-model.png" alt="Engineering building and its soil–structure numerical model" loading="lazy">
+            <span><small>2025 · Earthquake Engineering &amp; Structural Dynamics</small><strong>How much do SSI modeling choices change a building's predicted response?</strong><em>Comparing detailed wave-field, plane-wave, and fixed-base simulations.</em></span>
+        </a>
+    </div>
+    <div class="pub-content">{{ page.content }}</div>
+</div>
+{% endblock %}

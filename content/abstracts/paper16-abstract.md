@@ -1,22 +1,2 @@
 
-This study examines how modeling simplifications in soil–structure interaction
-(SSI) analyses influence the uncertainty of engineering demand parameters (EDPs)
-for a real reinforced concrete building in Santiago, Chile. Using a suite of
-three-dimensional models with varying levels of soil and structural fidelity, we
-evaluate how assumptions in foundation representation, soil domain extent,
-material nonlinearity, and kinematic interaction propagate into demand-level
-predictions.
-
-A Bayesian inference framework is used to quantify epistemic uncertainty,
-allowing a direct comparison of how different modeling choices affect both the
-median response and its dispersion. Results show that (1) oversimplified SSI
-representations systematically underestimate key EDPs, (2) the interaction
-between structural nonlinearity and foundation flexibility has a pronounced
-effect on lateral demands, and (3) uncertainty bands widen significantly when
-soil nonlinearity and realistic damping mechanisms are included.
-
-The findings highlight the need for balanced modeling strategies in performance-
-based assessment of existing structures, particularly in seismically active
-regions where SSI effects are non-negligible. Recommendations are provided for
-future studies and engineering practice, emphasizing model-selection criteria,
-minimum soil-domain requirements, and the treatment of nonlinear mechanisms.
+This study investigates the impact of modeling simplifications on the uncertainty of seismic response in numerical simulations, focusing on a five-story, asymmetric-plan, reinforced-concrete building in Santiago, Chile, subjected to simulated seismic motions from hypothetical events at the San Ramón fault (SRF). A comparative analysis is conducted between a high-complexity reference model and lower-complexity models. The reference model incorporates three-dimensional seismic inputs using the domain reduction method (DRM) and a detailed structural model accounting for material nonlinear behavior. The complexity of the models is systematically reduced to assess the effects of different soil–structure interaction (SSI) modeling assumptions, including DRM and plane-wave (PW) input and fixed-base (FB) conditions. For each model, both linear and nonlinear material behaviors are considered. Given the lack of historical records from the SRF, the study employs source-to-structure physical simulation. Simulations are conducted in OpenSees using input motions from 10 realizations of a Mw = 6.7 event at the SRF, generated with the ShakerMaker Python library. With respect to the reference model, PW assumptions moderately increase uncertainty across different engineering demand parameters (EDPs) and analysis directions. Conversely, FB conditions significantly elevate modeling uncertainty, drastically changing the mean and variance of computed EDPs. A simple EDP sensitivity score is proposed to compare the statistics of computed EDPs and rank models with respect to the reference model. Linear FB models may outperform nonlinear FB models, highlighting a complex relationship between structural nonlinearity and soil flexibility modeling. High-complexity modeling accounting for the spatiotemporal complexity of the seismic wave field may be needed for response quantities sensitive to high frequencies. Even for this building, located on very stiff soil, SSI effects cannot be neglected because they can produce unpredictable changes in the mean and variance of computed EDPs.
