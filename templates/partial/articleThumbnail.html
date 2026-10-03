@@ -1,0 +1,15 @@
+{% macro url(article) -%}
+    {%- if article.image is defined and article.image -%}
+        {{ article.image|e }}
+    {%- elif 'youtube.com/embed/' in article.content -%}
+        https://i.ytimg.com/vi/{{ article.content.split('youtube.com/embed/')[1][:11] }}/hqdefault.jpg
+    {%- elif '<img src="' in article.content -%}
+        {{ article.content.split('<img src="')[1].split('"')[0]|e }}
+    {%- elif article.category.slug == 'opensees' -%}
+        {{ SITEURL }}/images/hero/hpc.jpg
+    {%- elif article.category.slug == 'teaching' or article.category.slug == 'earthquakes' -%}
+        {{ SITEURL }}/images/hero/chilly1.jpg
+    {%- else -%}
+        {{ SITEURL }}/images/hero/uandes-fm-above.jpg
+    {%- endif -%}
+{%- endmacro %}

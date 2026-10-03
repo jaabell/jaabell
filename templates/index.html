@@ -1,0 +1,95 @@
+{% extends "base.html" %}
+{% from 'partial/articleThumbnail.html' import url as thumbnail with context %}
+
+{% block title %}Home | José Abell's Research Blog{% endblock %}
+
+{% block content %}
+<style>
+    .home-intro {
+        min-height: 380px;
+        padding: clamp(32px, 5vw, 64px);
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(250px, 360px);
+        gap: 36px;
+        align-items: center;
+        color: #fff;
+        background: linear-gradient(100deg, rgba(15, 38, 54, .94), rgba(15, 38, 54, .65)), url('{{ HERO[0].image }}') center / cover;
+    }
+    .home-intro h1 { margin: 10px 0 18px; color: #fff; font-size: clamp(32px, 3.5vw, 48px); line-height: 1.12; }
+    .home-intro p { margin: 0 0 26px; color: rgba(255, 255, 255, .86); font-size: 16px; line-height: 1.6; }
+    .home-kicker { color: #a8d6ee; font-size: 12px; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; }
+    .home-cta { display: inline-block; padding: 11px 20px; border-radius: 30px; background: #fff; color: #16658f; font-weight: 700; }
+    .home-cta:hover { background: #e4f3fa; color: #124b6d; }
+    .home-feature { display: block; overflow: hidden; border-radius: 14px; background: #fff; box-shadow: 0 16px 38px rgba(0, 0, 0, .22); }
+    .home-feature img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
+    .home-feature-text { display: block; padding: 16px 19px 18px; }
+    .home-feature-label { display: block; margin-bottom: 7px; color: #1e7cb1; font-size: 11px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
+    .home-feature strong { display: block; color: #20313b; font-size: 17px; line-height: 1.35; }
+    .home-feature small { display: block; margin-top: 10px; color: #1e7cb1; font-size: 13px; font-weight: 700; }
+    #fh5co-main .home-explore { width: 90%; margin: 0 auto; padding: 28px 0 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+    .home-track { min-height: 120px; padding: 22px; display: flex; flex-direction: column; justify-content: flex-end; border-radius: 12px; background-size: cover; background-position: center; color: #fff; }
+    .home-track:hover { color: #fff; }
+    .home-track strong { display: block; font-size: 19px; line-height: 1.2; }
+    .home-track span { margin-top: 4px; font-size: 12px; color: rgba(255, 255, 255, .88); }
+    #fh5co-main .home-feed { padding-top: 48px; }
+    .article-feed { max-width: 920px; margin: 0 auto; }
+    .article-feed-item { display: grid; grid-template-columns: minmax(0, 1fr) minmax(190px, 32%); gap: 26px; align-items: center; padding: 26px 0; border-bottom: 1px solid #e6e9eb; }
+    .article-feed-item:first-of-type { padding-top: 0; }
+    .article-feed-item h3 { margin: 8px 0 10px; font-size: 22px; line-height: 1.35; }
+    .article-feed-item h3 a { color: #20313b; }
+    .article-feed-item h3 a:hover { color: #1e7cb1; }
+    .article-feed-meta { color: #76818a; font-size: 11px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; }
+    .article-feed-excerpt { margin: 0 0 12px; color: #52606a; line-height: 1.6; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
+    .article-feed-link { color: #1e7cb1; font-weight: 700; }
+    .article-feed-image { display: block; overflow: hidden; border-radius: 10px; background: #e6e9eb; }
+    .article-feed-image img { display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; transition: transform .25s ease; }
+    .article-feed-image:hover img { transform: scale(1.04); }
+    @media (max-width: 920px) {
+        .home-intro { grid-template-columns: 1fr; padding: 38px 32px; }
+        .home-feature { max-width: 480px; }
+    }
+    @media (max-width: 768px) {
+        .home-intro { gap: 28px; padding: 56px 24px 32px; }
+        #fh5co-main .home-explore { width: 100%; padding: 20px 16px 0; grid-template-columns: repeat(3, 180px); overflow-x: auto; }
+        #fh5co-main .home-feed { padding-top: 36px; }
+        .article-feed-item { grid-template-columns: minmax(0, 1fr) 112px; gap: 14px; padding: 22px 0; }
+        .article-feed-item h3 { font-size: 18px; }
+        .article-feed-excerpt { font-size: 13px; line-height: 1.5; }
+        #recent-articles { padding-top: 48px; }
+    }
+</style>
+
+{% if articles %}
+{% set featured = articles[0] %}
+<section class="home-intro" aria-label="Introduction and featured article">
+    <div>
+        <span class="home-kicker">Research &middot; Engineering &middot; Open source</span>
+        <h1>{{ HERO[0].title[DEFAULT_LANG] }}</h1>
+        <p>{{ HERO[0].text[DEFAULT_LANG] }}</p>
+        <a class="home-cta" href="#recent-articles">Browse all articles &darr;</a>
+    </div>
+    <a class="home-feature" href="{{ SITEURL }}/{{ featured.url }}">
+        <img src="{{ thumbnail(featured) }}" alt="" fetchpriority="high">
+        <span class="home-feature-text">
+            <span class="home-feature-label">Latest article</span>
+            <strong>{{ featured.title }}</strong>
+            <small>{% if 'youtube.com/embed/' in featured.content %}Watch video{% else %}Read article{% endif %} &rarr;</small>
+        </span>
+    </a>
+</section>
+{% endif %}
+
+<nav class="home-explore" aria-label="Explore topics">
+    <a class="home-track" href="{{ SITEURL }}/category/opensees.html" style="background-image: linear-gradient(0deg, rgba(12, 36, 52, .85), rgba(12, 36, 52, .12)), url('{{ SITEURL }}/images/hero/hpc.jpg');">
+        <strong>OpenSees</strong><span>Models, tutorials &amp; HPC</span>
+    </a>
+    <a class="home-track" href="{{ SITEURL }}/category/researchhighlight.html" style="background-image: linear-gradient(0deg, rgba(12, 36, 52, .85), rgba(12, 36, 52, .12)), url('{{ SITEURL }}/images/hero/uandes-fm-above.jpg');">
+        <strong>Research</strong><span>Projects &amp; discoveries</span>
+    </a>
+    <a class="home-track" href="{{ SITEURL }}/tag/youtube.html" style="background-image: linear-gradient(0deg, rgba(12, 36, 52, .85), rgba(12, 36, 52, .12)), url('{{ SITEURL }}/images/hero/chilly2.jpg');">
+        <strong>Videos</strong><span>Talks, demos &amp; walkthroughs</span>
+    </a>
+</nav>
+
+{% include 'partial/latest.html' %}
+{% endblock %}
