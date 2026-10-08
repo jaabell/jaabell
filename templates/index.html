@@ -31,6 +31,9 @@
     .home-kicker { color: #a8d6ee; font-size: 12px; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; }
     .home-cta { display: inline-block; padding: 11px 20px; border-radius: 30px; background: #fff; color: #16658f; font-weight: 700; }
     .home-cta:hover { background: #e4f3fa; color: #124b6d; }
+    .home-actions { display: flex; flex-wrap: wrap; gap: 12px; }
+    .home-cta--openings { background: #ffd477; color: #17364a; }
+    .home-cta--openings:hover { background: #ffe5a9; color: #17364a; }
     .home-feature { display: block; overflow: hidden; border-radius: 14px; background: #fff; box-shadow: 0 16px 38px rgba(0, 0, 0, .22); }
     .home-feature img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
     .home-feature-text { display: block; padding: 16px 19px 18px; }
@@ -86,7 +89,10 @@
         <span class="home-kicker">Research &middot; Engineering &middot; Open source</span>
         <h1>{{ HERO[0].title[DEFAULT_LANG] }}</h1>
         <p>{{ HERO[0].text[DEFAULT_LANG] }}</p>
-        <a class="home-cta" href="#recent-articles">Browse all articles &darr;</a>
+        <div class="home-actions">
+            <a class="home-cta" href="#recent-articles">Browse all articles &darr;</a>
+            <a class="home-cta home-cta--openings" href="{{ SITEURL }}/posts/2026/phd-postdoc-research-opportunities.html">PhD &amp; PostDoc openings &rarr;</a>
+        </div>
     </div>
     <a class="home-feature" href="{{ SITEURL }}/{{ featured.url }}">
         <img src="{{ thumbnail(featured) }}" alt="" fetchpriority="high">

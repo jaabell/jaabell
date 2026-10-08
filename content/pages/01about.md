@@ -24,7 +24,7 @@ computing** as an enabling technology. Scalable numerical methods, modern
 constitutive modeling, and large-scale wave propagation simulations are at the
 heart of the tools I build and use.
 
-I am an active [OpenSees developer](https://github.com/jaabell) and contributor
+As part of my activities, I develop components, tools and frameworks for [OpenSees](https://github.com/jaabell) and contribute
 to several related [computational tools](05tools).  
 Beyond academia, I work as a consultant on engineering projects involving  
 **soil dynamics, seismic evaluation, numerical modeling**, and **stability

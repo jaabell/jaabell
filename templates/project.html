@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} | José Abell's Research Blog{% endblock %}
+
+{% block content %}
+<style>
+    #fh5co-main .projects-page { width: 90%; max-width: 1050px; margin: 0 auto; padding: 48px 0 80px; }
+    .projects-page h1 { margin: 0 0 24px; color: #20313b; font-size: clamp(30px, 3vw, 40px); line-height: 1.2; }
+    .projects-page h2 { margin-top: 38px; color: #20313b; }
+    .projects-page p, .projects-page li { color: #42525d; font-size: 16px; line-height: 1.65; }
+    .projects-page img { max-width: 100%; height: auto; border-radius: 8px; }
+    .projects-page a { color: #1e7cb1; }
+    @media (max-width: 768px) {
+        #fh5co-main .projects-page { width: 100%; padding: 56px 16px 48px; }
+        .projects-page img[style*="float"] { float: none !important; width: 100% !important; margin: 0 0 18px !important; }
+    }
+</style>
+<div class="projects-page">
+    <h1>{{ page.title }}</h1>
+    {{ page.content }}
+</div>
+{% endblock %}

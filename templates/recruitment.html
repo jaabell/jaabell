@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }} | José Abell's Research Blog{% endblock %}
+
+{% block content %}
+<style>
+    #fh5co-main .recruitment-page { width: 90%; max-width: 1060px; margin: 0 auto; padding: 38px 0 80px; }
+    .recruitment-hero { padding: clamp(28px, 5vw, 58px); border-radius: 16px; color: #fff; background: linear-gradient(105deg, rgba(14, 39, 57, .95), rgba(14, 39, 57, .55)), url('/images/hero/uandes-fm-above.jpg') center / cover; }
+    .recruitment-hero .eyebrow { display: block; color: #a8d6ee; font-size: 12px; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; }
+    .recruitment-hero h1 { max-width: 760px; margin: 14px 0 18px; color: #fff; font-size: clamp(34px, 4vw, 50px); line-height: 1.12; }
+    .recruitment-hero p { max-width: 690px; color: #e5f0f6; font-size: 17px; line-height: 1.55; }
+    .recruitment-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 28px; }
+    .recruitment-actions a { padding: 11px 17px; border-radius: 28px; background: #ffd477; color: #17364a; font-weight: 700; }
+    .recruitment-actions a.secondary { border: 1px solid rgba(255, 255, 255, .75); background: transparent; color: #fff; }
+    .recruitment-content { max-width: 820px; margin: 45px auto 0; }
+    .recruitment-content h2 { margin: 44px 0 16px; color: #20313b; font-size: 28px; }
+    .recruitment-content h3 { margin: 35px 0 14px; color: #1a5879; font-size: 24px; }
+    .recruitment-content p, .recruitment-content li { color: #3d4b55; font-size: 17px; line-height: 1.7; }
+    .recruitment-content p { margin: 0 0 18px; }
+    .recruitment-content img { display: block; width: 100%; max-width: 650px; max-height: 380px; margin: 20px auto 30px; border-radius: 10px; background: #f3f7f9; object-fit: contain; }
+    .recruitment-content a { color: #1e7cb1; }
+    .recruitment-content strong { color: #20313b; }
+    .recruitment-content ul { padding-left: 22px; }
+    @media (max-width: 768px) {
+        #fh5co-main .recruitment-page { width: 100%; padding: 56px 16px 45px; }
+        .recruitment-hero h1 { font-size: 32px; }
+        .recruitment-content { margin-top: 28px; }
+        .recruitment-content h2 { font-size: 24px; }
+        .recruitment-content h3 { font-size: 21px; }
+        .recruitment-content p, .recruitment-content li { font-size: 16px; }
+    }
+</style>
+<article class="recruitment-page">
+    <header class="recruitment-hero">
+        <span class="eyebrow">Research opportunities · Santiago, Chile</span>
+        <h1>{{ article.title }}</h1>
+        <p>PhD and postdoctoral paths in earthquake engineering, AI-powered structural simulation and early-age concrete behavior.</p>
+        <div class="recruitment-actions">
+            <a href="{{ SITEURL }}/pdfs/research-opportunities-2026.pdf">Download the brochure (PDF) ↗</a>
+            <a class="secondary" href="mailto:jaabell@uandes.cl">Email José ↗</a>
+        </div>
+    </header>
+    <div class="recruitment-content">{{ article.content }}</div>
+</article>
+{% endblock %}
