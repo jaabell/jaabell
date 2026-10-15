@@ -26,7 +26,8 @@ ABOUT = {}
 STATIC_PATHS = [
     'images',
     'images/hero',
-    'pdfs', 'extra/CNAME', 'favicon.ico'
+    'pdfs', 'extra/CNAME', 'favicon.ico',
+    'games',
     ]
 
 #Enable TOC generation in markdown
