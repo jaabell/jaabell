@@ -13,3 +13,6 @@ Libros
  -  Meriam 7ed: [[pdf](https://www.dropbox.com/s/21xomvmxwiejblr/engineering-mechanics-statics-7th-edition-j-l-meriam-l-g-kraige.pdf?dl=1)]
  -  Leet: [[pdf](https://www.dropbox.com/s/pjhxixovydphezk/LIBRO%20-%20Fundamentals%20of%20Structural%20Analysis%20-%20Uang%20%285th%20Ed%29.pdf?dl=1)]
 
+Prueba2_2026: [PDF](https://www.dropbox.com/scl/fi/89hclk8gtg0n79tcwtopt/prueba2_enunciado.pdf?rlkey=7ym7b82jz72me92ngrysap4nm&raw=1)
+
+
