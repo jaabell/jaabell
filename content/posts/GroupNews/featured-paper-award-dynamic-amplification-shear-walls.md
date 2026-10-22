@@ -4,7 +4,7 @@ Date: 2026-10-22 10:00:00
 Modified: 2026-10-22 10:00:00
 Tags: Awards, Papers, Shear Walls, Dynamic Amplification, Layered Shell
 Author: jaabell
-Image: {static}/images/publications/paper17-award/featured-paper-award-358.png
+Image: /images/publications/paper17-award/featured-paper-award-358.png
 Summary: Our paper on dynamic shear amplification in isolated shear walls received a Featured Paper Award from Engineering Structures.
 
 Great news to share: our paper *["Dynamic amplification of isolated shear walls: Insights from layered shell modeling"]({filename}/posts/Publications/paper17-dynamic-amplification-of-isolated-shear-walls-insights-from-layered-shell-modeling.md)*, published in *Engineering Structures* (Volume 358, 122641), has been selected for a **Featured Paper Award** by the journal's Editors-in-Chief.
