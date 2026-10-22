@@ -18,6 +18,7 @@ Select a paper to read its overview and follow the publication link.
 <details class="pub-entry" markdown="1">
 <summary>
 <span class="pub-venue">Engineering Structures · 2026</span>
+<span class="pub-award-badge">🏆 Featured Paper Award</span>
 <strong>Dynamic amplification of isolated shear walls: Insights from layered shell modeling</strong>
 <span class="pub-authors">Patricio Palacios B., Nicolás Mora Bowen, Rafael Delpiano, José A. Abell</span>
 <span class="pub-source">358, 122641 · DOI: 10.1016/j.engstruct.2026.122641</span>
@@ -25,7 +26,7 @@ Select a paper to read its overview and follow the publication link.
 
 {! content/abstracts/paper17-abstract.md !}
 
-<div class="pub-actions"><a href="https://doi.org/10.1016/j.engstruct.2026.122641">Read paper ↗</a><a href="{filename}../posts/Publications/paper17-dynamic-amplification-of-isolated-shear-walls-insights-from-layered-shell-modeling.md">Blog post ↗</a></div>
+<div class="pub-actions"><a href="https://doi.org/10.1016/j.engstruct.2026.122641">Read paper ↗</a><a href="{filename}../posts/Publications/paper17-dynamic-amplification-of-isolated-shear-walls-insights-from-layered-shell-modeling.md">Blog post ↗</a><a href="{filename}../posts/GroupNews/featured-paper-award-dynamic-amplification-shear-walls.md">Award announcement ↗</a></div>
 </details>
 
 <h3>2025</h3>
