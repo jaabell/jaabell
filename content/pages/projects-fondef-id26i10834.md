@@ -12,7 +12,7 @@ status: hidden
 
 **Prediction and Mitigation of Early-Age Cracking in Mass Concrete Elements** *(Sistema de predicción y mitigación de agrietamiento de elementos masivos de hormigón)*
 
-*FONDEF IDeA I+D ID26I10834 · ANID (Chile) · Director: José A. Abell · Universidad de los Andes · 2026–2028 · with industry partners*
+*FONDEF IDeA I+D ID26I10834 · ANID (Chile) · Director: José A. Abell · Universidad de los Andes · 2026–2028 · with industry partners Melón Hormigones and ASDEA Engineering*
 
 <div style="background:#f3f7fb; border-left:4px solid #2a6db0; padding:14px 18px; margin:20px 0;">
 <strong>PhD and postdoctoral opportunities.</strong> See <a href="#join">who can join</a> below, then read the <a href="{filename}/posts/GroupNews/phd-postdoc-research-opportunities.md">recruitment post</a> for funding and eligibility.
@@ -41,6 +41,15 @@ The project develops a science-based system to **predict, mitigate and document*
 <p style="text-align:center"><em>Numerical model of a mass concrete foundation, a typical element at risk of early-age thermal cracking.</em></p>
 
 The project builds on a line of work at Universidad de los Andes since 2019: thermal models validated against instrumented concrete blocks, low-cost semi-adiabatic calorimeters, and a coupled thermo-mechanical constitutive formulation implemented in OpenSees (see the master's theses on the [People]({filename}09people.md) page). The goal is to take this technology to a laboratory-validated prototype.
+
+## Industry partners
+
+This project is supported by **Melón Hormigones** (Chile) and **ASDEA Engineering** (Italy). Thank you both for backing this work.
+
+<div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:48px; margin:20px 0 10px;">
+<img src="{static}/images/projects/fondef-id26i10834/partners/melon-hormigones.png" alt="Melón Hormigones logo" style="height:48px;"/>
+<img src="{static}/images/projects/fondef-id26i10834/partners/asdea-engineering.png" alt="ASDEA Engineering logo" style="height:72px;"/>
+</div>
 
 ## Join the project {: #join }
 
