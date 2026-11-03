@@ -28,6 +28,7 @@ STATIC_PATHS = [
     'images/hero',
     'pdfs', 'extra/CNAME', 'favicon.ico',
     'games',
+    'apps',
     ]
 
 #Enable TOC generation in markdown
@@ -164,6 +165,14 @@ I18N_SUBSITES = {
 # special content
 HERO = [
   {
+    'image': '/images/hero/srf-explorer-fault-model.jpg',
+    'title': {
+      'en':'José Abell\'s Research Blog',
+    },
+    'text': {
+      'en': 'Numerical modeling in engineering | Earthquakes | HPC | OpenSource',
+    },
+  }, {
     'image': '/images/hero/uandes-fm-above.jpg',
     # for multilanguage support, create a simple dict
     'title': {
